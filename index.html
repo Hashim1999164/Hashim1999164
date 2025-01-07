@@ -6,30 +6,39 @@
     <title>Deep Linking Example</title>
 </head>
 <body>
-    <button id="openLink">Open Link</button>
+    <button id="openLink">Open Daraz App</button>
 
     <script>
+        // Deep link for the Daraz app (this will be used for both iOS and Android)
+        var appDeepLink = 'daraz://s.daraz.pk/s.ZrybM?cc'; // Custom deep link scheme for the app
+        var fallbackUrl = 'https://s.daraz.pk/s.ZrybM?cc'; // URL to open in the browser
+
+        // Timeout for fallback in case the app isn't opened (for iOS and Android)
+        var timeout;
+
+        // Handle opening the Daraz app or fallback to the browser
         document.getElementById('openLink').addEventListener('click', function() {
-            // The deep link
-            var deepLink = 'myapp://s.daraz.pk/s.ZrybM?cc'; // The custom scheme for the app
-            var fallbackUrl = 'https://s.daraz.pk/s.ZrybM?cc'; // The URL to open in the browser
+            // Open the browser first
+            window.location = fallbackUrl;
 
-            // First, try to open the app using the deep link (for mobile platforms)
-            var timeout;
-
-            // Redirect to the deep link for mobile devices (iOS/Android)
-            window.location = deepLink;
-
-            // Set a timeout to redirect to the browser if the app isn't installed
+            // After a short delay, attempt to open the app using the deep link
             timeout = setTimeout(function() {
-                window.location = fallbackUrl;
-            }, 1000); // Delay to wait for the app to launch, then fallback to the browser
+                // Attempt to open the app
+                window.location = appDeepLink;
+            }, 1500); // Set delay to allow browser to load first, before trying to open the app
 
-            // Check if running on mobile device
+            // Check if the user is on mobile (iOS or Android)
             if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android)/)) {
-                // Further logic for Android and iOS can be handled here if needed
+                // Set up additional checks or platform-specific logic if needed
+                // For example, you can detect whether it is an iOS or Android device and adjust the behavior.
             }
         });
+
+        // Initial page load behavior to open the browser first (on any platform)
+        if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android)/)) {
+            // Immediately open the link in the browser when the page loads
+            window.location = fallbackUrl;
+        }
     </script>
 </body>
 </html>
