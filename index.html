@@ -5,13 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirecting...</title>
     <script>
+
+        function convertToSimpleUrl(url) {
+            // If the URL contains "intent://", convert it to a simple URL by removing the "intent://" part
+            if (url.startsWith('intent://')) {
+                var simpleUrl = url.split('#')[0]; // Remove the intent part and keep the base URL
+                return simpleUrl;
+            }
+            return url;
+        }
+        
         function detectPlatformAndRedirect(url) {
             var userAgent = navigator.userAgent || navigator.vendor || window.opera;
 
+            
+            // Convert the URL to a simple URL if not on Android
+            var simpleUrl = convertToSimpleUrl(url);
+
             // URL to open in different platforms
-            var iosUrl = url; // For iOS Safari
-            var androidIntentUrl = url; //"intent://c.daraz.pk/t/c.U3vn#Intent;scheme=https;package=com.daraz.android;end"; // For Android Chrome
-            var fallbackUrl = url; // Fallback for other platforms
+            var iosUrl = simpleUrl; // For iOS Safari
+            var androidIntentUrl = url; // For Android Chrome (intent URL)
+            var fallbackUrl = simpleUrl; // Fallback for other platforms
 
             // Redirect for iOS Safari
             if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
