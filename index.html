@@ -9,35 +9,42 @@
     <button id="openLink">Open Daraz App</button>
 
     <script>
-        // Deep link for the Daraz app (this will be used for both iOS and Android)
-        var appDeepLink = 'daraz://s.daraz.pk/s.ZrybM?cc'; // Custom deep link scheme for the app
-        var fallbackUrl = 'https://s.daraz.pk/s.ZrybM?cc'; // URL to open in the browser
+        // Deep link for Daraz app
+        var appDeepLink = 'daraz://s.daraz.pk/s.ZrybM?cc';  // Custom deep link scheme for the Daraz app
+        var fallbackUrl = 'https://s.daraz.pk/s.ZrybM?cc';   // URL to open in the browser
 
-        // Timeout for fallback in case the app isn't opened (for iOS and Android)
+        // Timeout variable for deep link fallback
         var timeout;
 
-        // Handle opening the Daraz app or fallback to the browser
-        document.getElementById('openLink').addEventListener('click', function() {
-            // Open the browser first
-            window.location = fallbackUrl;
+        // Force open in external browser, not in-app browser (like Instagram's browser)
+        function openInExternalBrowser(url) {
+            var isIos = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+            var isAndroid = /Android/i.test(navigator.userAgent);
+            
+            // Open in a new window or tab
+            window.open(url, '_blank');
+        }
 
-            // After a short delay, attempt to open the app using the deep link
+        // Handle the button click
+        document.getElementById('openLink').addEventListener('click', function() {
+            // First, open the fallback URL in an external browser (this will be the browser itself or the Instagram app's external browser)
+            openInExternalBrowser(fallbackUrl);
+
+            // After a delay, try to open the Daraz app using deep linking
             timeout = setTimeout(function() {
                 // Attempt to open the app
                 window.location = appDeepLink;
-            }, 1500); // Set delay to allow browser to load first, before trying to open the app
+            }, 2000); // Delay time before falling back to the app (2 seconds)
 
-            // Check if the user is on mobile (iOS or Android)
+            // Check if the user is on mobile
             if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android)/)) {
-                // Set up additional checks or platform-specific logic if needed
-                // For example, you can detect whether it is an iOS or Android device and adjust the behavior.
+                // You can add additional checks here for platform-specific logic, but generally, the fallback approach is sufficient.
             }
         });
 
-        // Initial page load behavior to open the browser first (on any platform)
+        // Force the page to open in an external browser initially
         if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android)/)) {
-            // Immediately open the link in the browser when the page loads
-            window.location = fallbackUrl;
+            openInExternalBrowser(fallbackUrl); // Open the fallback URL (browser)
         }
     </script>
 </body>
