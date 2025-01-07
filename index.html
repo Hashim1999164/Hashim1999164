@@ -3,35 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirecting...</title>
-    <script>
-        function detectPlatformAndRedirect() {
-            var userAgent = navigator.userAgent || navigator.vendor || window.opera;
-
-            // URL to open in different platforms
-            var iosUrl = "https://linktr.ee/daraz_home_finds"; // For iOS Safari
-            var androidIntentUrl = "intent://linktr.ee/daraz_home_finds#Intent;scheme=https;package=com.android.chrome;end"; // For Android Chrome
-            var fallbackUrl = "https://linktr.ee/daraz_home_finds"; // Fallback for other platforms
-
-            // Redirect for iOS Safari
-            if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
-                window.location.href = iosUrl;
-            }
-            // Redirect for Android Chrome using intent
-            else if (/android/i.test(userAgent)) {
-                window.location.href = androidIntentUrl;
-            }
-            // Fallback redirect for other platforms
-            else {
-                window.location.href = fallbackUrl;
-            }
-        }
-
-        // Execute the redirect function on page load
-        window.onload = detectPlatformAndRedirect;
-    </script>
+    <title>Deep Linking Example</title>
 </head>
 <body>
-    <p>If you are not redirected automatically, <a href="https://linktr.ee/daraz_home_finds">click here</a>.</p>
+    <button id="openLink">Open Link</button>
+
+    <script>
+        document.getElementById('openLink').addEventListener('click', function() {
+            // The deep link
+            var deepLink = 'myapp://s.daraz.pk/s.ZrybM?cc'; // The custom scheme for the app
+            var fallbackUrl = 'https://s.daraz.pk/s.ZrybM?cc'; // The URL to open in the browser
+
+            // First, try to open the app using the deep link (for mobile platforms)
+            var timeout;
+
+            // Redirect to the deep link for mobile devices (iOS/Android)
+            window.location = deepLink;
+
+            // Set a timeout to redirect to the browser if the app isn't installed
+            timeout = setTimeout(function() {
+                window.location = fallbackUrl;
+            }, 1000); // Delay to wait for the app to launch, then fallback to the browser
+
+            // Check if running on mobile device
+            if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android)/)) {
+                // Further logic for Android and iOS can be handled here if needed
+            }
+        });
+    </script>
 </body>
 </html>
