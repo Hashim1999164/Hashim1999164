@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting...</title>
+    <script>
+        function detectPlatformAndRedirect() {
+            var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+            // URL to open in different platforms
+            var iosUrl = "https://linktr.ee/Daraz.hubb"; // For iOS Safari
+            var androidIntentUrl = "intent://linktr.ee/Daraz.hubb#Intent;scheme=https;package=com.android.chrome;end"; // For Android Chrome
+            var fallbackUrl = "https://linktr.ee/Daraz.hubb"; // Fallback for other platforms
+
+            // Redirect for iOS Safari
+            if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+                window.location.href = iosUrl;
+            }
+            // Redirect for Android Chrome using intent
+            else if (/android/i.test(userAgent)) {
+                window.location.href = androidIntentUrl;
+            }
+            // Fallback redirect for other platforms
+            else {
+                window.location.href = fallbackUrl;
+            }
+        }
+
+        // Execute the redirect function on page load
+        window.onload = detectPlatformAndRedirect;
+    </script>
+</head>
+<body>
+    <p>If you are not redirected automatically, <a href="https://linktr.ee/Daraz.hubb">click here</a>.</p>
+</body>
+</html>
