@@ -7,13 +7,18 @@
     <script>
 
         function convertToSimpleUrl(url) {
-            // If the URL contains "intent://", convert it to a simple URL by removing the "intent://" part
-            if (url.startsWith('intent://')) {
-                var simpleUrl = url.split('#')[0]; // Remove the intent part and keep the base URL
-                return simpleUrl;
-            }
-            return url;
-        }
+    // If the URL contains "intent://", replace it with "https://" and remove everything after "#"
+    if (url.startsWith('intent://')) {
+        // Replace the first occurrence of "intent://" with "https://"
+        var simpleUrl = url.replace('intent://', 'https://');
+        
+        // Remove everything after "#" in the URL, if it exists
+        simpleUrl = simpleUrl.split('#')[0];
+        
+        return simpleUrl;
+    }
+    return url;
+}
         
         function detectPlatformAndRedirect(url) {
             var userAgent = navigator.userAgent || navigator.vendor || window.opera;
