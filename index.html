@@ -3,10 +3,85 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirecting...</title>
-    <script>
+    <meta property="og:title" content="Daraz Home Finds" />
+    <meta property="og:description" content="🌟 Exploring Daraz home products for you! 🛋️✨ Discover the best finds to elevate your space." />
+    <meta property="og:image" content="logo.png" />
+    <meta property="og:url" content="https://linktr.ee/daraz_home_finds" />
+    <title>Daraz Home Finds</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #89f7fe, #66a6ff);
+            color: #ffffff;
+            text-align: center;
+        }
 
-        function convertToSimpleUrl(url) {
+        .logo {
+            position: absolute;
+            top: 20px;
+            width: 120px;
+            height: auto;
+        }
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .loader {
+            margin: 20px 0;
+            border: 6px solid rgba(255, 255, 255, 0.3);
+            border-top: 6px solid #ffffff;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        .redirect-text {
+            font-size: 1.5rem;
+            margin-top: 20px;
+        }
+
+        .button-container {
+            margin-top: 30px;
+        }
+
+        button {
+            background-color: #ffffff;
+            color: #66a6ff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 20px;
+            font-size: 1rem;
+            cursor: pointer;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        button:hover {
+            background-color: #f0f0f0;
+        }
+
+    </style>
+    <script>
+         function convertToSimpleUrl(url) {
     // If the URL contains "intent://", replace it with "https://" and remove everything after "#"
     if (url.startsWith('intent://')) {
         // Replace the first occurrence of "intent://" with "https://"
@@ -49,10 +124,20 @@
         }
 
         window.onload = detectPlatformAndRedirect;
+
     </script>
 </head>
 <body>
-    <!-- Button to trigger redirect -->
-     <button onclick="detectPlatformAndRedirect('intent://linktr.ee/daraz_home_finds#Intent;scheme=https;package=com.android.chrome;end')">If you are not redirected automatically, Click here</button>
+    <img 
+  src="logo.jpg" 
+  alt="Logo" 
+  style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;">
+    <div class="content">
+        <div class="loader"></div>
+        <div class="redirect-text">Redirecting you to the requested page. Please wait...</div>
+        <div class="button-container">
+            <button onclick="detectPlatformAndRedirect('intent://linktr.ee/daraz_home_finds#Intent;scheme=https;package=com.android.chrome;end')">If you are not redirected automatically, Click here</button>
+        </div>
+    </div>
 </body>
 </html>
