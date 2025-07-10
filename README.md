@@ -54,7 +54,6 @@ I'm a **Senior iOS Engineer** specializing in banking applications with a passio
 
 ## 🏆 Core Competencies
 
-```swift
 struct iOSDeveloper {
     let name = "Hashim Khan"
     let specialization = "Banking Applications"
