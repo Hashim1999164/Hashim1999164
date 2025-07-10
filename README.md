@@ -81,7 +81,7 @@
     <p><strong>Company:</strong> Aion Digital — Remote / Manama, Bahrain</p>
     <p><strong>Duration:</strong> 08 May 2022 – Present</p>
     <ul>
-      <li>Led large-scale FinTech iOS projects using Clean Swift architecture</li>
+      Led large-scale FinTech iOS projects using Clean Swift architecture
       <li>Managed App Store, TestFlight, and Microsoft App Center releases</li>
       <li>Contributed to banking apps for KFH Bahrain and Kuwait</li>
       <li>Resolved bugs, reduced crash rates, optimized UI/UX</li>
