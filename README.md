@@ -78,27 +78,29 @@
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; max-width: 800px; margin-bottom: 1.5rem;">
     <h3>Senior Software Engineer (iOS)</h3>
-    <p><strong>Company:</strong> Aion Digital — Remote / Manama, Bahrain</p>
-    <p><strong>Duration:</strong> May 2022 – Present</p>
-    <ul>
-      <li>Led large-scale FinTech iOS projects using Clean Swift architecture</li>
-      <li>Managed App Store, TestFlight, and Microsoft App Center releases</li>
-      <li>Contributed to banking apps for KFH Bahrain and Kuwait (Retail & Corporate)</li>
-      <li>Implemented business logic and UX designs for Anglo-Gulf Trade Bank</li>
-      <li>Resolved bugs, reduced crash rates, and optimized UI/UX performance</li>
-    </ul>
+    <p><strong>Company:</strong> <a href="https://www.aiondigital.com" target="_blank">Aion Digital</a> — Remote / Manama, Bahrain</p>
+    <p><strong>Duration:</strong> March 2024 – Present</p>
+    <p>• Leading iOS development for a banking app, ensuring smooth performance and business alignment.</p>
+    <p>• Improving app performance, resolving complex issues, and collaborating with designers and backend teams.</p>
+    <p>• Managing releases, adhering to deadlines, and promoting best coding practices.</p>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; max-width: 800px; margin-bottom: 1.5rem;">
-    <h3>Software Engineer - iOS Developer</h3>
-    <p><strong>Company:</strong> Mercurial Minds Pvt. Ltd — Islamabad, Pakistan</p>
+    <h3>Junior iOS Developer</h3>
+    <p><strong>Company:</strong> <a href="https://www.aiondigital.com" target="_blank">Aion Digital</a> — Remote / Manama, Bahrain</p>
+    <p><strong>Duration:</strong> May 2022 – March 2024</p>
+    <p>• Developed a large-scale banking app for iOS using Clean Swift Architecture.</p>
+    <p>• Added new features, resolved issues, and supported app distribution via TestFlight, App Store, and Microsoft App Center.</p>
+    <p>• Provided user support and troubleshooting.</p>
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; max-width: 800px; margin-bottom: 1.5rem;">
+    <h3>iOS Developer Intern</h3>
+    <p><strong>Company:</strong> <a href="https://www.mercurialminds.com" target="_blank">Mercurial Minds</a> — Islamabad, Pakistan</p>
     <p><strong>Duration:</strong> September 2021 – April 2022</p>
-    <ul>
-      <li>Built iOS applications and SDKs using MVC/MVVM architectures</li>
-      <li>Published apps to App Store and SDKs to CocoaPods</li>
-      <li>Worked in Agile/Scrum environment with daily standups</li>
-      <li>Developed MySmile App and VerifApp SDK</li>
-    </ul>
+    <p>• Contributed to iOS apps and SDKs using MVC and MVVM architectures.</p>
+    <p>• Published apps on the App Store and SDKs on CocoaPods.</p>
+    <p>• Collaborated in Agile/Scrum teams and assisted with backend (Node.js) and Android (Kotlin) development.</p>
   </div>
 
 </div>
@@ -110,7 +112,7 @@
     <h3>Bachelor's in Information Technology</h3>
     <p><strong>University:</strong> Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR)</p>
     <p>📍 Rawalpindi, Pakistan</p>
-    <p>📅 October 2017 – September 2021</p>
+    <p>📅 September 2017 – August 2021</p>
     <a href="https://www.uaar.edu.pk/" target="_blank">Visit University Website</a>
   </div>
 </div>
