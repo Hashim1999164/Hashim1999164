@@ -1,7 +1,7 @@
 <!-- Animated Header with waving effect -->
 
 <div align="center">
-<a href="https://github.com/your-github-username"> <!-- Remember to replace 'your-github-username' -->
+<a href="https://github.com/Hashim1999164"> <!-- Updated GitHub username -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a84ff,1c1c1e,2c2c2e&height=120&section=header&text=Hashim%20Khan&fontAlignY=35&desc=Senior%20Software%20Engineer%20(iOS)%20|%20Mobile%20%26%20Backend&descAlignY=50&animation=fadeIn&fontColor=f2f2f7" alt="header" width="100%" />
 </a>
 </div>
@@ -21,13 +21,13 @@
 <a href="https://www.linkedin.com/in/hashim-khan-953180175/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="LinkedIn" />
 </a>
-<a href="https://github.com/your-github-username" target="_blank"> <!-- Remember to replace 'your-github-username' -->
+<a href="https://github.com/Hashim1999164" target="_blank"> <!-- Updated GitHub username -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
 </a>
 </div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0a84ff&style=flat" alt="Profile Views" /> <!-- Remember to replace 'your-github-username' -->
+<img src="https://komarev.com/ghpvc/?username=Hashim1999164&label=Profile%20Views&color=0a84ff&style=flat" alt="Profile Views" /> <!-- Updated GitHub username -->
 </p>
 
 <!-- Removed Animated Divider GIF as requested -->
@@ -158,19 +158,19 @@ Intermediate
 <a href="https://www.linkedin.com/in/hashim-khan-953180175/" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/your-github-username" target="_blank"> <!-- Remember to replace 'your-github-username' -->
+<a href="https://github.com/Hashim1999164" target="_blank"> <!-- Updated GitHub username -->
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/Hashim1999164">
 <img src="https://img.shields.io/badge/iOS_DEVELOPER-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Developer" />
 </a>
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/Hashim1999164">
 <img src="https://img.shields.io/badge/MOBILE_ENGINEER-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Engineer" />
 </a>
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/Hashim1999164">
 <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-58A6FF?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Software Engineer" />
 </a>
 </p>
