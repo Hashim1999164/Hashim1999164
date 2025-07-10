@@ -30,9 +30,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0a84ff&style=flat" alt="Profile Views" /> <!-- Remember to replace 'your-github-username' -->
 </p>
 
-<!-- Animated Divider -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider GIF">
+<!-- Removed Animated Divider GIF as requested -->
 
 <table align="center" border="0">
 <tr>
@@ -150,9 +148,7 @@ Intermediate
 <img src="https://img.shields.io/badge/Advanced_Concurrency-663399?style=flat-square&logo=swift" alt="Advanced Concurrency" />
 </p>
 
-<div align="center">
-<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="220px" alt="Coding GIF">
-</div>
+<!-- Removed Coding GIF as requested -->
 
 🤝 Let's Connect!
 <p align="center">
