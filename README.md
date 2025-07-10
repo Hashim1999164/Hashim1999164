@@ -79,39 +79,39 @@
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; max-width: 800px; margin-bottom: 1.5rem;">
     <h3>Senior Software Engineer (iOS)</h3>
     <p><strong>Company:</strong> Aion Digital — Remote / Manama, Bahrain</p>
-    <p><strong>Duration:</strong> 08 May 2022 – Present</p>
+    <p><strong>Duration:</strong> May 2022 – Present</p>
     <ul>
-      Led large-scale FinTech iOS projects using Clean Swift architecture
+      <li>Led large-scale FinTech iOS projects using Clean Swift architecture</li>
       <li>Managed App Store, TestFlight, and Microsoft App Center releases</li>
-      <li>Contributed to banking apps for KFH Bahrain and Kuwait</li>
-      <li>Resolved bugs, reduced crash rates, optimized UI/UX</li>
+      <li>Contributed to banking apps for KFH Bahrain and Kuwait (Retail & Corporate)</li>
+      <li>Implemented business logic and UX designs for Anglo-Gulf Trade Bank</li>
+      <li>Resolved bugs, reduced crash rates, and optimized UI/UX performance</li>
     </ul>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; max-width: 800px; margin-bottom: 1.5rem;">
-    <h3>iOS Developer</h3>
+    <h3>Software Engineer - iOS Developer</h3>
     <p><strong>Company:</strong> Mercurial Minds Pvt. Ltd — Islamabad, Pakistan</p>
-    <p><strong>Duration:</strong> 27 September 2021 – 01 April 2022</p>
+    <p><strong>Duration:</strong> September 2021 – April 2022</p>
     <ul>
-      <li>Built iOS applications and SDKs using MVC/MVVM</li>
+      <li>Built iOS applications and SDKs using MVC/MVVM architectures</li>
       <li>Published apps to App Store and SDKs to CocoaPods</li>
-      <li>Worked in Agile/Scrum teams with daily updates and sprints</li>
+      <li>Worked in Agile/Scrum environment with daily standups</li>
+      <li>Developed MySmile App and VerifApp SDK</li>
     </ul>
   </div>
 
 </div>
-
-
 
 <!-- Education Section -->
 <h2 align="center">🎓 Education</h2>
 <div align="center" style="margin-bottom: 2rem;">
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; max-width: 600px;">
     <h3>Bachelor's in Information Technology</h3>
-    <p>Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR)</p>
+    <p><strong>University:</strong> Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR)</p>
     <p>📍 Rawalpindi, Pakistan</p>
-    <p>📅 01 October 2017 – 01 September 2021</p>
-    <a href="https://www.uaar.edu.pk/">Visit University Website</a>
+    <p>📅 October 2017 – September 2021</p>
+    <a href="https://www.uaar.edu.pk/" target="_blank">Visit University Website</a>
   </div>
 </div>
 
