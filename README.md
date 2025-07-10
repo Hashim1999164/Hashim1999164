@@ -20,8 +20,8 @@
   <a href="mailto:sardarhashim30@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=AA3A2A" />
   </a>
-  <a href="tel:+923145201562">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1DA851" />
+  <a href="https://api.whatsapp.com/send?phone=923145201562&text=Hi%20Hashim%2C%20I%20saw%20your%20profile%20and%20would%20like%20to%20connect!">
+    <img src="https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" />
   </a>
   <a href="https://github.com/Hashim1999164">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" />
