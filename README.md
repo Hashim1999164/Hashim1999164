@@ -70,129 +70,136 @@
         }
     }
 
-</td> </tr> </table><!-- Tech Stack Section -->
-🛠️ Technical Arsenal
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ Technical Arsenal</h2>
 <div align="center">
-📱 iOS Development
-<p> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/CoreData-3498DB?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" /> </p>
-🏗 Architecture & Patterns
-<p> <img src="https://img.shields.io/badge/Clean_Swift-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVVM-8E44AD?style=for-the-badge" /> <img src="https://img.shields.io/badge/VIPER-3498DB?style=for-the-badge" /> <img src="https://img.shields.io/badge/SOLID-27AE60?style=for-the-badge" /> </p>
-🔒 Security & Testing
-<p> <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white" /> <img src="https://img.shields.io/badge/Biometrics-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Unit_Testing-FF6347?style=for-the-badge" /> <img src="https://img.shields.io/badge/SSL_Pinning-228B22?style=for-the-badge" /> </p> </div><!-- Experience Section -->
-💻 Professional Journey
-🔹 Aion Digital - Senior iOS Engineer (05/2022 - Present)
-Manama, Bahrain (Remote)
-FinTech solutions for banking sector
+  <h3>📱 iOS Development</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/CoreData-3498DB?style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
+  </p>
 
-Led development of KFH Jazeel Banking app with 500k+ users
+  <h3>🏗 Architecture & Patterns</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Clean_Swift-FF6B6B?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MVVM-8E44AD?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/VIPER-3498DB?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SOLID-27AE60?style=for-the-badge" />
+  </p>
 
-Implemented Clean Swift architecture across all projects
-
-Reduced crash rate by 60% through systematic debugging
-
-Automated CI/CD pipelines reducing release time by 30%
-
-Mentored junior developers in banking app best practices
-
-🔹 Mercurial Minds - iOS Developer (09/2021 - 04/2022)
-Islamabad, Pakistan
-Mobile development agency
-
-Published MySmile App on App Store
-
-Developed VerifApp SDK for phone number verification
-
-Created multiple SDKs published on CocoaPods
-
-Worked with MVC and MVVM architectures
-
-Collaborated with Android team on cross-platform solutions
+  <h3>🔒 Security & Testing</h3>
+  <p>
+    <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white" />
+    <img src="https://img.shields.io/badge/Biometrics-8A2BE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Unit_Testing-FF6347?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/SSL_Pinning-228B22?style=for-the-badge" />
+  </p>
+</div>
 
 <!-- Projects Section -->
-🏗️ Banking Projects Portfolio
-<table> <tr> <td width="33%" valign="top">
-🏦 KFH Jazeel Banking
-https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
+<h2 align="center">🏗️ Banking Projects Portfolio</h2>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
 
-Retail banking app for Kuwait Finance House
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+    <h3>🏦 KFH Jazeel Banking</h3>
+    <a href="https://apps.apple.com/tj/app/kfh-jazeel-banking/id1369601727">
+      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+    <ul>
+      <li>Retail banking app for Kuwait Finance House</li>
+      <li>Clean Swift architecture</li>
+      <li>Real-time transaction processing</li>
+      <li>Biometric authentication</li>
+      <li>500k+ active users</li>
+    </ul>
+  </div>
 
-Clean Swift architecture
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+    <h3>🏢 KFHB Corporate</h3>
+    <a href="https://apps.apple.com/tj/app/kfhb-corporate/id1560148757">
+      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+    <ul>
+      <li>Corporate banking solution</li>
+      <li>Secure document sharing</li>
+      <li>Multi-level approval workflows</li>
+      <li>Trade finance features</li>
+      <li>Role-based access control</li>
+    </ul>
+  </div>
 
-Real-time transaction processing
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+    <h3>💳 FriendiPay Wallet</h3>
+    <img src="https://img.shields.io/badge/Coming_Soon-FF6B6B?style=for-the-badge" />
+    <ul>
+      <li>Digital mobile wallet</li>
+      <li>Social payment features</li>
+      <li>Secure onboarding flow</li>
+      <li>Real-time notifications</li>
+      <li>QR code payments</li>
+    </ul>
+  </div>
 
-Biometric authentication
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+    <h3>📦 Boubyan Bank SDK</h3>
+    <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
+    <ul>
+      <li>Onboarding SDK for banking apps</li>
+      <li>Biometric authentication</li>
+      <li>Form validation engine</li>
+      <li>Compliance with banking regulations</li>
+      <li>Modular architecture</li>
+    </ul>
+  </div>
 
-500k+ active users
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+    <h3>😊 MySmile App</h3>
+    <a href="https://apps.apple.com/ng/app/mysmile-app/id1514500366">
+      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+    <ul>
+      <li>Social networking application</li>
+      <li>Clean MVC architecture</li>
+      <li>REST API integration</li>
+      <li>Push notifications</li>
+      <li>Published on App Store</li>
+    </ul>
+  </div>
 
-</td> <td width="33%" valign="top">
-🏢 KFHB Corporate
-https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+    <h3>📱 VerifApp SDK</h3>
+    <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
+    <ul>
+      <li>Phone number verification</li>
+      <li>SMS code validation</li>
+      <li>Lightweight and modular</li>
+      <li>Published on CocoaPods</li>
+    </ul>
+  </div>
 
-Corporate banking solution
+</div>
 
-Secure document sharing
+<!-- Contact & Footer -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/hashim-khan-953180175/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" />
+  </a>
+  <a href="mailto:sardarhashim30@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=923145201562&text=Hi%20Hashim%2C%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20connect!">
+    <img src="https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" />
+  </a>
+</p>
 
-Multi-level approval workflows
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,0,2&height=100&section=footer&animation=twinkling" width="100%" />
+</div>
 
-Trade finance features
 
-Role-based access control
-
-</td> <td width="33%" valign="top">
-💳 FriendiPay Wallet
-https://img.shields.io/badge/Coming_Soon-FF6B6B?style=for-the-badge
-
-Digital mobile wallet
-
-Social payment features
-
-Secure onboarding flow
-
-Real-time notifications
-
-QR code payments
-
-</td> </tr> <tr> <td width="33%" valign="top">
-📦 Boubyan Bank SDK
-https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white
-
-Onboarding SDK for banking apps
-
-Biometric authentication
-
-Form validation engine
-
-Compliance with banking regulations
-
-Modular architecture
-
-</td> <td width="33%" valign="top">
-😊 MySmile App
-https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
-
-Social networking application
-
-Clean MVC architecture
-
-REST API integration
-
-Push notifications
-
-Published on App Store
-
-</td> <td width="33%" valign="top">
-📱 VerifApp SDK
-https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white
-
-Phone number verification
-
-SMS code validation
-
-Lightweight and modular
-
-Published on CocoaPods
-
-1000+ downloads
 
 </td> </tr> </table><!-- GitHub Stats -->
 📈 GitHub Analytics
