@@ -70,6 +70,9 @@
         }
     }
 
+</td> </tr> </table>
+
+
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ Technical Arsenal</h2>
 <div align="center">
@@ -201,7 +204,9 @@
 
 
 
-</td> </tr> </table><!-- GitHub Stats -->
+<!-- GitHub Stats -->
+
+
 📈 GitHub Analytics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hashim1999164&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashim1999164&layout=compact&langs_count=8&theme=algolia&hide_border=true"/> </div><!-- Skills Matrix -->
 📊 Technical Proficiency
