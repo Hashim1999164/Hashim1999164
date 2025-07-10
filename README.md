@@ -208,6 +208,33 @@
 
   <!-- Row 3 -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 48%; min-width: 250px;">
+    <h3>🌐 JS Bank Bahrain</h3>
+    <a href="https://apps.apple.com/us/app/js-bahrain/id6741843878">
+      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+    <ul>
+      <li>Corporate banking app</li>
+      <li>Trade finance features</li>
+      <li>Risk management tools</li>
+      <li>Regulatory compliance</li>
+    </ul>
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 48%; min-width: 250px;">
+    <h3>😊 MySmile App</h3>
+    <a href="https://apps.apple.com/ng/app/mysmile-app/id1514500366">
+      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+    <ul>
+      <li>Social networking app</li>
+      <li>MVC architecture</li>
+      <li>REST API integration</li>
+      <li>App Store published</li>
+    </ul>
+  </div>
+
+  <!-- Row 4 -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 48%; min-width: 250px;">
     <h3>🏦 KFH Kuwait Retail</h3>
     <ul>
       <li>Retail banking application</li>
@@ -227,19 +254,9 @@
     </ul>
   </div>
 
-  <!-- Row 4 -->
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 48%; min-width: 250px;">
-    <h3>🌐 JS Bank Bahrain</h3>
-    <a href="https://apps.apple.com/us/app/js-bahrain/id6741843878">
-      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-    </a>
-    <ul>
-      <li>Corporate banking app</li>
-      <li>Trade finance features</li>
-      <li>Risk management tools</li>
-      <li>Regulatory compliance</li>
-    </ul>
-  </div>
+  
+  
+  <!-- Row 5 -->
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 48%; min-width: 250px;">
     <h3>📦 Boubyan Bank Onboarding SDK</h3>
@@ -248,20 +265,6 @@
       <li>Biometric authentication</li>
       <li>iOS version compatibility</li>
       <li>Performance optimization</li>
-    </ul>
-  </div>
-
-  <!-- Row 5 -->
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 48%; min-width: 250px;">
-    <h3>😊 MySmile App</h3>
-    <a href="https://apps.apple.com/ng/app/mysmile-app/id1514500366">
-      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-    </a>
-    <ul>
-      <li>Social networking app</li>
-      <li>MVC architecture</li>
-      <li>REST API integration</li>
-      <li>App Store published</li>
     </ul>
   </div>
 
