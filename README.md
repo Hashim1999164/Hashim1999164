@@ -229,7 +229,10 @@
 
   <!-- Row 4 -->
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 48%; min-width: 250px;">
-    <h3>🌐 Anglo-Gulf Trade Bank</h3>
+    <h3>🌐 JS Bank Bahrain</h3>
+    <a href="https://apps.apple.com/us/app/js-bahrain/id6741843878">
+      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
     <ul>
       <li>Corporate banking app</li>
       <li>Trade finance features</li>
