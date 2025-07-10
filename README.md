@@ -54,17 +54,18 @@ I'm a **Senior iOS Engineer** specializing in banking applications with a passio
 
 ## 🏆 Core Competencies
 
-struct iOSDeveloper {
-    let name = "Hashim Khan"
-    let specialization = "Banking Applications"
-    let architectures = ["Clean Swift", "MVVM", "MVC"]
-    let techStack = ["Swift", "CocoaPods", "iOS SDK"]
-    let methodologies = ["Agile", "Scrum", "CI/CD"]
-    
     func solveProblem() -> Solution {
-        return elegantMobileSolution()
+      struct iOSDeveloper {
+        let name = "Hashim Khan"
+        let specialization = "Banking Applications"
+        let architectures = ["Clean Swift", "MVVM", "MVC"]
+        let techStack = ["Swift", "CocoaPods", "iOS SDK"]
+        let methodologies = ["Agile", "Scrum", "CI/CD"]
+        func solveProblem() -> Solution {
+            return elegantMobileSolution()
+        }
     }
-}
+
 </td> </tr> </table><!-- Experience Section -->
 💻 Professional Journey
 <details> <summary><b>🔹 Aion Digital - Senior iOS Engineer (03/2024 - Present)</b></summary>
