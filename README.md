@@ -151,7 +151,37 @@
 <h2 align="center">🏗️ Banking Projects Portfolio</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
 
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+  <!-- Row 1 - Live Projects -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 45%; min-width: 250px;">
+    <h3>👁️ VisionBank Mobile</h3>
+    <a href="https://apps.apple.com/ru/app/vision-bank-mobile-app/id6503427436?l=en-GB">
+      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+    <ul>
+      <li>Modern mobile banking application</li>
+      <li>Secure transaction processing</li>
+      <li>Biometric authentication</li>
+      <li>Real-time balance updates</li>
+      <li>Card management features</li>
+    </ul>
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 45%; min-width: 250px;">
+    <h3>💳 FriendiPay Oman</h3>
+    <a href="https://apps.apple.com/us/app/friendi-pay-oman/id6738409222?uo=2">
+      <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+    <ul>
+      <li>Digital mobile wallet for Oman market</li>
+      <li>Social payment features</li>
+      <li>Secure onboarding flow</li>
+      <li>QR code payments</li>
+      <li>Real-time notifications</li>
+    </ul>
+  </div>
+
+  <!-- Row 2 -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 45%; min-width: 250px;">
     <h3>🏦 KFH Jazeel Banking</h3>
     <a href="https://apps.apple.com/tj/app/kfh-jazeel-banking/id1369601727">
       <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
@@ -165,7 +195,7 @@
     </ul>
   </div>
 
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 45%; min-width: 250px;">
     <h3>🏢 KFHB Corporate</h3>
     <a href="https://apps.apple.com/tj/app/kfhb-corporate/id1560148757">
       <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
@@ -179,19 +209,20 @@
     </ul>
   </div>
 
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
-    <h3>💳 FriendiPay Wallet</h3>
-    <img src="https://img.shields.io/badge/Coming_Soon-FF6B6B?style=for-the-badge" />
+  <!-- Row 3 -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 45%; min-width: 250px;">
+    <h3>🌐 Anglo-Gulf Trade Bank</h3>
+    <img src="https://img.shields.io/badge/Corporate_Banking-0077B5?style=for-the-badge&logo=bank&logoColor=white" />
     <ul>
-      <li>Digital mobile wallet</li>
-      <li>Social payment features</li>
-      <li>Secure onboarding flow</li>
-      <li>Real-time notifications</li>
-      <li>QR code payments</li>
+      <li>Corporate banking application</li>
+      <li>Trade finance features</li>
+      <li>Risk management tools</li>
+      <li>Secure document exchange</li>
+      <li>Regulatory compliance</li>
     </ul>
   </div>
 
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 45%; min-width: 250px;">
     <h3>📦 Boubyan Bank SDK</h3>
     <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
     <ul>
@@ -203,7 +234,8 @@
     </ul>
   </div>
 
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+  <!-- Row 4 -->
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 45%; min-width: 250px;">
     <h3>😊 MySmile App</h3>
     <a href="https://apps.apple.com/ng/app/mysmile-app/id1514500366">
       <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
@@ -217,7 +249,7 @@
     </ul>
   </div>
 
-  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 30%; min-width: 250px;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 45%; min-width: 250px;">
     <h3>📱 VerifApp SDK</h3>
     <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
     <ul>
