@@ -243,7 +243,6 @@
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 48%; min-width: 250px;">
     <h3>📦 Boubyan Bank Onboarding SDK</h3>
-    <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
     <ul>
       <li>Onboarding SDK</li>
       <li>Biometric authentication</li>
@@ -268,7 +267,6 @@
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 1rem; width: 48%; min-width: 250px;">
     <h3>📱 VerifApp SDK</h3>
-    <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" />
     <ul>
       <li>Phone number verification</li>
       <li>SMS code validation</li>
