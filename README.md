@@ -1,13 +1,13 @@
 <!-- Animated Header with gradient waves -->
 <div align="center">
-  <a href="https://github.com/hashimkhan">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=150&section=header&text=Hashim%20Khan&fontAlignY=40&desc=Senior%20iOS%20Engineer%20|%20Banking%20Apps%20Specialist&descAlignY=65&animation=fadeIn&fontColor=ffffff" alt="header" width="100%" />
+  <a href="https://github.com/Hashim1999164">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=180&section=header&text=Hashim%20Khan&fontAlignY=40&desc=Senior%20iOS%20Engineer%20|%20FinTech%20Specialist&descAlignY=65&animation=fadeIn&fontColor=ffffff&descColor=ffffff" alt="header" width="100%" />
   </a>
 </div>
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Hello+World+👋+I'm+Hashim+Khan;Senior+iOS+Developer+💻;Banking+Apps+Specialist+🏦;Clean+Code+Advocate+🧹;Agile+Team+Player+🔄;Let's+Build+Something+Amazing+Together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Hello+World+👋+I'm+Hashim+Khan;Senior+iOS+Engineer+💻;FinTech+Banking+Specialist+🏦;Clean+Code+Advocate+🧹;3%2B+Years+of+Experience+📈;Let's+Build+Secure+Banking+Solutions+🔒" alt="Typing SVG" />
 </div>
 
 <!-- Animated Social Badges -->
@@ -15,20 +15,20 @@
   <a href="https://www.linkedin.com/in/hashim-khan-953180175/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005E8C" />
   </a>
-  <a href="mailto:sardanhashim30@gmail.com">
+  <a href="mailto:sardarhashim30@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=AA3A2A" />
   </a>
   <a href="tel:+923145201562">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1DA851" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1DA851" />
   </a>
-  <a href="https://github.com/hashimkhan">
+  <a href="https://github.com/Hashim1999164">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" />
   </a>
 </div>
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashimkhan&label=Profile%20Views&color=4A90E2&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Hashim1999164&label=Profile%20Views&color=4A90E2&style=flat" alt="Profile Views" />
 </p>
 
 <!-- Animated Divider -->
@@ -39,121 +39,180 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-I'm a **Senior iOS Engineer** specializing in banking applications with a passion for clean architecture and high-performance mobile solutions. With experience across the full stack, I bring a unique perspective to iOS development.
+**Senior iOS Engineer** specializing in **FinTech and banking applications** with 3+ years of experience developing secure, high-performance mobile solutions. Proven track record of delivering complex financial applications used by thousands of customers.
 
-- 💼 Currently leading iOS development at **Aion Digital**
-- 🏦 Banking apps specialist with deep financial domain knowledge
-- 🧩 Full-stack experience (iOS, Android, Backend)
-- 🏆 3+ years of professional iOS development
-- ☕ Fueled by coffee and complex problem-solving
+- 💼 Currently at **Aion Digital** (Remote)
+- 🏦 Banking apps specialist with deep financial domain expertise
+- 🛠️ Full-stack capabilities (iOS, Android, Backend)
+- 🏆 5+ production apps on App Store
+- 📦 Published multiple SDKs on CocoaPods
 
 </td>
 <td width="50%" valign="top">
 
-## 🏆 Core Competencies
+## 🏆 Core Expertise
 
-    func solveProblem() -> Solution {
-      struct iOSDeveloper {
+
+    func developApp() -> BankingApplication {
+      struct iOSBankingDeveloper {
         let name = "Hashim Khan"
-        let specialization = "Banking Applications"
-        let architectures = ["Clean Swift", "MVVM", "MVC"]
-        let techStack = ["Swift", "CocoaPods", "iOS SDK"]
-        let methodologies = ["Agile", "Scrum", "CI/CD"]
-        func solveProblem() -> Solution {
-            return elegantMobileSolution()
+        let specialization = "FinTech Solutions"
+        let architectures = ["Clean Swift", "MVVM", "VIPER"]
+        let techStack = ["Swift", "UIKit", "Combine", "CoreData"]
+        let security = ["OAuth2", "Biometrics", "SSL Pinning"]
+        
+        func developApp() -> BankingApplication {
+            return secureMobileBankingSolution()
         }
     }
 
-</td> </tr> </table><!-- Experience Section -->
-💻 Professional Journey
-<details> <summary><b>🔹 Aion Digital - Senior iOS Engineer (03/2024 - Present)</b></summary>
-🏦 Leading iOS development for a major banking application
-
-🚀 Improved app performance by 40% through optimization
-
-🔄 Implemented CI/CD pipelines reducing release time by 30%
-
-� Resolved complex threading and memory management issues
-
-👥 Mentored junior developers in Clean Swift architecture
-
-</details><details> <summary><b>🔹 Aion Digital - Junior iOS Developer (05/2022 - 03/2024)</b></summary>
-📱 Developed critical features for banking app with 500k+ users
-
-🧹 Implemented Clean Swift architecture across modules
-
-⏱️ Consistently delivered features ahead of sprint deadlines
-
-🛠️ Automated TestFlight deployments saving 10+ hours weekly
-
-🐛 Reduced crash rate by 60% through systematic debugging
-
-</details><details> <summary><b>🔹 Mercurial Mind - iOS Developer Intern (09/2021 - 04/2022)</b></summary>
-📦 Published 3+ SDKs on CocoaPods with 1000+ downloads
-
-🏗️ Built apps using both MVC and MVVM architectures
-
-🔗 Integrated RESTful APIs with robust error handling
-
-🤝 Collaborated with Android team on cross-platform solutions
-
-🛒 Successfully published 2 apps on App Store
-
-</details><!-- Tech Stack Section -->
+</td> </tr> </table><!-- Tech Stack Section -->
 🛠️ Technical Arsenal
-<table align="center"> <tr> <td width="33%">
-📱 iOS Expertise
-<p align="center"> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" /> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" /> <img src="https://img.shields.io/badge/CoreData-3498DB?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=testflight&logoColor=white" /> </p> </td> <td width="33%">
-🏗️ Architecture & Methods
-<p align="center"> <img src="https://img.shields.io/badge/Clean_Swift-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVVM-8E44AD?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVC-3498DB?style=for-the-badge" /> <img src="https://img.shields.io/badge/Agile-27AE60?style=for-the-badge&logo=agile&logoColor=white" /> <img src="https://img.shields.io/badge/Scrum-6A4C93?style=for-the-badge" /> </p> </td> <td width="33%">
-🛠️ Additional Skills
-<p align="center"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p> </td> </tr> </table><!-- Skills Matrix -->
-📊 Skills Proficiency
+<div align="center">
+📱 iOS Development
+<p> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/CoreData-3498DB?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white" /> </p>
+🏗 Architecture & Patterns
+<p> <img src="https://img.shields.io/badge/Clean_Swift-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/MVVM-8E44AD?style=for-the-badge" /> <img src="https://img.shields.io/badge/VIPER-3498DB?style=for-the-badge" /> <img src="https://img.shields.io/badge/SOLID-27AE60?style=for-the-badge" /> </p>
+🔒 Security & Testing
+<p> <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white" /> <img src="https://img.shields.io/badge/Biometrics-8A2BE2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Unit_Testing-FF6347?style=for-the-badge" /> <img src="https://img.shields.io/badge/SSL_Pinning-228B22?style=for-the-badge" /> </p> </div><!-- Experience Section -->
+💻 Professional Journey
+🔹 Aion Digital - Senior iOS Engineer (05/2022 - Present)
+Manama, Bahrain (Remote)
+FinTech solutions for banking sector
+
+Led development of KFH Jazeel Banking app with 500k+ users
+
+Implemented Clean Swift architecture across all projects
+
+Reduced crash rate by 60% through systematic debugging
+
+Automated CI/CD pipelines reducing release time by 30%
+
+Mentored junior developers in banking app best practices
+
+🔹 Mercurial Minds - iOS Developer (09/2021 - 04/2022)
+Islamabad, Pakistan
+Mobile development agency
+
+Published MySmile App on App Store
+
+Developed VerifApp SDK for phone number verification
+
+Created multiple SDKs published on CocoaPods
+
+Worked with MVC and MVVM architectures
+
+Collaborated with Android team on cross-platform solutions
+
+<!-- Projects Section -->
+🏗️ Banking Projects Portfolio
+<table> <tr> <td width="33%" valign="top">
+🏦 KFH Jazeel Banking
+https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
+
+Retail banking app for Kuwait Finance House
+
+Clean Swift architecture
+
+Real-time transaction processing
+
+Biometric authentication
+
+500k+ active users
+
+</td> <td width="33%" valign="top">
+🏢 KFHB Corporate
+https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
+
+Corporate banking solution
+
+Secure document sharing
+
+Multi-level approval workflows
+
+Trade finance features
+
+Role-based access control
+
+</td> <td width="33%" valign="top">
+💳 FriendiPay Wallet
+https://img.shields.io/badge/Coming_Soon-FF6B6B?style=for-the-badge
+
+Digital mobile wallet
+
+Social payment features
+
+Secure onboarding flow
+
+Real-time notifications
+
+QR code payments
+
+</td> </tr> <tr> <td width="33%" valign="top">
+📦 Boubyan Bank SDK
+https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white
+
+Onboarding SDK for banking apps
+
+Biometric authentication
+
+Form validation engine
+
+Compliance with banking regulations
+
+Modular architecture
+
+</td> <td width="33%" valign="top">
+😊 MySmile App
+https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white
+
+Social networking application
+
+Clean MVC architecture
+
+REST API integration
+
+Push notifications
+
+Published on App Store
+
+</td> <td width="33%" valign="top">
+📱 VerifApp SDK
+https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white
+
+Phone number verification
+
+SMS code validation
+
+Lightweight and modular
+
+Published on CocoaPods
+
+1000+ downloads
+
+</td> </tr> </table><!-- GitHub Stats -->
+📈 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hashim1999164&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashim1999164&layout=compact&langs_count=8&theme=algolia&hide_border=true"/> </div><!-- Skills Matrix -->
+📊 Technical Proficiency
+Diagram
+Code
 pie
     title Technical Skills
     "Swift": 95
     "iOS SDK": 90
-    "Clean Architecture": 85
-    "Banking Systems": 80
-    "Kotlin": 70
-    "Backend": 65
-<!-- GitHub Stats -->
-📈 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hashimkhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashimkhan&layout=compact&langs_count=8&theme=algolia"/> </div><!-- Projects Showcase -->
-🏗️ Featured Projects
-<table> <tr> <td width="50%">
-🏦 Digital Banking App
-Modern iOS banking application
-
-Clean Swift architecture
-
-Biometric authentication
-
-Real-time transaction processing
-
-500k+ active users
-
-</td> <td width="50%">
-📦 Merchant SDK
-CocoaPods published SDK
-
-Payment processing module
-
-1000+ downloads
-
-Comprehensive documentation
-
-Used by 10+ enterprise clients
-
-</td> </tr> </table><!-- Education Section -->
-🎓 Academic Background
-Arid Agriculture University
-📚 Bachelor of Information Technology (09/2017 - 08/2021)
-🏆 GPA: 3.6/4.0
+    "Banking Systems": 85
+    "Clean Architecture": 88
+    "Security": 82
+    "CI/CD": 75
+<!-- Education Section -->
+🎓 Education
+Pir Mehr Ali Shah Arid Agriculture University
+📚 Bachelor of Information Technology (2017 - 2021)
+🏆 Graduated with Honors
 📝 Thesis: "Mobile Payment Solutions Security Analysis"
 
 <!-- Contact Section -->
-🤝 Let's Connect!
-<p align="center"> <a href="https://www.linkedin.com/in/hashim-khan-953180175/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" /> </a> <a href="mailto:sardanhashim30@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" /> </a> <a href="tel:+923145201562"> <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100" /> </a> </p><!-- Footer Wave --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,0,2&height=80&section=footer&animation=twinkling" width="100%"/> </div> ```
+🤝 Let's Collaborate!
+<p align="center"> <a href="https://www.linkedin.com/in/hashim-khan-953180175/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" /> </a> <a href="mailto:sardarhashim30@gmail.com"> <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" /> </a> <a href="tel:+923145201562"> <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" /> </a> </p><!-- Footer Wave --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,0,2&height=100&section=footer&animation=twinkling" width="100%"/> </div>
