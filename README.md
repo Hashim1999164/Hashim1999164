@@ -276,23 +276,6 @@
 
 </div>
 
-<!-- Contact & Footer -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/hashim-khan-953180175/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" />
-  </a>
-  <a href="mailto:sardarhashim30@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="150" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=923145201562&text=Hi%20Hashim%2C%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20connect!">
-    <img src="https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="150" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,0,2&height=100&section=footer&animation=twinkling" width="100%" />
-</div>
-
 
 
 <!-- GitHub Stats -->
