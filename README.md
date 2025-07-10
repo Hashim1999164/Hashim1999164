@@ -151,7 +151,7 @@
 <!-- Projects Section -->
 <h2 align="center">🏗️ iOS Projects Portfolio</h2>
 
-<table style="width: 100%; border-collapse: collapse; border: none;">
+<table align="center" style="width: 100%; border-collapse: collapse; border: none;">
   <!-- Row 1 - Live Projects -->
   <tr>
     <td style="border: none; padding: 0.5rem; vertical-align: top;">
