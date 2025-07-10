@@ -1,176 +1,181 @@
-<!-- Animated Header with waving effect -->
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/Hashim1999164"> <!-- Updated GitHub username -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0a84ff,1c1c1e,2c2c2e%26height%3D120%26section%3Dheader%26text%3DHashim%2520Khan%26fontAlignY%3D35%26desc%3DSenior%2520Software%2520Engineer%2520(iOS)%2520|%20Mobile%20%26%20Backend&descAlignY=50&animation=fadeIn&fontColor=f2f2f7" alt="header" width="100%" />
-</a>
+  <a href="https://github.com/sardarhashim30">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,38,45&height=180&section=header&text=Hashim%20Khan&fontAlignY=35&desc=Senior%20Software%20Engineer%20(iOS)%20%7C%20Full-Stack%20Enthusiast&descAlignY=50&animation=fadeIn&fontColor=ffffff" alt="header" width="100%" />
+  </a>
 </div>
 
-<!-- Animated Typing SVG -->
-
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26weight%3D600%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3D0a84ff%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DHey%2Bthere%252C%2BI%2527m%2BHashim%2BKhan%2B%25F0%259F%2591%258B%3BSenior%2BiOS%2BDeveloper%2B%2526%2BSoftware%2BEngineer%2B%25F0%259F%2592%25BB%3BCrafting%2BRobust%2BMobile%2BExperiences%2B%25F0%259F%259A%2580%3BExpert%2Bin%252BClean%2BSwift%2BArchitecture%2B%25F0%259F%2593%25B1%3BLet%2527s%2BConnect%2Band%2BBuild%2BSomething%2BGreat%2B%25F0%259F%259B%25A0%25EF%25B8%258F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FE6E96&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Hashim+Khan+%F0%9F%91%8B;Passionate+iOS+Developer+%26+Tech+Enthusiast+%F0%9F%92%BB;Building+Robust+and+Scalable+Mobile+Applications+%F0%9F%9A%80;Let's+Collaborate+and+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<!-- Animated Social Media Links -->
-
 <div align="center">
-<a href="mailto:sardarhashim30@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=AA3A2A" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/hashim-khan-953180175/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26labelColor%3D004182" alt="LinkedIn" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Hashim1999164" target="_blank"> <!-- Updated GitHub username -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite%26labelColor%3D000000" alt="GitHub" />
-</a>
+  <a href="mailto:sardarhashim30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=AA3A2A" />
+  </a>
+  <a href="https://www.linkedin.com/in/hashim-khan-953180175/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" />
+  </a>
+  <a href="tel:+923145201562">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1DA851" />
+  </a>
 </div>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DHashim1999164%26label%3DProfile%2520Views%26color%3D0a84ff%26style%3Dflat" alt="Profile Views" /> <!-- Updated GitHub username -->
+  <img src="https://komarev.com/ghpvc/?username=sardarhashim30&label=Profile%20Views&color=fe6e96&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/hashim-khan-953180175/">
+    <img src="https://img.shields.io/badge/Hire%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hire Me" />
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <table align="center" border="0">
 <tr>
 <td width="50%" valign="top">
 
-👨‍💻 About Me
-I'm a Senior iOS Developer who builds robust and user-centric mobile experiences. With a background spanning iOS, Android, and backend development, I approach app building with a comprehensive understanding of the entire process. My journey includes shipping numerous projects, allowing me to transform complex requirements into elegant, high-performing solutions.
+## 👨‍💻 About Me
 
-👨‍🎓 IT Graduate from Arid Agriculture University
+I am a passionate iOS developer with a strong IT background and extensive experience in software engineering. My journey has taken me through iOS, Android, and backend development, giving me a comprehensive understanding of the entire application development lifecycle. I thrive in Agile environments and believe in the power of teamwork to create exceptional mobile applications.
 
-🚀 Building native-feel cross-platform apps (iOS primary, Android secondary)
-
-🌱 Continuously learning Design Patterns & Architecture for scalable solutions
-
-💼 Deep understanding of banking systems for secure financial applications
-
-🤝 Thrive in Agile teams, fostering collaboration and efficient delivery
+- 🎓 Bachelors in Information Technology from **Arid Agriculture University**
+- 🚀 Specialized in **iOS Development** with a focus on clean and efficient code
+- 🌱 Proficient in **Swift**, **Clean Swift Architecture**, **MVC**, and **MVVM**
+- 💡 Experienced with **banking systems** and building secure, high-performance apps
+- 🤝 A strong believer in collaboration and teamwork
 
 </td>
 <td width="50%" valign="top">
 
-🌟 Highlights
-class iOSDeveloper {
-    let name: String = "Hashim Khan"
-    let role: String = "Senior Software Engineer (iOS)"
-    let expertise: [String] = [
-        "Swift", "iOS Development", "Clean Swift",
-        "MVC", "MVVM", "CocoaPods", "iOS SDK",
-        "Node.js", "API Integration", "Agile & Scrum"
-    ]
+## 🌟 Professional Highlights
 
-    func focus() -> String {
-        return "Crafting high-performance, maintainable, and user-friendly mobile applications."
-    }
+```swift
+class SeniorIOSDeveloper {
+  let name = "Hashim Khan"
+  let experience = "4+ years"
+  let skills: [String] = [
+    "Swift", "iOS Development", "Clean Swift",
+    "MVVM", "MVC", "Agile", "Scrum",
+    "API Integration", "Backend Development"
+  ]
+
+  func focus() -> String {
+    return "Building high-quality, scalable, and user-friendly mobile applications."
+  }
 }
+````
 
-</td>
-</tr>
-</table>
+\</td\>
+\</tr\>
+\</table\>
 
-🛠 Tech Stack
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Swift-FA7343%3Fstyle%3Dfor-the-badge%26logo%3Dswift%26logoColor%3Dwhite" alt="Swift" />
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-0095D5%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Agile-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite" alt="Agile" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scrum-0277BD%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite" alt="Scrum" />
-</p>
+## 🛠 My Tech Stack
 
-<table align="center" border="0">
-<tr>
-<td width="60%">
+### Languages
 
-💪 What Sets Me Apart
-⚡ Performance-Focused Development: Building high-performing iOS apps, especially critical for banking systems.
+\<p align="center"\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Swift-FA7343%3Fstyle%3Dfor-the-badge%26logo%3Dswift%26logoColor%3Dwhite" alt="Swift" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kotlin-7F52FF%3Fstyle%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite" alt="Kotlin" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" /\>
+\</p\>
 
-🔧 Clean, Maintainable Code: Adhering to best practices, including Clean Swift, MVC, and MVVM, for scalable solutions.
+### Frameworks & Libraries
 
-🎨 User-Centric Approach: Passionate about creating intuitive and engaging user experiences.
+\<p align="center"\>
+\<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=ios\&logoColor=white" alt="iOS" /\>
+\<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white" alt="Android" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/CocoaPods-FF2D55%3Fstyle%3Dfor-the-badge%26logo%3Dcocoapods%26logoColor%3Dwhite" alt="CocoaPods" /\>
+\</p\>
 
-🧩 Complex Problem Solver: Adept at identifying and resolving intricate technical challenges.
+### Databases & Backend
 
-📚 Continuous Learning: Dedicated to staying updated with the latest mobile and backend technologies.
+\<p align="center"\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="SQL" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/API-Integration-blue%3Fstyle%3Dfor-the-badge%26logo%3Ddependabot%26logoColor%3Dwhite" alt="API Integration" /\>
+\</p\>
 
-</td>
-<td width="40%">
+### Tools & Methodologies
 
-📊 Key Skills
-Skill
+\<p align="center"\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Agile-425FE1%3Fstyle%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite" alt="Agile" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scrum-009900%3Fstyle%3Dfor-the-badge%26logo%3Dscrum%26logoColor%3Dwhite" alt="Scrum" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Unit%2520Testing-A8E6CF%3Fstyle%3Dfor-the-badge%26logo%3Djest%26logoColor%3Dblack" alt="Unit Testing" /\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Debugging-56B4E9%3Fstyle%3Dfor-the-badge%26logo%3Dvisualstudiocode%26logoColor%3Dwhite" alt="Debugging" /\>
+\</p\>
 
-Level
+## 📊 My GitHub Stats
 
-Swift
+\<p align="center"\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsardarhashim30%26show\_icons%3Dtrue%26theme%3Dradical" alt="Hashim's GitHub Stats" /\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsardarhashim30%26layout%3Dcompact%26theme%3Dradical" alt="Top Langs" /\>
+\</p\>
 
-Expert
+\<p align="center"\>
+\<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dsardarhashim30%26theme%3Dradical" alt="GitHub Streak" /\>
+\</p\>
 
-iOS Development
+## 💼 Professional Experience
 
-Expert
+### Senior Software Engineer (iOS) @ Aion Digital
 
-Clean Swift Architecture
+*(Manama, Bahrain - Remote | 03/2024 - Present)*
 
-Advanced
+  - Leading iOS development for a cutting-edge banking application.
+  - Enhancing app performance and resolving complex technical challenges.
+  - Collaborating closely with cross-functional teams including designers and backend developers.
+  - Ensuring seamless app functionality that aligns with business objectives.
+  - Championing best coding practices and managing timely releases.
 
-Node.js
+### Jr. iOS Developer @ Aion Digital
 
-Intermediate
+*(Manama, Bahrain - Remote | 05/2022 - 03/2024)*
 
-Agile & Scrum
+  - Contributed to a large-scale iOS banking application.
+  - Implemented Clean Swift Architecture for maintainable and scalable code.
+  - Actively participated in Scrum ceremonies and consistently met deadlines.
+  - Developed new features and resolved bugs to improve user experience.
+  - Managed app distribution via TestFlight, App Store, and Microsoft App Center.
 
-Expert
+### iOS Developer Intern @ Mercurial Mind
 
-Unit Testing
+*(Islamabad, Pakistan | 09/2021 - 04/2022)*
 
-Advanced
+  - Assisted in the development of iOS applications and SDKs.
+  - Gained experience working both independently and as part of a team.
+  - Followed Scrum methodologies and provided daily progress updates.
+  - Published iOS applications on the App Store and SDKs on Cocoapods.
+  - Honed skills in writing clean code using MVC and MVVM architectural patterns.
+  - Explored backend development with Node.js and Android development with Kotlin.
 
-UI/UX Implementation
+## 🏆 Key Achievements
 
-Intermediate
+  - **Led the development** of a major banking app, significantly improving its performance and stability.
+  - Successfully **published multiple iOS applications and SDKs** to the App Store and Cocoapods.
+  - Played a key role in **adopting Clean Swift Architecture**, leading to more maintainable and scalable code.
+  - **Mentored junior developers** and promoted a culture of continuous learning and improvement.
+  - Consistently **delivered high-quality features** and bug fixes in a fast-paced Agile environment.
 
-</td>
-</tr>
-</table>
+## 🌐 Let's Connect\!
 
-🔍 Currently Exploring
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SwiftUI-007AFF%3Fstyle%3Dflat-square%26logo%3Dswift" alt="SwiftUI" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Server--Side_Swift_(Vapor)-FC5000%3Fstyle%3Dflat-square%26logo%3Dswift" alt="Server-Side Swift (Vapor)" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Advanced_Concurrency-663399%3Fstyle%3Dflat-square%26logo%3Dswift" alt="Advanced Concurrency" />
-</p>
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of an innovative team. Feel free to reach out\!
 
-🤝 Let's Connect!
-<p align="center">
-<a href="mailto:sardarhashim30@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/hashim-khan-953180175/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Hashim1999164" target="_blank"> <!-- Updated GitHub username -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GITHUB-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub" />
-</a>
-</p>
+\<p align="center"\>
+\<a href="mailto:sardarhashim30@gmail.com"\>
+\<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email" /\>
+\</a\>
+\<a href="https://www.linkedin.com/in/hashim-khan-953180175/"\>
+\<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /\>
+\</a\>
+\<a href="tel:+923145201562"\>
+\<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white" alt="WhatsApp" /\>
+\</a\>
+\</p\>
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/Hashim1999164">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/iOS_DEVELOPER-0A84FF%3Fstyle%3Dfor-the-badge%26logo%3Dapple%26logoColor%3Dwhite" alt="iOS Developer" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Hashim1999164">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MOBILE_ENGINEER-3DDC84%3Fstyle%3Dfor-the-badge%26logo%3Dandroid%26logoColor%3Dwhite" alt="Mobile Engineer" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Hashim1999164">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SOFTWARE_ENGINEER-58A6FF%3Fstyle%3Dfor-the-badge%26logo%3Dcodesandbox%26logoColor%3Dwhite" alt="Software Engineer" />
-</a>
-</p>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0a84ff,1c1c1e,2c2c2e%26height%3D80%26section%3Dfooter%26animation%3Dtwinkling" width="100%" alt="Footer GIF"/>
-</div>
+\<div align="center"\>
+\<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D2,3,30,40,50%26height%3D120%26section%3Dfooter%26animation%3Dtwinkling" width="100%"/\>
+\</div\>
