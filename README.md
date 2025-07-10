@@ -5,9 +5,10 @@
   </a>
 </div>
 
-<!-- Dynamic Typing Animation -->
+<!-- Animated Typing SVG -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Hello+World+👋+I'm+Hashim+Khan;Senior+iOS+Engineer+💻;FinTech+Banking+Specialist+🏦;Clean+Code+Advocate+🧹;3%2B+Years+of+Experience+📈;Let's+Build+Secure+Banking+Solutions+🔒" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26weight%3D600%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3D0a84ff%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DHey%2Bthere%252C%2BI%2527m%2BHashim%2BKhan%2B%25F0%259F%2591%258B%3BSenior%2BiOS%2BDeveloper%2B%2526%2BSoftware%2BEngineer%2B%25F0%259F%2592%25BB%3BCrafting%2BRobust%2BMobile%2BExperiences%2B%25F0%259F%259A%2580%3BExpert%2Bin%252BClean%2BSwift%2BArchitecture%2B%25F0%259F%2593%25B1%3BLet%2527s%2BConnect%2Band%2BBuild%2BSomething%2BGreat%2B%25F0%259F%259B%25A0%25EF%25B8%258F" alt="Typing SVG" />
 </div>
 
 <!-- Animated Social Badges -->
