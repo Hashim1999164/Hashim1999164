@@ -61,8 +61,7 @@
     let name: String
     let features: [String]
     let secure: Bool
-}
-
+    }
     struct iOSBankingDeveloper {
         let name = "Hashim Khan"
         let specialization = "FinTech Solutions"
