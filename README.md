@@ -58,9 +58,9 @@
 
 
     struct BankingApplication {
-    let name: String
-    let features: [String]
-    let secure: Bool
+      let name: String
+      let features: [String]
+      let secure: Bool
     }
     struct iOSBankingDeveloper {
         let name = "Hashim Khan"
@@ -73,8 +73,7 @@
             return BankingApplication(
                 name: "SecureBank",
                 features: architectures + techStack + security,
-                secure: true
-            )
+                secure: true)
         }
     }
     func developApp() -> BankingApplication {
