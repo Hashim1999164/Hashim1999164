@@ -4,7 +4,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=180&section=header&text=Hashim%20Khan&fontAlignY=40&desc=Senior%20iOS%20Engineer%20|%20FinTech%20Specialist&descAlignY=65&animation=fadeIn&fontColor=ffffff&descColor=ffffff" alt="header" width="100%" />
   </a>
 </div>
-
+ 
 <!-- Animated Typing SVG -->
 
 <div align="center">
