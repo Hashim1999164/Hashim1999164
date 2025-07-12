@@ -57,8 +57,13 @@
 ## 🏆 Core Expertise
 
 
-    func developApp() -> BankingApplication {
-      struct iOSBankingDeveloper {
+    struct BankingApplication {
+    let name: String
+    let features: [String]
+    let secure: Bool
+}
+
+    struct iOSBankingDeveloper {
         let name = "Hashim Khan"
         let specialization = "FinTech Solutions"
         let architectures = ["Clean Swift", "MVVM", "VIPER"]
@@ -66,8 +71,16 @@
         let security = ["OAuth2", "Biometrics", "SSL Pinning"]
         
         func developApp() -> BankingApplication {
-            return secureMobileBankingSolution()
+            return BankingApplication(
+                name: "SecureBank",
+                features: architectures + techStack + security,
+                secure: true
+            )
         }
+    }
+    func developApp() -> BankingApplication {
+        let developer = iOSBankingDeveloper()
+        return developer.developApp()
     }
 
 </td> </tr> </table>
