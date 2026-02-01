@@ -4,7 +4,12 @@
 <!--                         HEADER SECTION                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=200&section=header&text=Hashim%20Khan&fontAlignY=38&desc=Senior%20iOS%20Engineer%20%7C%20FinTech%20%26%20Banking%20Apps&descAlignY=68&animation=fadeIn&fontColor=ffffff&descColor=ffffff&fontSize=52)](https://github.com/Hashim1999164)
+<div align="center">
+  <a href="https://github.com/Hashim1999164">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=180&section=header&text=Hashim%20Khan&fontAlignY=40&desc=Senior%20iOS%20Engineer%20|%20FinTech%20Specialist&descAlignY=65&animation=fadeIn&fontColor=ffffff&descColor=ffffff" alt="header" width="100%" />
+  </a>
+</div>
+
 
 <!-- Typing intro -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1200&color=0a84ff&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Hashim+Khan+%F0%9F%91%8B%3B;Senior+iOS+Developer+%26+Software+Engineer+%F0%9F%92%BB;Crafting+Robust+Mobile+Experiences+%F0%9F%8F%A0%3B;Expert+in+Clean+Swift+Architecture+%F0%9F%93%B1%3B;Let's+Connect+and+Build+Something+Great+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
