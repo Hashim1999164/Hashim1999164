@@ -42,7 +42,7 @@
 
 ## 🚀 Professional Summary
 
-I am a **passionate iOS Developer** with **over 3 years** of experience specializing in iOS application development. I excel in **Swift**, **Clean Swift Architecture**, and building **enterprise-level iOS applications**. My expertise includes banking applications, performance optimization, and App Store deployment. I also have **backend development experience** to support full-stack iOS solutions. I thrive in **Agile environments** and enjoy collaborating with cross-functional teams to deliver high-quality, scalable iOS applications.
+I am a **passionate iOS Developer** with **over 4 years** of experience specializing in iOS application development. I excel in **Swift**, **Clean Swift Architecture**, and building **enterprise-level iOS applications**. My expertise includes banking applications, performance optimization, and App Store deployment. I also have **backend development experience** to support full-stack iOS solutions. I thrive in **Agile environments** and enjoy collaborating with cross-functional teams to deliver high-quality, scalable iOS applications.
 
 | | |
 |:---:|---|
