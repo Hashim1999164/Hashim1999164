@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 170" width="1280" height="170" role="img" aria-label="Profile metrics">
+  <rect width="1280" height="170" fill="#05060a"/>
+  <g font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif">
+    <rect x="16" y="16" width="296" height="138" rx="18" fill="#0e1422" stroke="#1a2a44"/>
+    <text x="164" y="78" text-anchor="middle" font-size="36" font-weight="800" fill="#0a84ff">~5 yrs</text>
+    <text x="164" y="112" text-anchor="middle" font-size="14" fill="#c5cdd8">iOS in production</text>
+
+    <rect x="332" y="16" width="296" height="138" rx="18" fill="#0e1422" stroke="#1a2a44"/>
+    <text x="480" y="78" text-anchor="middle" font-size="36" font-weight="800" fill="#0a84ff">App Store</text>
+    <text x="480" y="112" text-anchor="middle" font-size="14" fill="#c5cdd8">Live consumer apps</text>
+
+    <rect x="648" y="16" width="296" height="138" rx="18" fill="#0e1422" stroke="#1a2a44"/>
+    <text x="796" y="78" text-anchor="middle" font-size="32" font-weight="800" fill="#0a84ff">Wallet</text>
+    <text x="796" y="112" text-anchor="middle" font-size="14" fill="#c5cdd8">Digital bank iOS</text>
+
+    <rect x="964" y="16" width="300" height="138" rx="18" fill="#0e1422" stroke="#1a2a44"/>
+    <text x="1114" y="78" text-anchor="middle" font-size="32" font-weight="800" fill="#0a84ff">OSS PRs</text>
+    <text x="1114" y="112" text-anchor="middle" font-size="14" fill="#c5cdd8">Merged upstream</text>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 215" width="495" height="215" role="img" aria-label="Stack I ship with">
+  <rect width="495" height="215" rx="12" fill="#0e1422" stroke="#1a2a44"/>
+  <text x="24" y="36" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="16" font-weight="700" fill="#0a84ff">Stack I ship with</text>
+  <g font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif">
+    
+    <text x="24" y="72" font-size="13" fill="#d7e3f4">Swift</text>
+    <rect x="150" y="60" width="300" height="10" rx="5" fill="#1a2a44"/>
+    <rect x="150" y="60" width="285" height="10" rx="5" fill="#0a84ff"/>
+    <text x="462" y="72" font-size="12" fill="#8b98a8">95%</text>
+    
+    
+    <text x="24" y="100" font-size="13" fill="#d7e3f4">UIKit</text>
+    <rect x="150" y="88" width="300" height="10" rx="5" fill="#1a2a44"/>
+    <rect x="150" y="88" width="276" height="10" rx="5" fill="#0a84ff"/>
+    <text x="462" y="100" font-size="12" fill="#8b98a8">92%</text>
+    
+    
+    <text x="24" y="128" font-size="13" fill="#d7e3f4">SwiftUI</text>
+    <rect x="150" y="116" width="300" height="10" rx="5" fill="#1a2a44"/>
+    <rect x="150" y="116" width="264" height="10" rx="5" fill="#0a84ff"/>
+    <text x="462" y="128" font-size="12" fill="#8b98a8">88%</text>
+    
+    
+    <text x="24" y="156" font-size="13" fill="#d7e3f4">TypeScript</text>
+    <rect x="150" y="144" width="300" height="10" rx="5" fill="#1a2a44"/>
+    <rect x="150" y="144" width="216" height="10" rx="5" fill="#64d2ff"/>
+    <text x="462" y="156" font-size="12" fill="#8b98a8">72%</text>
+    
+    
+    <text x="24" y="184" font-size="13" fill="#d7e3f4">Node.js</text>
+    <rect x="150" y="172" width="300" height="10" rx="5" fill="#1a2a44"/>
+    <rect x="150" y="172" width="204" height="10" rx="5" fill="#64d2ff"/>
+    <text x="462" y="184" font-size="12" fill="#8b98a8">68%</text>
+    
+  </g>
+</svg>

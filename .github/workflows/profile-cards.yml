@@ -1,0 +1,54 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Hashim1999164&show_icons=true&theme=react&hide_border=true&include_all_commits=true&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4&bg_color=0e1422
+          path: assets/generated/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Hashim1999164&layout=compact&langs_count=8&theme=react&hide_border=true&hide=Jupyter Notebook,TSQL,Inno Setup,ASL,HTML,CSS&title_color=0a84ff&text_color=d7e3f4&bg_color=0e1422
+          path: assets/generated/langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy card
+        continue-on-error: true
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: username=Hashim1999164&theme=discord&column=6&margin-w=10&margin-h=10
+          path: assets/trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p assets/generated
+          git add assets/generated/*.svg assets/trophies.svg || true
+          git commit -m "Update generated README cards" || exit 0
+          git push
