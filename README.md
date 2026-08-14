@@ -398,6 +398,174 @@ Widgets from [github-readme](https://github.com/madushadhanushka/github-readme),
   </a>
 </div>
 
+## 100 more widgets
+
+115 extra widgets for `Hashim1999164`.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=swift,kotlin,apple,ts,nodejs,express,firebase,git,github,vscode,xcode,linux&theme=dark" alt="Skill icons"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,py,go,rust,docker,graphql,mongodb,postgres,redis,cloudflare&theme=dark" alt="More skill icons"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashim1999164&theme=github_dark" alt="Profile details card"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hashim1999164&theme=github_dark" alt="Summary stats card"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hashim1999164&theme=github_dark" alt="Repos per language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hashim1999164&theme=github_dark" alt="Most commit language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hashim1999164&theme=github_dark&utcOffset=5" alt="Productive time"/>
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Hashim1999164&data=followers,repositories,stars,commits" alt="Widgetbox profile"/>
+
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Hashim1999164&theme=react" alt="Streak stats mirror"/>
+
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Hashim1999164&show_icons=true&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="GitHub stats mirror"/>
+
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Hashim1999164&layout=compact&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&text_color=d7e3f4" alt="Top langs mirror"/>
+
+<img src="https://ghchart.rshah.org/0a84ff/Hashim1999164" alt="GitHub contribution chart"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=iOS%20Stack&lineCount=2&theme=github_dark&line1=swift,swift,00AFF0;uikit,uikit,2396F3;swiftui,swiftui,0A84FF;&line2=typescript,typescript,3178C6;nodejs,nodejs,339933;git,git,F05032;" alt="Tech stack card"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a84ff,100:0e1422&height=90&section=header&text=100%20widgets&fontSize=28&fontColor=ffffff&fontAlignY=45" alt="Capsule banner"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHashim1999164&query=%24.public_repos&label=public%20repos&color=0a84ff" alt="Dynamic public repos"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHashim1999164&query=%24.followers&label=followers&color=0a84ff" alt="Dynamic followers"/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FHashim1999164&query=%24.following&label=following&color=0a84ff" alt="Dynamic following"/>
+
+<img src="https://img.shields.io/github/discussions/Hashim1999164/Hashim1999164" alt="Discussions"/>
+
+<img src="https://img.shields.io/github/commit-activity/m/Hashim1999164/Hashim1999164?color=0a84ff" alt="Commit activity"/>
+
+</div>
+
+<p>
+
+<a href="https://github.com/Hashim1999164/Brewstrap"><img alt="Brewstrap stars" src="https://img.shields.io/github/stars/Hashim1999164/Brewstrap?style=flat-square&label=Brewstrap%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="Brewstrap forks" src="https://img.shields.io/github/forks/Hashim1999164/Brewstrap?style=flat-square&label=Brewstrap%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="Brewstrap issues" src="https://img.shields.io/github/issues/Hashim1999164/Brewstrap?style=flat-square&label=Brewstrap%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="Brewstrap last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/Brewstrap?style=flat-square&label=Brewstrap%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="Brewstrap language" src="https://img.shields.io/github/languages/top/Hashim1999164/Brewstrap?style=flat-square&label=Brewstrap&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/carfreedriveway"><img alt="carfreedriveway stars" src="https://img.shields.io/github/stars/Hashim1999164/carfreedriveway?style=flat-square&label=carfreedriveway%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="carfreedriveway forks" src="https://img.shields.io/github/forks/Hashim1999164/carfreedriveway?style=flat-square&label=carfreedriveway%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="carfreedriveway issues" src="https://img.shields.io/github/issues/Hashim1999164/carfreedriveway?style=flat-square&label=carfreedriveway%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="carfreedriveway last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/carfreedriveway?style=flat-square&label=carfreedriveway%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="carfreedriveway language" src="https://img.shields.io/github/languages/top/Hashim1999164/carfreedriveway?style=flat-square&label=carfreedriveway&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/doorshadow"><img alt="doorshadow stars" src="https://img.shields.io/github/stars/Hashim1999164/doorshadow?style=flat-square&label=doorshadow%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="doorshadow forks" src="https://img.shields.io/github/forks/Hashim1999164/doorshadow?style=flat-square&label=doorshadow%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="doorshadow issues" src="https://img.shields.io/github/issues/Hashim1999164/doorshadow?style=flat-square&label=doorshadow%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="doorshadow last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/doorshadow?style=flat-square&label=doorshadow%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="doorshadow language" src="https://img.shields.io/github/languages/top/Hashim1999164/doorshadow?style=flat-square&label=doorshadow&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/framehold"><img alt="framehold stars" src="https://img.shields.io/github/stars/Hashim1999164/framehold?style=flat-square&label=framehold%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="framehold forks" src="https://img.shields.io/github/forks/Hashim1999164/framehold?style=flat-square&label=framehold%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="framehold issues" src="https://img.shields.io/github/issues/Hashim1999164/framehold?style=flat-square&label=framehold%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="framehold last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/framehold?style=flat-square&label=framehold%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="framehold language" src="https://img.shields.io/github/languages/top/Hashim1999164/framehold?style=flat-square&label=framehold&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/github-from-token"><img alt="github-from-token stars" src="https://img.shields.io/github/stars/Hashim1999164/github-from-token?style=flat-square&label=github-from-token%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="github-from-token forks" src="https://img.shields.io/github/forks/Hashim1999164/github-from-token?style=flat-square&label=github-from-token%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="github-from-token issues" src="https://img.shields.io/github/issues/Hashim1999164/github-from-token?style=flat-square&label=github-from-token%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="github-from-token last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/github-from-token?style=flat-square&label=github-from-token%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="github-from-token language" src="https://img.shields.io/github/languages/top/Hashim1999164/github-from-token?style=flat-square&label=github-from-token&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/Hashim1999164"><img alt="Hashim1999164 stars" src="https://img.shields.io/github/stars/Hashim1999164/Hashim1999164?style=flat-square&label=Hashim1999164%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="Hashim1999164 forks" src="https://img.shields.io/github/forks/Hashim1999164/Hashim1999164?style=flat-square&label=Hashim1999164%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="Hashim1999164 issues" src="https://img.shields.io/github/issues/Hashim1999164/Hashim1999164?style=flat-square&label=Hashim1999164%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="Hashim1999164 last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/Hashim1999164?style=flat-square&label=Hashim1999164%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="Hashim1999164 language" src="https://img.shields.io/github/languages/top/Hashim1999164/Hashim1999164?style=flat-square&label=Hashim1999164&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/hashim1999164.github.io"><img alt="hashim1999164.github.io stars" src="https://img.shields.io/github/stars/Hashim1999164/hashim1999164.github.io?style=flat-square&label=hashim1999164.github.io%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="hashim1999164.github.io forks" src="https://img.shields.io/github/forks/Hashim1999164/hashim1999164.github.io?style=flat-square&label=hashim1999164.github.io%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="hashim1999164.github.io issues" src="https://img.shields.io/github/issues/Hashim1999164/hashim1999164.github.io?style=flat-square&label=hashim1999164.github.io%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="hashim1999164.github.io last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/hashim1999164.github.io?style=flat-square&label=hashim1999164.github.io%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="hashim1999164.github.io language" src="https://img.shields.io/github/languages/top/Hashim1999164/hashim1999164.github.io?style=flat-square&label=hashim1999164.github.io&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/innercue"><img alt="innercue stars" src="https://img.shields.io/github/stars/Hashim1999164/innercue?style=flat-square&label=innercue%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="innercue forks" src="https://img.shields.io/github/forks/Hashim1999164/innercue?style=flat-square&label=innercue%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="innercue issues" src="https://img.shields.io/github/issues/Hashim1999164/innercue?style=flat-square&label=innercue%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="innercue last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/innercue?style=flat-square&label=innercue%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="innercue language" src="https://img.shields.io/github/languages/top/Hashim1999164/innercue?style=flat-square&label=innercue&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/instacharge"><img alt="instacharge stars" src="https://img.shields.io/github/stars/Hashim1999164/instacharge?style=flat-square&label=instacharge%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="instacharge forks" src="https://img.shields.io/github/forks/Hashim1999164/instacharge?style=flat-square&label=instacharge%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="instacharge issues" src="https://img.shields.io/github/issues/Hashim1999164/instacharge?style=flat-square&label=instacharge%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="instacharge last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/instacharge?style=flat-square&label=instacharge%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="instacharge language" src="https://img.shields.io/github/languages/top/Hashim1999164/instacharge?style=flat-square&label=instacharge&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/lockdownios"><img alt="lockdownios stars" src="https://img.shields.io/github/stars/Hashim1999164/lockdownios?style=flat-square&label=lockdownios%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="lockdownios forks" src="https://img.shields.io/github/forks/Hashim1999164/lockdownios?style=flat-square&label=lockdownios%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="lockdownios issues" src="https://img.shields.io/github/issues/Hashim1999164/lockdownios?style=flat-square&label=lockdownios%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="lockdownios last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/lockdownios?style=flat-square&label=lockdownios%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="lockdownios language" src="https://img.shields.io/github/languages/top/Hashim1999164/lockdownios?style=flat-square&label=lockdownios&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/meal"><img alt="meal stars" src="https://img.shields.io/github/stars/Hashim1999164/meal?style=flat-square&label=meal%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="meal forks" src="https://img.shields.io/github/forks/Hashim1999164/meal?style=flat-square&label=meal%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="meal issues" src="https://img.shields.io/github/issues/Hashim1999164/meal?style=flat-square&label=meal%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="meal last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/meal?style=flat-square&label=meal%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="meal language" src="https://img.shields.io/github/languages/top/Hashim1999164/meal?style=flat-square&label=meal&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/mealmood"><img alt="mealmood stars" src="https://img.shields.io/github/stars/Hashim1999164/mealmood?style=flat-square&label=mealmood%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="mealmood forks" src="https://img.shields.io/github/forks/Hashim1999164/mealmood?style=flat-square&label=mealmood%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="mealmood issues" src="https://img.shields.io/github/issues/Hashim1999164/mealmood?style=flat-square&label=mealmood%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="mealmood last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/mealmood?style=flat-square&label=mealmood%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="mealmood language" src="https://img.shields.io/github/languages/top/Hashim1999164/mealmood?style=flat-square&label=mealmood&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/OSXecs"><img alt="OSXecs stars" src="https://img.shields.io/github/stars/Hashim1999164/OSXecs?style=flat-square&label=OSXecs%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="OSXecs forks" src="https://img.shields.io/github/forks/Hashim1999164/OSXecs?style=flat-square&label=OSXecs%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="OSXecs issues" src="https://img.shields.io/github/issues/Hashim1999164/OSXecs?style=flat-square&label=OSXecs%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="OSXecs last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/OSXecs?style=flat-square&label=OSXecs%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="OSXecs language" src="https://img.shields.io/github/languages/top/Hashim1999164/OSXecs?style=flat-square&label=OSXecs&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/partmov"><img alt="partmov stars" src="https://img.shields.io/github/stars/Hashim1999164/partmov?style=flat-square&label=partmov%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="partmov forks" src="https://img.shields.io/github/forks/Hashim1999164/partmov?style=flat-square&label=partmov%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="partmov issues" src="https://img.shields.io/github/issues/Hashim1999164/partmov?style=flat-square&label=partmov%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="partmov last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/partmov?style=flat-square&label=partmov%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="partmov language" src="https://img.shields.io/github/languages/top/Hashim1999164/partmov?style=flat-square&label=partmov&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/personalstudies"><img alt="personalstudies stars" src="https://img.shields.io/github/stars/Hashim1999164/personalstudies?style=flat-square&label=personalstudies%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="personalstudies forks" src="https://img.shields.io/github/forks/Hashim1999164/personalstudies?style=flat-square&label=personalstudies%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="personalstudies issues" src="https://img.shields.io/github/issues/Hashim1999164/personalstudies?style=flat-square&label=personalstudies%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="personalstudies last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/personalstudies?style=flat-square&label=personalstudies%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="personalstudies language" src="https://img.shields.io/github/languages/top/Hashim1999164/personalstudies?style=flat-square&label=personalstudies&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/personalstudiesLecture"><img alt="personalstudiesLecture stars" src="https://img.shields.io/github/stars/Hashim1999164/personalstudiesLecture?style=flat-square&label=personalstudiesLecture%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="personalstudiesLecture forks" src="https://img.shields.io/github/forks/Hashim1999164/personalstudiesLecture?style=flat-square&label=personalstudiesLecture%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="personalstudiesLecture issues" src="https://img.shields.io/github/issues/Hashim1999164/personalstudiesLecture?style=flat-square&label=personalstudiesLecture%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="personalstudiesLecture last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/personalstudiesLecture?style=flat-square&label=personalstudiesLecture%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="personalstudiesLecture language" src="https://img.shields.io/github/languages/top/Hashim1999164/personalstudiesLecture?style=flat-square&label=personalstudiesLecture&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/PlayConsoleDarkMode"><img alt="PlayConsoleDarkMode stars" src="https://img.shields.io/github/stars/Hashim1999164/PlayConsoleDarkMode?style=flat-square&label=PlayConsoleDarkMode%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="PlayConsoleDarkMode forks" src="https://img.shields.io/github/forks/Hashim1999164/PlayConsoleDarkMode?style=flat-square&label=PlayConsoleDarkMode%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="PlayConsoleDarkMode issues" src="https://img.shields.io/github/issues/Hashim1999164/PlayConsoleDarkMode?style=flat-square&label=PlayConsoleDarkMode%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="PlayConsoleDarkMode last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/PlayConsoleDarkMode?style=flat-square&label=PlayConsoleDarkMode%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="PlayConsoleDarkMode language" src="https://img.shields.io/github/languages/top/Hashim1999164/PlayConsoleDarkMode?style=flat-square&label=PlayConsoleDarkMode&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/practicePersonal"><img alt="practicePersonal stars" src="https://img.shields.io/github/stars/Hashim1999164/practicePersonal?style=flat-square&label=practicePersonal%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="practicePersonal forks" src="https://img.shields.io/github/forks/Hashim1999164/practicePersonal?style=flat-square&label=practicePersonal%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="practicePersonal issues" src="https://img.shields.io/github/issues/Hashim1999164/practicePersonal?style=flat-square&label=practicePersonal%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="practicePersonal last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/practicePersonal?style=flat-square&label=practicePersonal%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="practicePersonal language" src="https://img.shields.io/github/languages/top/Hashim1999164/practicePersonal?style=flat-square&label=practicePersonal&labelColor=0e1422"/>
+<br/>
+<a href="https://github.com/Hashim1999164/typerdiem"><img alt="typerdiem stars" src="https://img.shields.io/github/stars/Hashim1999164/typerdiem?style=flat-square&label=typerdiem%20stars&labelColor=0e1422&color=0a84ff"/></a>
+<img alt="typerdiem forks" src="https://img.shields.io/github/forks/Hashim1999164/typerdiem?style=flat-square&label=typerdiem%20forks&labelColor=0e1422&color=5e5ce6"/>
+<img alt="typerdiem issues" src="https://img.shields.io/github/issues/Hashim1999164/typerdiem?style=flat-square&label=typerdiem%20issues&labelColor=0e1422&color=ff453a"/>
+<img alt="typerdiem last commit" src="https://img.shields.io/github/last-commit/Hashim1999164/typerdiem?style=flat-square&label=typerdiem%20commit&labelColor=0e1422&color=30d158"/>
+<img alt="typerdiem language" src="https://img.shields.io/github/languages/top/Hashim1999164/typerdiem?style=flat-square&label=typerdiem&labelColor=0e1422"/>
+<br/>
+
+</p>
+
+
 <a id="contact"></a>
 
 <div align="center">
