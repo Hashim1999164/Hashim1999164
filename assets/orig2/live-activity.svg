@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 120" width="420" height="120">
+  <rect width="420" height="120" rx="28" fill="#000"/>
+  <circle cx="48" cy="60" r="16" fill="#0a84ff"/>
+  <text x="80" y="52" font-size="14" fill="#fff" font-family="SF Pro Display, Helvetica Neue, Arial">Trip in progress</text>
+  <text x="80" y="76" font-size="12" fill="#8ea0b8" font-family="SF Pro Text, Helvetica Neue, Arial">Background tracking  ·  Live Activity</text>
+  <text x="380" y="66" text-anchor="end" font-size="18" fill="#0a84ff" font-family="SF Pro Display, Helvetica Neue, Arial">12 km</text>
+</svg>

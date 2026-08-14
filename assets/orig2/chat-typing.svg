@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 160" width="360" height="160">
+  <rect width="360" height="160" rx="24" fill="#0e1422"/>
+  <circle cx="140" cy="80" r="8" fill="#64d2ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="1s" repeatCount="indefinite"/></circle>
+  <circle cx="180" cy="80" r="8" fill="#64d2ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="1s" begin="0.2s" repeatCount="indefinite"/></circle>
+  <circle cx="220" cy="80" r="8" fill="#64d2ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="1s" begin="0.4s" repeatCount="indefinite"/></circle>
+  <text x="180" y="130" text-anchor="middle" font-size="12" fill="#8ea0b8" font-family="SF Pro Text, Helvetica Neue, Arial">Someone is typing</text>
+</svg>

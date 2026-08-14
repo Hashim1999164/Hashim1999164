@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" width="280" height="280">
+  <rect width="280" height="280" rx="28" fill="#070b14"/>
+  <circle cx="140" cy="140" r="90" fill="none" stroke="#1a2a44" stroke-width="8"/>
+  <circle cx="140" cy="140" r="90" fill="none" stroke="#0a84ff" stroke-width="4" stroke-dasharray="40 200">
+    <animateTransform attributeName="transform" type="rotate" from="0 140 140" to="360 140 140" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <polygon points="140,70 152,140 140,128 128,140" fill="#ff453a"/>
+  <text x="140" y="250" text-anchor="middle" font-size="13" fill="#8ea0b8" font-family="SF Pro Text, Helvetica Neue, Arial">MapKit heading</text>
+</svg>

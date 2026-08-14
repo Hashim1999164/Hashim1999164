@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 180" width="500" height="180">
+  <rect width="500" height="180" rx="24" fill="#000"/>
+  <text x="40" y="90" font-size="42" font-weight="800" fill="#ff453a" font-family="SF Pro Display, Helvetica Neue, Arial">StandBy</text>
+  <text x="40" y="130" font-size="14" fill="#8ea0b8" font-family="SF Pro Text, Helvetica Neue, Arial">Night stand UI  ·  iOS</text>
+  <circle cx="420" cy="90" r="36" fill="none" stroke="#ff453a" stroke-width="6" stroke-dasharray="160 40">
+    <animateTransform attributeName="transform" type="rotate" from="0 420 90" to="360 420 90" dur="12s" repeatCount="indefinite"/>
+  </circle>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <rect width="900" height="160" rx="24" fill="#02030a"/>
+  <ellipse cx="200" cy="160" rx="260" ry="90" fill="#0a84ff" opacity="0.25">
+    <animate attributeName="cx" values="160;280;160" dur="8s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="520" cy="160" rx="240" ry="80" fill="#bf5af2" opacity="0.22">
+    <animate attributeName="cx" values="480;620;480" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="740" cy="160" rx="200" ry="70" fill="#30d158" opacity="0.18">
+    <animate attributeName="cx" values="700;800;700" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+  <text x="40" y="70" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="28" font-weight="800" fill="#ffffff">Open to relocate</text>
+  <text x="40" y="108" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="16" fill="#c5cdd8">Islamabad  ·  target countries  ·  hashimkhan.dev</text>
+</svg>

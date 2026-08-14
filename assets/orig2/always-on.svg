@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 420" width="240" height="420">
+  <rect width="240" height="420" rx="36" fill="#020203"/>
+  <text x="120" y="160" text-anchor="middle" font-size="40" fill="#3a3a40" font-family="SF Pro Display, Helvetica Neue, Arial">9:41</text>
+  <text x="120" y="250" text-anchor="middle" font-size="12" fill="#2a2a30" font-family="SF Pro Text, Helvetica Neue, Arial">Always On Display</text>
+</svg>

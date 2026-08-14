@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220">
+  <rect width="900" height="220" rx="24" fill="#05060a"/>
+  <g stroke="#0a84ff" stroke-width="1.2" fill="none" opacity="0.7">
+    <path d="M80 110 L220 50 L360 130 L500 40 L640 140 L820 70"/>
+    <path d="M80 110 L240 180 L400 90 L560 190 L720 80 L820 150"/>
+  </g>
+  <g fill="#64d2ff">
+    <circle cx="80" cy="110" r="6"><animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="220" cy="50" r="5"><animate attributeName="r" values="3;7;3" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="360" cy="130" r="6"><animate attributeName="r" values="4;9;4" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="40" r="5"><animate attributeName="r" values="3;8;3" dur="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="140" r="6"><animate attributeName="r" values="4;8;4" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="70" r="5"><animate attributeName="r" values="3;7;3" dur="1.5s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="40" y="200" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="14" fill="#8ea0b8">Clean Swift  ·  maps  ·  chat  ·  calling</text>
+</svg>

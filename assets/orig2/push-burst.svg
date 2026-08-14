@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" width="280" height="180">
+  <rect width="280" height="180" rx="24" fill="#140a0a"/>
+  <circle cx="140" cy="80" r="18" fill="#ff453a">
+    <animate attributeName="r" values="16;28;16" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="140" y="140" text-anchor="middle" font-size="14" fill="#ffffff" font-family="SF Pro Display, Helvetica Neue, Arial">APNs</text>
+</svg>

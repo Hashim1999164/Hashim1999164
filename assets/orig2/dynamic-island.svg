@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" width="420" height="240">
+  <rect width="420" height="240" rx="28" fill="#070b14"/>
+  <rect x="110" y="28" width="200" height="36" rx="18" fill="#000">
+    <animate attributeName="width" values="200;280;200" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="110;70;110" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="132" cy="46" r="6" fill="#30d158"/>
+  <text x="210" y="140" text-anchor="middle" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="18" font-weight="700" fill="#ffffff">Incoming CallKit</text>
+  <text x="210" y="172" text-anchor="middle" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Audio and video in production</text>
+</svg>

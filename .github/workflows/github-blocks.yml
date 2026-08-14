@@ -1,0 +1,54 @@
+name: Update contribution graph games
+
+on:
+  schedule:
+    - cron: "40 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/github-blocks.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Checkout github-blocks
+        uses: actions/checkout@v4
+        with:
+          repository: okturan/github-blocks
+          path: .github-blocks-src
+
+      - name: Generate graph games
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+          LD_THEMES: dark
+          LD_SEED: daily
+          LD_OUT: ${{ github.workspace }}/assets/blocks
+        run: |
+          mkdir -p assets/blocks
+          cd .github-blocks-src
+          for b in lane-defense night-shift boss-fight commit-life; do
+            BLOCK=$b node action/generate.mjs
+          done
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf .github-blocks-src
+          git add assets/blocks/*.svg
+          if git diff --cached --quiet; then
+            echo "No game changes"
+            exit 0
+          fi
+          git commit -m "Update contribution graph games [skip ci]"
+          git pull --rebase origin main
+          git push

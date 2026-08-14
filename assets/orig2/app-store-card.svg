@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 180" width="420" height="180">
+  <rect width="420" height="180" rx="24" fill="#0e1422"/>
+  <rect x="20" y="24" width="80" height="80" rx="18" fill="#0a84ff"/>
+  <text x="60" y="74" text-anchor="middle" font-size="28" fill="#fff" font-family="SF Pro Display, Helvetica Neue, Arial" font-weight="800">A</text>
+  <text x="118" y="54" font-size="18" font-weight="700" fill="#fff" font-family="SF Pro Display, Helvetica Neue, Arial">App Store</text>
+  <text x="118" y="80" font-size="13" fill="#8ea0b8" font-family="SF Pro Text, Helvetica Neue, Arial">Live consumer apps</text>
+  <rect x="118" y="96" width="90" height="28" rx="14" fill="#0a84ff"/>
+  <text x="163" y="115" text-anchor="middle" font-size="12" fill="#fff" font-family="SF Pro Text, Helvetica Neue, Arial">GET</text>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 500" width="280" height="500">
+  <rect width="280" height="500" rx="40" fill="#05060a" stroke="#1a2a44"/>
+  <text x="140" y="90" text-anchor="middle" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="48" font-weight="800" fill="#ffffff">9:41</text>
+  <text x="140" y="118" text-anchor="middle" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Islamabad</text>
+  <rect x="24" y="160" width="232" height="70" rx="18" fill="#0e1422"/>
+  <text x="40" y="190" font-size="12" fill="#0a84ff" font-family="SF Pro Text, Helvetica Neue, Arial">TRIP</text>
+  <text x="40" y="214" font-size="16" fill="#ffffff" font-family="SF Pro Display, Helvetica Neue, Arial">Background GPS live</text>
+  <rect x="24" y="244" width="232" height="70" rx="18" fill="#0e1422"/>
+  <text x="40" y="274" font-size="12" fill="#30d158" font-family="SF Pro Text, Helvetica Neue, Arial">WALLET</text>
+  <text x="40" y="298" font-size="16" fill="#ffffff" font-family="SF Pro Display, Helvetica Neue, Arial">Easypaisa iOS</text>
+  <rect x="24" y="328" width="232" height="70" rx="18" fill="#0e1422"/>
+  <text x="40" y="358" font-size="12" fill="#64d2ff" font-family="SF Pro Text, Helvetica Neue, Arial">CHAT</text>
+  <text x="40" y="382" font-size="16" fill="#ffffff" font-family="SF Pro Display, Helvetica Neue, Arial">1:1 and group</text>
+</svg>

@@ -1006,6 +1006,214 @@ Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214)
 </div>
 
 
+## 100 more cool widgets (round 3)
+
+100 new visual widgets after another live search. Tower defense on the contribution graph, neon trophies, Ligature arcade, MZR snakes, and original iOS HUD art. Not more star badges.
+
+<div align="center">
+
+<img src="./assets/blocks/lane-defense.svg" alt="Lane defense" width="100%"/>
+
+<img src="./assets/blocks/night-shift.svg" alt="Night shift" width="100%"/>
+
+<img src="./assets/blocks/boss-fight.svg" alt="Boss fight" width="100%"/>
+
+<img src="./assets/blocks/commit-life.svg" alt="Commit Life" width="100%"/>
+
+<img src="./assets/cool2/trophy-juicyfresh.svg" alt="Trophies juicyfresh" width="100%"/>
+
+<img src="./assets/cool2/trophy-flat.svg" alt="Trophies flat" width="100%"/>
+
+<img src="./assets/cool2/trophy-discord.svg" alt="Trophies discord" width="100%"/>
+
+<img src="./assets/cool2/trophy-tokyonight.svg" alt="Trophies tokyonight" width="100%"/>
+
+<img src="./assets/cool2/trophy-chalk.svg" alt="Trophies chalk" width="100%"/>
+
+<img src="./assets/cool2/trophy-darkhub.svg" alt="Trophies darkhub" width="100%"/>
+
+<img src="./assets/cool2/trophy-oldie.svg" alt="Trophies oldie" width="100%"/>
+
+<img src="./assets/cool2/trophy-onestar.svg" alt="Trophies onestar" width="100%"/>
+
+<img src="./assets/cool2/trophy-gitdimmed.svg" alt="Trophies gitdimmed" width="100%"/>
+
+<img src="./assets/cool2/trophy-buddhism.svg" alt="Trophies buddhism" width="100%"/>
+
+<img src="https://personal-trophy.vercel.app/api?username=Hashim1999164&theme=neon" alt="Personal trophy neon"/>
+
+<img src="https://personal-trophy.vercel.app/api?username=Hashim1999164&theme=cyberpunk" alt="Personal trophy cyberpunk"/>
+
+<img src="https://personal-trophy.vercel.app/api?username=Hashim1999164&theme=gold" alt="Personal trophy gold"/>
+
+<img src="https://personal-trophy.vercel.app/api?username=Hashim1999164&theme=sakura" alt="Personal trophy sakura"/>
+
+<img src="https://personal-trophy.vercel.app/api?username=Hashim1999164&theme=matrix" alt="Personal trophy matrix"/>
+
+<img src="https://personal-trophy.vercel.app/api?username=Hashim1999164&theme=hacker" alt="Personal trophy hacker"/>
+
+<img src="https://icon.mzrdev.com/trophy?username=Hashim1999164&theme=dark" alt="MZR trophy dark" width="100%"/>
+
+<img src="https://icon.mzrdev.com/trophy?username=Hashim1999164&theme=radical" alt="MZR trophy radical" width="100%"/>
+
+<img src="https://icon.mzrdev.com/trophy?username=Hashim1999164&theme=tokyonight" alt="MZR trophy tokyonight" width="100%"/>
+
+<img src="https://icon.mzrdev.com/trophy?username=Hashim1999164&theme=gruvbox" alt="MZR trophy gruvbox" width="100%"/>
+
+<img src="https://icon.mzrdev.com/trophy?username=Hashim1999164&theme=dracula" alt="MZR trophy dracula" width="100%"/>
+
+<img src="https://icon.mzrdev.com/stats?username=Hashim1999164&theme=dark" alt="MZR stats dark"/>
+
+<img src="https://icon.mzrdev.com/stats?username=Hashim1999164&theme=tokyonight" alt="MZR stats tokyonight"/>
+
+<img src="https://icon.mzrdev.com/snk?username=Hashim1999164&palette=github-dark&color_bar_by_eaten=true&show_score=true&speed=1" alt="MZR snake" width="100%"/>
+
+<img src="https://icon.mzrdev.com/typing?text=Hashim+Khan;iOS+engineer;Swift+UIKit+SwiftUI&font=Fira+Code&height=80" alt="MZR typing"/>
+
+<img src="https://icon.mzrdev.com/social?platform=github&username=Hashim1999164" alt="MZR social"/>
+
+<img src="https://icon.mzrdev.com/badge?icon=Swift" alt="MZR Swift"/>
+
+<img src="https://icon.mzrdev.com/badge?icon=Apple" alt="MZR Apple"/>
+
+<img src="https://icon.mzrdev.com/badge?icon=Xcode" alt="MZR Xcode"/>
+
+<img src="https://icon.mzrdev.com/badge?icon=TypeScript" alt="MZR TypeScript"/>
+
+<img src="https://icon.mzrdev.com/badge?icon=Git" alt="MZR Git"/>
+
+<img src="https://icon.mzrdev.com/badge?icon=NodeJS" alt="MZR NodeJS"/>
+
+<img src="https://icon.mzrdev.com/badge?icon=Firebase" alt="MZR Firebase"/>
+
+<img src="https://gitstrength.netlify.app/api/card?username=Hashim1999164&theme=dark" alt="GitStrength card"/>
+
+<img src="https://gitstrength.netlify.app/api/card-with-avatar?username=Hashim1999164&theme=dark" alt="GitStrength avatar"/>
+
+<img src="https://gitstrength.netlify.app/api/skill-set-card?skills=Swift,UIKit,SwiftUI,MapKit,CallKit,TypeScript&theme=dark" alt="GitStrength skills"/>
+
+<img src="https://gitstrength.netlify.app/api/visitor-count?key=Hashim1999164&label=Profile%20views" alt="GitStrength views"/>
+
+<img src="https://ligatures.netlify.app/api/github?user=Hashim1999164&theme=geist" alt="Ligature geist"/>
+
+<img src="https://ligatures.netlify.app/api/github?user=Hashim1999164&theme=cyberpunk" alt="Ligature cyberpunk"/>
+
+<img src="https://ligatures.netlify.app/api/star-history?repo=Hashim1999164/Hashim1999164&theme=cyberpunk" alt="Ligature star history"/>
+
+<img src="https://ligatures.netlify.app/api/games?user=Hashim1999164&game=pacman&theme=minimal" alt="Ligature pacman"/>
+
+<img src="https://ligatures.netlify.app/api/games?user=Hashim1999164&game=bomberman&theme=minimal" alt="Ligature bomberman"/>
+
+<img src="https://ligatures.netlify.app/api/games?user=Hashim1999164&game=minesweeper&theme=minimal" alt="Ligature minesweeper"/>
+
+<img src="https://ligatures.netlify.app/api/games?user=Hashim1999164&game=breakout&theme=minimal" alt="Ligature breakout"/>
+
+<img src="https://ligatures.netlify.app/api/games?user=Hashim1999164&game=galaga&theme=minimal" alt="Ligature galaga"/>
+
+<img src="https://readme-components.vercel.app/api?component=logo&fill=0a84ff&text=HK" alt="Readme logo HK"/>
+
+<img src="https://readme-components.vercel.app/api?component=linear&value=95&skill=Swift" alt="Readme linear Swift"/>
+
+<img src="https://readme-components.vercel.app/api?component=progress&skill=SwiftUI&value=88" alt="Readme progress SwiftUI"/>
+
+<img src="https://zenquotes.io/api/image" alt="Zen quote image"/>
+
+<img src="https://readmeforge.natrajx.in/api/text-anim?text=App+Store+live&effect=fire&metal=neon-orange&size=28&width=900&height=65" alt="Forge fire"/>
+
+<img src="https://readmeforge.natrajx.in/api/text-anim?text=Clean+Swift&effect=scramble&metal=cyber-teal&size=28&width=900&height=65" alt="Forge scramble"/>
+
+<img src="https://readmeforge.natrajx.in/api/text-anim?text=Hashim+Khan&effect=typewriter&metal=chrome&size=32&width=900&height=65" alt="Forge typewriter"/>
+
+<img src="https://readmeforge.natrajx.in/api/text-anim?text=Maps+Chat+Calling&effect=wave&metal=aurora&size=28&width=900&height=65" alt="Forge wave"/>
+
+<img src="https://readmeforge.natrajx.in/api/banner?text=Hashim+Khan&subtext=iOS+engineer&metal=gold&type=wave&height=120&width=900&animation=shimmer&theme=dark" alt="Forge gold"/>
+
+<img src="https://readmeforge.natrajx.in/api/banner?text=App+Store&metal=cyber-yellow&type=chevron&height=110&width=900&theme=dark" alt="Forge chevron"/>
+
+<img src="https://readmeforge.natrajx.in/api/skill-tree?skills=MapKit:84,CallKit:80,CoreLocation:82,Push:78,Node.js:75&title=Apple+and+backend&metal=aurora&width=430" alt="Forge apple skill tree"/>
+
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0A84FF&height=120&text=iOS&fontColor=ffffff" alt="Capsule speech"/>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0A84FF&height=120&text=Swift&fontColor=ffffff" alt="Capsule blur"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=amber/sakura&showContribs=on&contribTheme=popcat&width=980&height=auto" alt="Terminal popcat" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=amber/matcha&showContribs=on&contribTheme=capybara_onsen&width=980&height=auto" alt="Terminal capybara" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=obsidian/cobalt&showContribs=on&contribTheme=citylight&width=980&height=auto" alt="Terminal citylight" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=prism/matcha&showContribs=on&contribTheme=moss&width=980&height=auto" alt="Terminal moss" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=amber/sakura&showContribs=on&contribTheme=petal&width=980&height=auto" alt="Terminal petal" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=obsidian/graphite&showContribs=on&contribTheme=constellation&width=980&height=auto" alt="Terminal constellation" width="100%"/>
+
+<img src="https://readmeme.eu.cc/api/time.svg?theme=retro&timezone=Asia/Karachi&timeFormat=12h&label=Islamabad" alt="Retro Islamabad time"/>
+
+<img src="https://readmeme.eu.cc/api/weather.svg?theme=forest&city=Islamabad" alt="Forest Islamabad weather"/>
+
+<img src="https://readmeme.eu.cc/api/quote.svg?theme=crimson&quoteCategory=programming" alt="Crimson quote"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=synthwave-84&hide_border=true&area=true" alt="Synthwave activity" width="100%"/>
+
+<img src="./assets/orig2/holographic-foil.svg" alt="Holographic foil"/>
+
+<img src="./assets/orig2/neural-lattice.svg" alt="Neural lattice"/>
+
+<img src="./assets/orig2/aurora-veil.svg" alt="Aurora veil"/>
+
+<img src="./assets/orig2/dynamic-island.svg" alt="Dynamic Island"/>
+
+<img src="./assets/orig2/lock-screen.svg" alt="iOS lock screen"/>
+
+<img src="./assets/orig2/control-center.svg" alt="Control Center"/>
+
+<img src="./assets/orig2/app-store-card.svg" alt="App Store card"/>
+
+<img src="./assets/orig2/easypaisa-tile.svg" alt="Easypaisa tile"/>
+
+<img src="./assets/orig2/maps-compass.svg" alt="Maps compass"/>
+
+<img src="./assets/orig2/callkit-incoming.svg" alt="CallKit incoming"/>
+
+<img src="./assets/orig2/chat-typing.svg" alt="Chat typing"/>
+
+<img src="./assets/orig2/gps-orbit.svg" alt="GPS orbit"/>
+
+<img src="./assets/orig2/swift-orbit.svg" alt="Swift mark"/>
+
+<img src="./assets/orig2/testflight.svg" alt="TestFlight"/>
+
+<img src="./assets/orig2/push-burst.svg" alt="Push burst"/>
+
+<img src="./assets/orig2/wallet-chip.svg" alt="Wallet chip"/>
+
+<img src="./assets/orig2/relocate-globe.svg" alt="Relocate globe"/>
+
+<img src="./assets/orig2/xcode-build.svg" alt="Xcode build"/>
+
+<img src="./assets/orig2/battery-hud.svg" alt="Battery HUD"/>
+
+<img src="./assets/orig2/live-activity.svg" alt="Live Activity"/>
+
+<img src="./assets/orig2/siri-orb.svg" alt="Siri orb"/>
+
+<img src="./assets/orig2/widget-stack.svg" alt="WidgetKit stack"/>
+
+<img src="./assets/orig2/stand-by.svg" alt="StandBy"/>
+
+<img src="./assets/orig2/always-on.svg" alt="Always On Display"/>
+
+<img src="./assets/orig2/tarbiyah-tile.svg" alt="Tarbiyah tile"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=xcode&hide_border=true&area=true" alt="Activity xcode" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=gotham&hide_border=true&area=true" alt="Activity gotham" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=nord&hide_border=true&area=true" alt="Activity nord" width="100%"/>
+
+</div>
+
 <a id="contact"></a>
 
 <div align="center">

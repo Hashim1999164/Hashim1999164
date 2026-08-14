@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" width="360" height="220">
+  <rect width="360" height="220" rx="28" fill="#12080a"/>
+  <circle cx="180" cy="80" r="28" fill="#30d158">
+    <animate attributeName="r" values="26;32;26" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="180" y="150" text-anchor="middle" font-size="16" fill="#ffffff" font-family="SF Pro Display, Helvetica Neue, Arial">CallKit</text>
+  <text x="180" y="176" text-anchor="middle" font-size="12" fill="#8ea0b8" font-family="SF Pro Text, Helvetica Neue, Arial">Accept  ·  End  ·  Video</text>
+</svg>

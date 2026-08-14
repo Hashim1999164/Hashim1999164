@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 140" width="360" height="140">
+  <rect width="360" height="140" rx="24" fill="#0a1a2a"/>
+  <circle cx="70" cy="70" r="28" fill="#0a84ff"/>
+  <polygon points="62,56 86,70 62,84" fill="#fff"/>
+  <text x="116" y="64" font-size="18" font-weight="700" fill="#fff" font-family="SF Pro Display, Helvetica Neue, Arial">TestFlight</text>
+  <text x="116" y="90" font-size="13" fill="#8ea0b8" font-family="SF Pro Text, Helvetica Neue, Arial">Production App Store pipeline</text>
+</svg>

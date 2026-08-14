@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 220" width="280" height="220">
+  <rect width="280" height="220" rx="24" fill="#071018"/>
+  <circle cx="140" cy="100" r="52" fill="none" stroke="#64d2ff" stroke-width="2"/>
+  <ellipse cx="140" cy="100" rx="20" ry="52" fill="none" stroke="#0a84ff"/>
+  <path d="M88 100 H192 M96 80 H184 M96 120 H184" stroke="#1a2a44"/>
+  <circle cx="176" cy="78" r="5" fill="#30d158"/>
+  <text x="140" y="190" text-anchor="middle" font-size="13" fill="#c5cdd8" font-family="SF Pro Text, Helvetica Neue, Arial">Relocate: yes</text>
+</svg>

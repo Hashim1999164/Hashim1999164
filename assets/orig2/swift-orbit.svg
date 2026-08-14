@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 180" width="360" height="180">
+  <rect width="360" height="180" rx="24" fill="#1c0a08"/>
+  <text x="180" y="100" text-anchor="middle" font-size="64" font-weight="800" fill="#f05138" font-family="SF Pro Display, Helvetica Neue, Arial">S</text>
+  <text x="180" y="150" text-anchor="middle" font-size="13" fill="#c5cdd8" font-family="SF Pro Text, Helvetica Neue, Arial">Swift  ·  UIKit  ·  SwiftUI</text>
+</svg>
