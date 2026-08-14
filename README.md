@@ -35,6 +35,12 @@
 
 <img src="./assets/metrics.svg" alt="Five years iOS, App Store apps, wallet work, merged OSS" width="100%" />
 
+<br/>
+
+<a href="https://github.com/dbuzatto/gif-terminal">
+  <img src="./gif-terminal/output.gif" alt="Animated terminal with live GitHub stats" width="740" />
+</a>
+
 </div>
 
 <a id="about"></a>
