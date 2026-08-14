@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Lock screen music">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Lock screen</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Player under the clock.</text>
+  <text x="680" y="110" text-anchor="middle" fill="#f5f8ff" font-size="28" font-weight="700">9:41</text>
+  <rect x="600" y="140" width="160" height="48" rx="14" fill="#101826"/>
+  <circle cx="624" cy="164" r="10" fill="#0a84ff"/>
+  <rect x="644" y="156" width="80" height="6" rx="3" fill="#f5f8ff" opacity="0.6"/>
+  <rect x="644" y="168" width="50" height="4" rx="2" fill="#8ea0b8"/>
+</svg>

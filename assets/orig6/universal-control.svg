@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Universal Control">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Universal Control</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">One cursor. Two screens.</text>
+  <rect x="540" y="100" width="140" height="80" rx="10" fill="#152033"/>
+  <rect x="700" y="100" width="120" height="80" rx="10" fill="#1a2740"/>
+  <circle cx="670" cy="140" r="6" fill="#f5f8ff">
+    <animate attributeName="cx" values="600;780;600" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>

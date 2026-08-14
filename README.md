@@ -1630,6 +1630,214 @@ Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214)
 
 </div>
 
+## 100 more cool widgets (round 6)
+
+100 new visual widgets after another live search. Dungeon crawl on the contribution graph, isometric villages, CRT signal boards, CommitPulse 3D cities, GitCity skylines, and original iOS HUDs. Not more star badges.
+
+<div align="center">
+
+<img src="./assets/round6/contribution-crawl-dark.svg" alt="Contribution Crawl dark" width="100%"/>
+
+<img src="./assets/round6/contribution-crawl-light.svg" alt="Contribution Crawl light" width="100%"/>
+
+<img src="./assets/round6/maeul-balanced-dark.svg" alt="Maeul balanced dark" width="100%"/>
+
+<img src="./assets/round6/maeul-balanced-light.svg" alt="Maeul balanced light" width="100%"/>
+
+<img src="./assets/round6/maeul-nature-dark.svg" alt="Maeul nature dark" width="100%"/>
+
+<img src="./assets/round6/maeul-nature-light.svg" alt="Maeul nature light" width="100%"/>
+
+<img src="./assets/round6/maeul-civilization-dark.svg" alt="Maeul civilization dark" width="100%"/>
+
+<img src="./assets/round6/maeul-civilization-light.svg" alt="Maeul civilization light" width="100%"/>
+
+<img src="./assets/round6/maeul-2024-dark.svg" alt="Maeul 2024 dark" width="100%"/>
+
+<img src="./assets/round6/maeul-2024-light.svg" alt="Maeul 2024 light" width="100%"/>
+
+<img src="./assets/round6/maeul-2025-dark.svg" alt="Maeul 2025 dark" width="100%"/>
+
+<img src="./assets/round6/maeul-2025-light.svg" alt="Maeul 2025 light" width="100%"/>
+
+<img src="./assets/round6/crt-dark.svg" alt="CRT board" width="100%"/>
+
+<img src="./assets/round6/amber-dark.svg" alt="CRT amber" width="100%"/>
+
+<img src="./assets/round6/neon-dark.svg" alt="CRT neon" width="100%"/>
+
+<img src="./assets/round6/winamp-dark.svg" alt="CRT winamp" width="100%"/>
+
+<img src="./assets/round6/ice-dark.svg" alt="CRT ice" width="100%"/>
+
+<img src="./assets/round6/ruby-dark.svg" alt="CRT ruby" width="100%"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=neon" alt="CommitPulse neon"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=neon&view=heatmap" alt="CommitPulse heatmap"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=neon&view=radar" alt="CommitPulse radar"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=neon&view=monthly" alt="CommitPulse monthly"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=github&view=skyline" alt="CommitPulse skyline"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=neon&view=loc" alt="CommitPulse loc"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=neon&view=weekly" alt="CommitPulse weekly"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=neon&view=yearly" alt="CommitPulse yearly"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=neon&view=bars" alt="CommitPulse bars"/>
+
+<img src="https://commitpulse.vercel.app/api/streak?user=Hashim1999164&theme=neon&view=orbit" alt="CommitPulse orbit"/>
+
+<img src="https://gitcity.natrajx.in/api/svg?u=Hashim1999164" alt="GitCity skyline"/>
+
+<img src="https://gitcity.natrajx.in/api/svg?u=Hashim1999164&theme=noir" alt="GitCity noir"/>
+
+<img src="https://gitcity.natrajx.in/api/svg?u=Hashim1999164&theme=aurora" alt="GitCity aurora"/>
+
+<img src="https://gitcity.natrajx.in/api/svg?u=Hashim1999164&theme=gold" alt="GitCity gold"/>
+
+<img src="https://gitcity.natrajx.in/api/svg?u=Hashim1999164&theme=matrix" alt="GitCity matrix"/>
+
+<img src="./assets/orig6/action-button-watch.svg" alt="Watch Action button"/>
+
+<img src="./assets/orig6/always-on-watch.svg" alt="Always On Watch"/>
+
+<img src="./assets/orig6/app-library.svg" alt="App Library"/>
+
+<img src="./assets/orig6/apple-pencil-hover.svg" alt="Pencil hover"/>
+
+<img src="./assets/orig6/battery-health.svg" alt="Battery health"/>
+
+<img src="./assets/orig6/calculator-math.svg" alt="Math paper"/>
+
+<img src="./assets/orig6/camera-control-cap.svg" alt="Camera Control"/>
+
+<img src="./assets/orig6/carplay-ultra.svg" alt="CarPlay Ultra"/>
+
+<img src="./assets/orig6/center-stage.svg" alt="Center Stage"/>
+
+<img src="./assets/orig6/check-in-live.svg" alt="Live Check In"/>
+
+<img src="./assets/orig6/clean-energy.svg" alt="Clean Energy Charging"/>
+
+<img src="./assets/orig6/complications.svg" alt="Complications"/>
+
+<img src="./assets/orig6/contact-key.svg" alt="Contact Key Verification"/>
+
+<img src="./assets/orig6/continuity-camera.svg" alt="Continuity Camera"/>
+
+<img src="./assets/orig6/control-slider.svg" alt="Control Center sliders"/>
+
+<img src="./assets/orig6/depth-gauge.svg" alt="Depth"/>
+
+<img src="./assets/orig6/desk-view.svg" alt="Desk View"/>
+
+<img src="./assets/orig6/digital-crown.svg" alt="Digital Crown"/>
+
+<img src="./assets/orig6/double-tap.svg" alt="Double Tap"/>
+
+<img src="./assets/orig6/eye-sight.svg" alt="EyeSight"/>
+
+<img src="./assets/orig6/fitness-load.svg" alt="Training load"/>
+
+<img src="./assets/orig6/focus-filter.svg" alt="Focus filter"/>
+
+<img src="./assets/orig6/heart-rate.svg" alt="Heart rate"/>
+
+<img src="./assets/orig6/hide-my-email.svg" alt="Hide My Email"/>
+
+<img src="./assets/orig6/icloud-plus.svg" alt="iCloud+"/>
+
+<img src="./assets/orig6/interactive-widget.svg" alt="Interactive widget"/>
+
+<img src="./assets/orig6/ios-translate-live.svg" alt="Live Translate"/>
+
+<img src="./assets/orig6/island-music.svg" alt="Dynamic Island music"/>
+
+<img src="./assets/orig6/journal-mood.svg" alt="Journal mood"/>
+
+<img src="./assets/orig6/live-maps.svg" alt="Live Activity maps"/>
+
+<img src="./assets/orig6/lock-music.svg" alt="Lock screen music"/>
+
+<img src="./assets/orig6/lockdown-mode.svg" alt="Lockdown Mode"/>
+
+<img src="./assets/orig6/log-view.svg" alt="Apple Log"/>
+
+<img src="./assets/orig6/low-power.svg" alt="Low Power Mode"/>
+
+<img src="./assets/orig6/macro.svg" alt="Macro"/>
+
+<img src="./assets/orig6/math-notes.svg" alt="Math Notes"/>
+
+<img src="./assets/orig6/matter.svg" alt="Matter"/>
+
+<img src="./assets/orig6/night-mode-portraits.svg" alt="Night portrait"/>
+
+<img src="./assets/orig6/noise-app.svg" alt="Noise"/>
+
+<img src="./assets/orig6/optimization.svg" alt="Background Refresh"/>
+
+<img src="./assets/orig6/passwords-app.svg" alt="Passwords"/>
+
+<img src="./assets/orig6/photographic-styles.svg" alt="Photographic Styles"/>
+
+<img src="./assets/orig6/photonic-engine.svg" alt="Photonic Engine"/>
+
+<img src="./assets/orig6/photos-memories.svg" alt="Photos Memories"/>
+
+<img src="./assets/orig6/precision-finding.svg" alt="Precision Finding"/>
+
+<img src="./assets/orig6/private-relay.svg" alt="Private Relay"/>
+
+<img src="./assets/orig6/prores.svg" alt="ProRes"/>
+
+<img src="./assets/orig6/rcs.svg" alt="RCS"/>
+
+<img src="./assets/orig6/safari-reader.svg" alt="Reader"/>
+
+<img src="./assets/orig6/safety-check.svg" alt="Safety Check"/>
+
+<img src="./assets/orig6/screen-distance.svg" alt="Screen Distance"/>
+
+<img src="./assets/orig6/screen-time.svg" alt="Screen Time"/>
+
+<img src="./assets/orig6/scribble.svg" alt="Scribble"/>
+
+<img src="./assets/orig6/sidecar-pencil.svg" alt="Sidecar Pencil"/>
+
+<img src="./assets/orig6/smart-script.svg" alt="Smart Script"/>
+
+<img src="./assets/orig6/spatial-persona.svg" alt="Persona"/>
+
+<img src="./assets/orig6/spo2.svg" alt="Blood oxygen"/>
+
+<img src="./assets/orig6/spotlight-intents.svg" alt="Spotlight intents"/>
+
+<img src="./assets/orig6/stage-manager-ipad.svg" alt="Stage Manager iPad"/>
+
+<img src="./assets/orig6/standby-clock.svg" alt="StandBy clock"/>
+
+<img src="./assets/orig6/stolen-device.svg" alt="Stolen Device Protection"/>
+
+<img src="./assets/orig6/studio-light.svg" alt="Studio Light"/>
+
+<img src="./assets/orig6/tab-groups.svg" alt="Tab groups"/>
+
+<img src="./assets/orig6/temp-sensing.svg" alt="Temperature"/>
+
+<img src="./assets/orig6/thread-net.svg" alt="Thread"/>
+
+<img src="./assets/orig6/universal-control.svg" alt="Universal Control"/>
+
+<img src="./assets/orig6/uwb.svg" alt="Ultra Wideband"/>
+
+</div>
+
 <a id="contact"></a>
 
 <div align="center">

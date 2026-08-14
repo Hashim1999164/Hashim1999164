@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Smart Script">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Smart Script</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Neater handwriting. iPad.</text>
+  <path d="M560 150 Q 620 110 680 150 T 800 150" fill="none" stroke="#8ea0b8" stroke-width="2"/>
+  <path d="M560 160 Q 620 130 680 160 T 800 160" fill="none" stroke="#0a84ff" stroke-width="3"/>
+</svg>

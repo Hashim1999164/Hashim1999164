@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Depth">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Depth</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Dive. Watch Ultra.</text>
+  <rect x="640" y="70" width="80" height="140" rx="8" fill="#0b2233"/>
+  <rect x="640" y="70" width="80" height="70" fill="#0a84ff" opacity="0.35">
+    <animate attributeName="height" values="50;90;50" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="680" y="200" text-anchor="middle" fill="#f5f8ff" font-size="14">12.4 m</text>
+</svg>

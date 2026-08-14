@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Battery health">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Battery health</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Cycle count. Peak performance.</text>
+  <rect x="600" y="110" width="160" height="50" rx="10" fill="none" stroke="#f5f8ff" stroke-width="4"/>
+  <rect x="760" y="124" width="10" height="22" rx="2" fill="#f5f8ff"/>
+  <rect x="608" y="118" width="110" height="34" rx="6" fill="#30d158"/>
+  <text x="680" y="190" text-anchor="middle" fill="#8ea0b8" font-size="12">91% capacity</text>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Digital Crown">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Digital Crown</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Scroll with a click.</text>
+  <rect x="640" y="70" width="80" height="140" rx="20" fill="#152033" stroke="#1c2436"/>
+  <rect x="716" y="110" width="14" height="40" rx="4" fill="#8ea0b8">
+    <animate attributeName="y" values="100;130;100" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

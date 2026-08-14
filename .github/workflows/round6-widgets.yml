@@ -1,0 +1,84 @@
+name: Update round 6 widgets
+
+on:
+  schedule:
+    - cron: "10 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/round6-widgets.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Contribution Crawl
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p assets/round6
+          git clone --depth 1 https://github.com/MaskiCoding/Contribution-Crawl.git /tmp/crawl
+          cd /tmp/crawl
+          npm ci --ignore-scripts
+          npm run build
+          node dist/index.js Hashim1999164 "${GITHUB_WORKSPACE}/assets/round6"
+
+      - name: Maeul villages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git clone --depth 1 https://github.com/t1seo/maeul-in-the-sky.git /tmp/maeul
+          cd /tmp/maeul
+          npm install commander simplex-noise --ignore-scripts
+          node dist/index.js -u Hashim1999164 --token "$GITHUB_TOKEN" -o /tmp/m-bal --preset balanced --title "Hashim Khan"
+          node dist/index.js -u Hashim1999164 --token "$GITHUB_TOKEN" -o /tmp/m-nat --preset nature
+          node dist/index.js -u Hashim1999164 --token "$GITHUB_TOKEN" -o /tmp/m-civ --preset civilization
+          node dist/index.js -u Hashim1999164 --token "$GITHUB_TOKEN" -o /tmp/m-24 --preset balanced -y 2024 --title "Hashim 2024"
+          node dist/index.js -u Hashim1999164 --token "$GITHUB_TOKEN" -o /tmp/m-25 --preset balanced -y 2025 --title "Hashim 2025"
+          cp /tmp/m-bal/maeul-in-the-sky-dark.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-balanced-dark.svg"
+          cp /tmp/m-bal/maeul-in-the-sky-light.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-balanced-light.svg"
+          cp /tmp/m-nat/maeul-in-the-sky-dark.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-nature-dark.svg"
+          cp /tmp/m-nat/maeul-in-the-sky-light.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-nature-light.svg"
+          cp /tmp/m-civ/maeul-in-the-sky-dark.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-civilization-dark.svg"
+          cp /tmp/m-civ/maeul-in-the-sky-light.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-civilization-light.svg"
+          cp /tmp/m-24/maeul-in-the-sky-dark.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-2024-dark.svg"
+          cp /tmp/m-24/maeul-in-the-sky-light.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-2024-light.svg"
+          cp /tmp/m-25/maeul-in-the-sky-dark.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-2025-dark.svg"
+          cp /tmp/m-25/maeul-in-the-sky-light.svg "${GITHUB_WORKSPACE}/assets/round6/maeul-2025-light.svg"
+
+      - name: CRT boards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: Hashim1999164
+          CRT_OUTPUT_DIR: ${{ github.workspace }}/assets/round6
+          CRT_THEMES: crt,amber,neon,winamp,ice,ruby
+        run: |
+          git clone --depth 1 https://github.com/stefashkaa/github-profile-crt.git /tmp/crt
+          cd /tmp/crt
+          npm install --ignore-scripts
+          npx --yes tsx src/cli.ts
+          cd "${GITHUB_WORKSPACE}"
+          rm -f assets/round6/crt-light.svg assets/round6/amber-light.svg assets/round6/neon-light.svg assets/round6/winamp-light.svg assets/round6/ice-light.svg assets/round6/ruby-light.svg
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/round6/*.svg
+          if git diff --cached --quiet; then
+            echo "No round 6 widget changes"
+            exit 0
+          fi
+          git commit -m "Update round 6 contribution widgets [skip ci]"
+          git pull --rebase origin main
+          git push

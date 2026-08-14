@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Precision Finding">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Precision Finding</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">U1. Distance and arrow.</text>
+  <text x="680" y="120" text-anchor="middle" fill="#f5f8ff" font-size="28" font-weight="700">12 m</text>
+  <polygon points="680,140 700,190 660,190" fill="#0a84ff">
+    <animateTransform attributeName="transform" type="rotate" from="-12 680 165" to="12 680 165" dur="1.4s" repeatCount="indefinite"/>
+  </polygon>
+</svg>
