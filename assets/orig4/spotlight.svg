@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Spotlight">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a84ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5e5ce6" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436" stroke-width="1"/>
+  
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Spotlight</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">System search. Apps, files, shortcuts.</text>
+
+  <rect x="520" y="100" width="280" height="48" rx="14" fill="#101826" stroke="#1c2436"/>
+  <circle cx="548" cy="124" r="10" fill="none" stroke="#8ea0b8" stroke-width="2"/>
+  <path d="M556 132 L564 140" stroke="#8ea0b8" stroke-width="2"/>
+  <text x="580" y="130" font-size="16" fill="#f5f8ff" font-family="SF Pro Text, Arial">Swift MapKit
+    <animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+</svg>

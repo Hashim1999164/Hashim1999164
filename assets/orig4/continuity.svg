@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Continuity">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a84ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5e5ce6" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436" stroke-width="1"/>
+  
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Continuity</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Phone, pad, Mac. One session.</text>
+
+  <rect x="560" y="110" width="36" height="64" rx="8" fill="#152033" stroke="#0a84ff"/>
+  <rect x="620" y="96" width="90" height="92" rx="12" fill="#1a2740" stroke="#0a84ff"/>
+  <rect x="740" y="88" width="70" height="108" rx="8" fill="#152033" stroke="#0a84ff"/>
+  <path d="M596 142 H620 M710 142 H740" stroke="#5e5ce6" stroke-width="2" stroke-dasharray="6 4">
+    <animate attributeName="stroke-dashoffset" values="0;20" dur="1s" repeatCount="indefinite"/>
+  </path>
+
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Journal">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a84ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5e5ce6" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436" stroke-width="1"/>
+  
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Journal</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Daily entries. Mood and location.</text>
+
+  <rect x="600" y="80" width="160" height="130" rx="14" fill="#101826" stroke="#1c2436"/>
+  <rect x="620" y="100" width="120" height="8" rx="4" fill="#0a84ff"/>
+  <rect x="620" y="120" width="100" height="6" rx="3" fill="#1c2436"/>
+  <rect x="620" y="136" width="110" height="6" rx="3" fill="#1c2436"/>
+  <rect x="620" y="152" width="80" height="6" rx="3" fill="#1c2436"/>
+  <circle cx="640" cy="186" r="8" fill="#ffd60a"/>
+
+</svg>

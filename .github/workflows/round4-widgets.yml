@@ -1,0 +1,104 @@
+name: Update round 4 widgets
+
+on:
+  schedule:
+    - cron: "20 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/round4-widgets.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Mario contribution graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: ${{ github.repository_owner }}
+        run: |
+          mkdir -p assets/round4
+          git clone --depth 1 https://github.com/sapthesh/mario-contribution-graph.git /tmp/mario
+          python3 /tmp/mario/generate_mario.py
+          cp /tmp/mario/mario_contribution.svg assets/round4/mario_contribution.svg
+
+      - name: Snake AI (snake-and-commits)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git clone --depth 1 https://github.com/dahan8473/snake-and-commits.git /tmp/snake-commits
+          cd /tmp/snake-commits
+          for t in green blue amber matrix; do
+            python3 generate.py --user Hashim1999164 --output "${GITHUB_WORKSPACE}/assets/round4/snake-ai-${t}.svg" --theme "$t" --frame
+          done
+
+      - name: Snake Evolution
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for t in github-dark ocean sunset neon-gamer cypherpunk; do
+            npx --yes @snake-evolution/cli generate -u Hashim1999164 -t "$t" -o "assets/round4/evo-${t}.svg" --token "$GITHUB_TOKEN"
+          done
+
+      - name: Coding habits and extra graph games
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: |
+          git clone --depth 1 https://github.com/okturan/github-blocks.git /tmp/github-blocks
+          cd /tmp/github-blocks
+          HABITS_TIMEZONE=Asia/Karachi HABITS_THEMES=dark,light HABITS_OUT="${GITHUB_WORKSPACE}/assets/round4" HABITS_LIMIT=500 node action/generate-coding-habits.mjs
+          for pair in "lane-defense:2" "lane-defense:3" "night-shift:2" "night-shift:3" "boss-fight:2" "boss-fight:3"; do
+            b="${pair%%:*}"
+            lvl="${pair##*:}"
+            d="/tmp/gb-${b}-${lvl}"
+            mkdir -p "$d"
+            BLOCK="$b" LD_LEVEL="$lvl" LD_OUT="$d" LD_THEMES=dark LD_SEED="$((20680 + lvl))" node action/generate.mjs
+            cp "$d/${b}.svg" "${GITHUB_WORKSPACE}/assets/round4/${b}-lvl${lvl}.svg"
+          done
+          node --input-type=module << 'JS'
+          import { writeFileSync } from "node:fs";
+          import { commitLife } from "./blocks/commit-life.mjs";
+          import { fetchContributionGrid } from "./lib/contrib.mjs";
+          const grid = await fetchContributionGrid(process.env.PROFILE_USER);
+          const out = process.env.GITHUB_WORKSPACE + "/assets/round4";
+          const variants = [
+            { file: "commit-life-highlife.svg", rule: "B36/S23", title: "HIGHLIFE", note: "B36/S23" },
+            { file: "commit-life-wrap.svg", rule: "B3/S23", title: "LIFE WRAP", note: "WEEKDAY WRAP", wrapRows: true },
+            { file: "commit-life-seeds.svg", rule: "B2/S", title: "SEEDS", note: "B2/S explosive" },
+          ];
+          for (const v of variants) {
+            const svg = commitLife(grid, {
+              seed: 20680, theme: "dark", title: v.title, rule: v.rule, wrapRows: !!v.wrapRows, note: v.note,
+            });
+            writeFileSync(`${out}/${v.file}`, svg);
+          }
+          JS
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/round4/*.svg
+          if git diff --cached --quiet; then
+            echo "No round 4 widget changes"
+            exit 0
+          fi
+          git commit -m "Update round 4 contribution widgets [skip ci]"
+          git pull --rebase origin main
+          git push

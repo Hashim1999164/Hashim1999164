@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Spatial capture">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a84ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5e5ce6" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436" stroke-width="1"/>
+  
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Spatial capture</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Two-camera depth. Spatial photos.</text>
+
+  <circle cx="640" cy="130" r="40" fill="none" stroke="#0a84ff" stroke-width="4"/>
+  <circle cx="720" cy="130" r="40" fill="none" stroke="#5e5ce6" stroke-width="4"/>
+  <circle cx="640" cy="130" r="8" fill="#f5f8ff"/>
+  <circle cx="720" cy="130" r="8" fill="#f5f8ff"/>
+  <path d="M680 90 V170" stroke="#1c2436" stroke-dasharray="4 4"/>
+  <text x="680" y="200" text-anchor="middle" fill="#8ea0b8" font-size="12" font-family="SF Pro Text, Arial">L / R stereo pair</text>
+
+</svg>

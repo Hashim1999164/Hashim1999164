@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Action Button">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a84ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5e5ce6" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436" stroke-width="1"/>
+  
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Action Button</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Hardware shortcut. Camera, Focus, Silent.</text>
+
+  <rect x="640" y="70" width="28" height="70" rx="10" fill="#1c2436" stroke="#0a84ff" stroke-width="3">
+    <animate attributeName="fill" values="#1c2436;#0a84ff;#1c2436" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="600" y="150" width="108" height="54" rx="12" fill="#101826"/>
+  <text x="654" y="182" text-anchor="middle" fill="#f5f8ff" font-size="13" font-family="SF Pro Text, Arial">Camera</text>
+
+</svg>

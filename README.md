@@ -1214,6 +1214,214 @@ Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214)
 
 </div>
 
+## 100 more cool widgets (round 4)
+
+100 new visual widgets after another live search. Mario parkour on the contribution graph, real Snake AI, Snake Evolution, coding-hour heatmaps, extra graph battles, GitHub Stats Extended, pixel cards, and original iOS HUDs. Not more star badges.
+
+<div align="center">
+
+<img src="./assets/round4/mario_contribution.svg" alt="Mario contribution graph" width="100%"/>
+
+<img src="./assets/round4/snake-ai-green.svg" alt="Snake AI green" width="100%"/>
+
+<img src="./assets/round4/snake-ai-blue.svg" alt="Snake AI blue" width="100%"/>
+
+<img src="./assets/round4/snake-ai-amber.svg" alt="Snake AI amber" width="100%"/>
+
+<img src="./assets/round4/snake-ai-matrix.svg" alt="Snake AI matrix" width="100%"/>
+
+<img src="./assets/round4/evo-github-dark.svg" alt="Snake Evolution github-dark" width="100%"/>
+
+<img src="./assets/round4/evo-ocean.svg" alt="Snake Evolution ocean" width="100%"/>
+
+<img src="./assets/round4/evo-sunset.svg" alt="Snake Evolution sunset" width="100%"/>
+
+<img src="./assets/round4/evo-neon-gamer.svg" alt="Snake Evolution neon gamer" width="100%"/>
+
+<img src="./assets/round4/evo-cypherpunk.svg" alt="Snake Evolution cypherpunk" width="100%"/>
+
+<img src="./assets/round4/coding-habits.svg" alt="Coding habits Karachi dark" width="100%"/>
+
+<img src="./assets/round4/coding-habits-light.svg" alt="Coding habits Karachi light" width="100%"/>
+
+<img src="./assets/round4/lane-defense-lvl2.svg" alt="Lane defense level 2" width="100%"/>
+
+<img src="./assets/round4/lane-defense-lvl3.svg" alt="Lane defense level 3" width="100%"/>
+
+<img src="./assets/round4/night-shift-lvl2.svg" alt="Night shift level 2" width="100%"/>
+
+<img src="./assets/round4/night-shift-lvl3.svg" alt="Night shift level 3" width="100%"/>
+
+<img src="./assets/round4/boss-fight-lvl2.svg" alt="Boss fight last stand" width="100%"/>
+
+<img src="./assets/round4/boss-fight-lvl3.svg" alt="Boss fight consumed" width="100%"/>
+
+<img src="./assets/round4/commit-life-highlife.svg" alt="Commit Life HighLife" width="100%"/>
+
+<img src="./assets/round4/commit-life-wrap.svg" alt="Commit Life weekday wrap" width="100%"/>
+
+<img src="./assets/round4/commit-life-seeds.svg" alt="Commit Life Seeds" width="100%"/>
+
+<img src="https://githubcard.com/Hashim1999164.svg" alt="GitHub card"/>
+
+<img src="https://gh-readme-profile.vercel.app/api?username=Hashim1999164&theme=dark" alt="GitHub readme profile"/>
+
+<img src="https://gh-readme-profile.vercel.app/api?username=Hashim1999164&theme=dark&revert=true" alt="GitHub readme profile flipped"/>
+
+<img src="https://gh-heat.anishroy.com/api/Hashim1999164/svg?theme=blue&darkMode=true" alt="Contribution heat blue" width="100%"/>
+
+<img src="https://gh-heat.anishroy.com/api/Hashim1999164/svg?theme=purple&darkMode=true" alt="Contribution heat purple" width="100%"/>
+
+<img src="https://gh-heat.anishroy.com/api/Hashim1999164/svg?theme=accent&darkMode=true" alt="Contribution heat accent" width="100%"/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Hashim1999164&show_icons=true&theme=radical&hide_border=true" alt="Stats Extended radical"/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Hashim1999164&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&hide_border=true" alt="Stats Extended reviews"/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Hashim1999164&show_icons=true&rank_icon=percentile&theme=holi&hide_border=true" alt="Stats Extended percentile"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hashim1999164&layout=donut&theme=radical&hide_border=true" alt="Stats Extended donut langs"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hashim1999164&layout=pie&theme=tokyonight&hide_border=true" alt="Stats Extended pie langs"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hashim1999164&layout=compact&theme=dracula&hide_border=true" alt="Stats Extended compact langs"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hashim1999164&layout=donut-vertical&theme=onedark&hide_border=true" alt="Stats Extended vertical donut"/>
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Hashim1999164&repo=practicePersonal&theme=radical&hide_border=true" alt="Stats Extended practicePersonal"/>
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=Hashim1999164&repo=lockdownios&theme=tokyonight&hide_border=true" alt="Stats Extended lockdownios"/>
+
+<img src="https://github-stats-extended.vercel.app/api/gist?id=d0cea8fb08634d8005b143017c0a3388&theme=radical" alt="Gist pin Tarbiyah privacy"/>
+
+<img src="https://github-readme-stats.shion.dev/api?username=Hashim1999164&show_icons=true&theme=dark&hide_border=true" alt="Shion stats"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Hashim1999164&layout=donut&theme=dark" alt="Shion langs donut"/>
+
+<img src="https://github-contribution-stats.vercel.app/api/?username=Hashim1999164" alt="Contribution stats"/>
+
+<img src="https://github-immortality.vercel.app/api?username=Hashim1999164" alt="GitHub immortality"/>
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Hashim1999164&theme=flower" alt="Pixel profile flower"/>
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Hashim1999164&theme=journey" alt="Pixel profile journey"/>
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=Hashim1999164&theme=summer" alt="Pixel profile summer"/>
+
+<img src="https://socialify.git.ci/Hashim1999164/Hashim1999164/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Socialify profile repo"/>
+
+<img src="https://socialify.git.ci/Hashim1999164/practicePersonal/image?description=1&font=Inter&name=1&owner=1&pattern=Diagonal&theme=Dark" alt="Socialify practicePersonal"/>
+
+<img src="https://icon.mzrdev.com/snk?username=Hashim1999164&palette=ocean&color_bar_by_eaten=true&show_score=true" alt="MZR snake ocean" width="100%"/>
+
+<img src="https://ligatures.netlify.app/api/games?user=Hashim1999164&game=puzzle-bobble&theme=minimal" alt="Ligature puzzle bobble"/>
+
+<img src="https://streak-stats.demolab.com/?user=Hashim1999164&theme=dark&hide_border=true&mode=weekly" alt="Weekly streak"/>
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0A84FF&height=120&text=iOS&fontColor=ffffff" alt="Capsule egg"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0A84FF&height=120&text=Swift&fontColor=ffffff" alt="Capsule soft"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0A84FF&height=120&text=App%20Store&fontColor=ffffff" alt="Capsule rounded"/>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0A84FF&height=120&text=iOS&fontColor=0A84FF" alt="Capsule transparent"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=ocean-dark&hide_border=true&area=true" alt="Activity ocean dark" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=rose-pine&hide_border=true&area=true" alt="Activity rose pine" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=high-contrast&hide_border=true&area=true" alt="Activity high contrast" width="100%"/>
+
+<img src="https://personal-trophy.vercel.app/api?username=Hashim1999164&theme=aurora" alt="Personal trophy aurora"/>
+
+<img src="https://readmeforge.natrajx.in/api/text-anim?text=Hashim+Khan+iOS&effect=neon-pulse&metal=electric&size=28&width=900&height=65" alt="Forge neon pulse"/>
+
+<img src="https://readmeforge.natrajx.in/api/logo-container?text=HK&metal=electric&style=shield&size=120&glow=true" alt="Forge HK shield"/>
+
+<img src="https://readmeforge.natrajx.in/api/divider?style=circuit&metal=neon-blue&width=900" alt="Forge circuit divider"/>
+
+<img src="./assets/orig4/face-id.svg" alt="Face ID"/>
+
+<img src="./assets/orig4/health-rings.svg" alt="Activity rings"/>
+
+<img src="./assets/orig4/airdrop.svg" alt="AirDrop radar"/>
+
+<img src="./assets/orig4/watch-face.svg" alt="Watch complications"/>
+
+<img src="./assets/orig4/carplay.svg" alt="CarPlay cluster"/>
+
+<img src="./assets/orig4/vision-spatial.svg" alt="visionOS HUD"/>
+
+<img src="./assets/orig4/stage-manager.svg" alt="Stage Manager"/>
+
+<img src="./assets/orig4/magsafe.svg" alt="MagSafe"/>
+
+<img src="./assets/orig4/shareplay.svg" alt="SharePlay"/>
+
+<img src="./assets/orig4/spatial-audio.svg" alt="Spatial Audio"/>
+
+<img src="./assets/orig4/passkeys.svg" alt="Passkeys"/>
+
+<img src="./assets/orig4/app-clip.svg" alt="App Clip"/>
+
+<img src="./assets/orig4/nfc-tap.svg" alt="NFC tap"/>
+
+<img src="./assets/orig4/haptics.svg" alt="Core Haptics"/>
+
+<img src="./assets/orig4/promotion.svg" alt="ProMotion"/>
+
+<img src="./assets/orig4/liquid-glass.svg" alt="Liquid Glass"/>
+
+<img src="./assets/orig4/action-button.svg" alt="Action Button"/>
+
+<img src="./assets/orig4/camera-control.svg" alt="Camera Control"/>
+
+<img src="./assets/orig4/coreml.svg" alt="Core ML"/>
+
+<img src="./assets/orig4/metal.svg" alt="Metal"/>
+
+<img src="./assets/orig4/arkit.svg" alt="ARKit"/>
+
+<img src="./assets/orig4/pencilkit.svg" alt="PencilKit"/>
+
+<img src="./assets/orig4/icloud.svg" alt="iCloud sync"/>
+
+<img src="./assets/orig4/homekit.svg" alt="HomeKit"/>
+
+<img src="./assets/orig4/airplay.svg" alt="AirPlay"/>
+
+<img src="./assets/orig4/continuity.svg" alt="Continuity"/>
+
+<img src="./assets/orig4/handoff.svg" alt="Handoff"/>
+
+<img src="./assets/orig4/spotlight.svg" alt="Spotlight"/>
+
+<img src="./assets/orig4/journal.svg" alt="Journal"/>
+
+<img src="./assets/orig4/fitness.svg" alt="Fitness"/>
+
+<img src="./assets/orig4/translate.svg" alt="Translate"/>
+
+<img src="./assets/orig4/photos-picker.svg" alt="Photos picker"/>
+
+<img src="./assets/orig4/shortcuts.svg" alt="Shortcuts"/>
+
+<img src="./assets/orig4/app-intents.svg" alt="App Intents"/>
+
+<img src="./assets/orig4/keychain.svg" alt="Keychain"/>
+
+<img src="./assets/orig4/safari-tab.svg" alt="Safari"/>
+
+<img src="./assets/orig4/files-app.svg" alt="Files"/>
+
+<img src="./assets/orig4/focus-modes.svg" alt="Focus modes"/>
+
+<img src="./assets/orig4/sidecar.svg" alt="Sidecar"/>
+
+<img src="./assets/orig4/spatial-capture.svg" alt="Spatial capture"/>
+
+</div>
+
 <a id="contact"></a>
 
 <div align="center">

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="CarPlay cluster">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a84ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#5e5ce6" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436" stroke-width="1"/>
+  
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">CarPlay cluster</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Maps and now playing on the dash</text>
+
+  <rect x="520" y="96" width="280" height="110" rx="18" fill="#101826" stroke="#1c2436"/>
+  <rect x="536" y="112" width="150" height="78" rx="10" fill="#0c1b12"/>
+  <path d="M548 170 L590 128 L640 150 L676 118" fill="none" stroke="#0a84ff" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="676" cy="118" r="5" fill="#30d158"/>
+  <text x="720" y="140" font-family="SF Pro Text, Arial" font-size="12" fill="#8ea0b8">Now playing</text>
+  <text x="720" y="162" font-family="SF Pro Display, Arial" font-size="16" font-weight="600" fill="#f5f8ff">Maps HUD</text>
+
+</svg>
