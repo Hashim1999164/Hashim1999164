@@ -18,8 +18,9 @@
 <p>Islamabad, Pakistan · open to relocate</p>
 
 <p>
-  <a href="https://github.com/Hashim1999164?tab=followers"><img src="https://img.shields.io/badge/Followers-View%20Profile-181717?style=flat-square&logo=github" alt="Followers"/></a>
-  <a href="https://github.com/Hashim1999164?tab=repositories"><img src="https://img.shields.io/badge/Repos-View%20Profile-181717?style=flat-square&logo=github" alt="Repos"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Hashim1999164&label=Profile%20views&color=0a84ff&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/Hashim1999164?tab=followers"><img src="https://img.shields.io/badge/Followers-View%20Profile-181717?style=for-the-badge&logo=github" alt="Followers"/></a>
+  <a href="https://github.com/Hashim1999164?tab=repositories"><img src="https://img.shields.io/badge/Repos-View%20Profile-181717?style=for-the-badge&logo=github" alt="Repos"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
@@ -205,6 +206,15 @@ English proficient · Urdu native
 ## GitHub
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hashim1999164&show_icons=true&theme=react&hide_border=true&include_all_commits=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashim1999164&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Top languages" height="165"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hashim1999164&theme=react&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 
