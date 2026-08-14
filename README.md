@@ -1,330 +1,223 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HEADER SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<a href="https://github.com/Hashim1999164">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=180&section=header&text=Hashim%20Khan&fontAlignY=40&desc=iOS%20App%20Developer%20|%20Swift%2C%20UIKit%2C%20SwiftUI&descAlignY=65&animation=fadeIn&fontColor=ffffff&descColor=ffffff" alt="header" width="100%" />
+</a>
 
-<div align="center">
-  <a href="https://github.com/Hashim1999164">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=180&section=header&text=Hashim%20Khan&fontAlignY=40&desc=Senior%20iOS%20Engineer%20|%20FinTech%20Specialist&descAlignY=65&animation=fadeIn&fontColor=ffffff&descColor=ffffff" alt="header" width="100%" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=1200&color=0a84ff&center=true&vCenter=true&width=850&lines=Hashim+Khan%2C+iOS+engineer;Swift%2C+UIKit%2C+SwiftUI;Shipping+live+App+Store+apps;Currently+at+Easypaisa)](https://git.io/typing-svg)
 
-
-<!-- Typing intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1200&color=0a84ff&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Hashim+Khan+%F0%9F%91%8B%3B;Senior+iOS+Developer+%26+Software+Engineer+%F0%9F%92%BB;Crafting+Robust+Mobile+Experiences+%F0%9F%8F%A0%3B;Expert+in+Clean+Swift+Architecture+%F0%9F%93%B1%3B;Let's+Connect+and+Build+Something+Great+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
-
-<!-- Social & Contact -->
 <p>
   <a href="https://www.linkedin.com/in/hashim-khan-953180175/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sardarhashim30@gmail.com?subject=Career%20Opportunity%20for%20iOS%20Developer&body=Hi%20Hashim%2C%0A%0AI%20am%20reaching%20out%20regarding%20a%20career%20opportunity%20for%20an%20iOS%20developer."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://wa.me/923145201562?text=Hi%20Hashim%2C%20I%20am%20reaching%20out%20regarding%20a%20career%20opportunity%20for%20an%20iOS%20developer."><img src="https://img.shields.io/badge/WhatsApp_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="mailto:sardarhashim30@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/923145201562"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://github.com/Hashim1999164"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://hashimkhan.dev"><img src="https://img.shields.io/badge/Portfolio-hashimkhan.dev-4A90E2?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://hashimkhan.dev"><img src="https://img.shields.io/badge/Download_CV-4A90E2?style=for-the-badge" alt="Download CV"/></a>
-</p>
-<p>
-  📍 <a href="https://www.google.com/maps/search/?api=1&query=Rawalpindi%2C%20Pakistan">Rawalpindi, Pakistan</a>
+  <a href="https://hashimkhan.dev"><img src="https://img.shields.io/badge/Resume-4A90E2?style=for-the-badge" alt="Resume"/></a>
 </p>
 
-<!-- Profile metrics - static badges only (avoids 404 from dynamic GitHub badges) -->
+<p>Islamabad, Pakistan · open to relocate</p>
+
 <p>
   <a href="https://github.com/Hashim1999164?tab=followers"><img src="https://img.shields.io/badge/Followers-View%20Profile-181717?style=flat-square&logo=github" alt="Followers"/></a>
   <a href="https://github.com/Hashim1999164?tab=repositories"><img src="https://img.shields.io/badge/Repos-View%20Profile-181717?style=flat-square&logo=github" alt="Repos"/></a>
-  <img src="https://img.shields.io/badge/GitHub-Hashim1999164-181717?style=flat-square&logo=github" alt="GitHub"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 </div>
 
----
+## About
 
-## 🚀 Professional Summary
+I build iOS apps for a living. Close to five years in Swift, UIKit, SwiftUI, and Clean Swift. I ship production App Store builds: payments, wallets, maps, chat, and calling.
 
-I am a **passionate iOS Developer** with **over 4 years** of experience specializing in iOS application development. I excel in **Swift**, **Clean Swift Architecture**, and building **enterprise-level iOS applications**. My expertise includes banking applications, performance optimization, and App Store deployment. I also have **backend development experience** to support full-stack iOS solutions. I thrive in **Agile environments** and enjoy collaborating with cross-functional teams to deliver high-quality, scalable iOS applications.
-
-| | |
-|:---:|---|
-| 💼 | Currently at **[Spire](https://spiretech.co/)** – For Open Banking |
-| 🏦 | 5+ enterprise banking applications developed for production use |
-| 🛠️ | Full-stack capabilities (iOS, Android, Node.js Backend) |
-| 🏆 | Multiple apps successfully published on the App Store |
-| 📦 | Published multiple SDKs on CocoaPods |
-| ⚡ | Optimized apps for smooth performance and excellent user experience |
-
----
-
-## 💡 What I Do
+Right now I am a Software Engineer (iOS) at [Easypaisa](https://easypaisa.com.pk/). On the side I ship my own App Store products and write backend when the product needs it.
 
 | | |
 |:---:|---|
-| **📱 iOS Development** | Leading and developing enterprise-level iOS applications using Swift, Clean Swift Architecture, and modern iOS frameworks. Specializing in banking apps, performance optimization, and App Store deployment. |
-| **🖥️ Backend Development** | Supporting iOS applications with Node.js backend development, API integration, and database management to ensure seamless full-stack solutions. |
-
----
-
-## 🏆 Core Expertise
+| Now | [Easypaisa](https://easypaisa.com.pk/) iOS, live digital bank and wallet |
+| Own apps | [Traject by Derived](https://apps.apple.com/us/app/traject-by-derived/id6769153653) · [Tarbiyah Huda](https://apps.apple.com/us/app/tarbiyah-huda/id6769155683) |
+| Work apps | Easypaisa, FriendiPay Oman, KFH Jazeel, JS Bank Bahrain, and other banking apps |
+| Stack | Swift, UIKit, SwiftUI, Clean Swift, Node.js, TypeScript |
 
 ```swift
-struct BankingApplication {
-    let name: String
-    let features: [String]
-    let secure: Bool
-}
-
-struct iOSBankingDeveloper {
-    let name = "Hashim Khan"
-    let specialization = "FinTech Solutions"
-    let architectures = ["Clean Swift", "MVVM", "VIPER"]
-    let techStack = ["Swift", "UIKit", "Combine", "CoreData"]
-    let security = ["OAuth2", "Biometrics", "SSL Pinning"]
-
-    func developApp() -> BankingApplication {
-        return BankingApplication(
-            name: "SecureBank",
-            features: architectures + techStack + security,
-            secure: true
-        )
-    }
+struct Hashim {
+    let role = "iOS Engineer"
+    let stack = ["Swift", "UIKit", "SwiftUI"]
+    let architecture = ["Clean Swift", "MVVM", "VIPER"]
+    let now = "Easypaisa"
+    let ownApps = ["Traject", "Tarbiyah Huda"]
 }
 ```
 
----
+## Experience
 
-## 💼 Professional Experience
-
-| Role | Company | Duration | Location |
-|------|---------|----------|----------|
-| **Senior Software Engineer (iOS)** | [Spire](https://spiretech.co/) | November 2025 – Present | KSA / Bahrain / UK |
-| **Senior Software Engineer (iOS)** | [Aion Digital](https://www.aiondigital.com) | March 2024 – October 2025 | Remote / Manama, Bahrain |
-| **Junior iOS Developer** | [Aion Digital](https://www.aiondigital.com) | May 2022 – March 2024 | Remote / Manama, Bahrain |
-| **iOS Developer Intern** | [Mercurial Minds](https://www.mercurialminds.com) | September 2021 – April 2022 | Islamabad, Pakistan |
+| Role | Company | Dates | Location |
+|------|---------|-------|----------|
+| Software Engineer (iOS) | [Easypaisa](https://easypaisa.com.pk/) | 04/2026 to Present | Pakistan |
+| Senior Software Engineer (iOS) | [Spiretech](https://spiretech.co/) | 11/2025 to 04/2026 | Remote |
+| Senior Software Engineer (iOS) | [Aion Digital](http://aiondigital.com/) | 03/2024 to 10/2025 | Bahrain (Remote) |
+| Jr. iOS Developer | [Aion Digital](http://aiondigital.com/) | 05/2022 to 03/2024 | Bahrain (Remote) |
+| iOS Developer Intern | [Mercurial Mind](http://mercurialminds.com/) | 09/2021 to 04/2022 | Islamabad |
 
 <details>
-<summary><b>Senior Software Engineer (iOS)</b> — Spire · November 2025 – Present</summary>
+<summary><b>Software Engineer (iOS)</b> · Easypaisa · 04/2026 to Present</summary>
 
-- Building iOS solutions for **Open Banking** and embedded finance at [Spire](https://spiretech.co/)
-- Contributing to Spire’s products (Smart Connect, Pay, Comply, Ingage, and related platforms) with Swift and modern iOS architecture
-- Delivering secure, compliant mobile experiences for account aggregation, payments, and financial data across MENA
-- Working with cross-functional teams across KSA, Bahrain, and UK offices
+- Ship iOS features for a live digital bank and wallet used at scale
+- Swift work on payments, wallet flows, and day to day money screens
+- Fix production bugs, cut crashes, and keep TestFlight and App Store releases moving
 
 </details>
 
 <details>
-<summary><b>Senior Software Engineer (iOS)</b> — Aion Digital · March 2024 – October 2025</summary>
+<summary><b>Senior Software Engineer (iOS)</b> · Spiretech · 11/2025 to 04/2026</summary>
 
-- Lead iOS development for enterprise-level banking applications using Swift and Clean Swift Architecture
-- Optimize app performance and resolve complex technical issues to ensure smooth user experience
-- Collaborate with UI/UX designers and backend developers to implement seamless integrations
-- Establish and maintain coding standards and best practices across the development team
-- Manage app store releases, TestFlight distributions, and CI/CD pipeline implementations
-- Mentor junior developers and conduct code reviews to maintain code quality
+- Owned iOS work for client apps using Swift and clean module boundaries
+- Shipped features end to end from ticket to App Store build and reviewed PRs
 
 </details>
 
 <details>
-<summary><b>Junior iOS Developer</b> — Aion Digital</summary>
+<summary><b>Senior Software Engineer (iOS)</b> · Aion Digital · 03/2024 to 10/2025</summary>
 
-- Developed and maintained large-scale banking applications for iOS platform
-- Implemented Clean Swift Architecture patterns to ensure code maintainability and scalability
-- Participated in Agile/Scrum development processes and delivered features on schedule
-- Developed new features, performed bug fixes, and conducted thorough testing
-- Managed app distribution through TestFlight, App Store, and Microsoft App Center
-- Provided technical support and resolved user-reported issues promptly
-- Gained experience with Android development using Kotlin for cross-platform understanding
+- Led iOS work on banking apps with Swift and Clean Swift
+- Tracked hard bugs, sped up slow screens, handled App Store and TestFlight
+- Worked with design and backend on API heavy flows
 
 </details>
 
 <details>
-<summary><b>iOS Developer Intern</b> — Mercurial Minds</summary>
+<summary><b>Jr. iOS Developer</b> · Aion Digital · 05/2022 to 03/2024</summary>
 
-- Developed iOS applications and SDKs using Swift and Objective-C
-- Collaborated in both individual and team-based development environments
-- Participated in daily Scrum standups and provided regular progress updates
-- Published multiple iOS applications to the App Store following Apple guidelines
-- Created and published iOS SDKs on CocoaPods for third-party integrations
-- Implemented MVC and MVVM architectural patterns for clean, maintainable code
-- Gained additional experience with Node.js backend development and Android development
+- Built and maintained large banking apps on iOS using Clean Swift
+- Shipped via TestFlight, App Store, and App Center
 
 </details>
 
----
+<details>
+<summary><b>iOS Developer Intern</b> · Mercurial Mind · 09/2021 to 04/2022</summary>
 
-## 🎓 Education
+- Built iOS apps and SDKs in Swift and Objective C
+- Published apps to the App Store and SDKs to CocoaPods
 
-| Degree | University | Location | Duration | CGPA |
-|--------|------------|----------|----------|------|
-| **Bachelor's in Information Technology** | Pir Mehr Ali Shah Arid Agriculture University (PMAS-AAUR) | 📍 Rawalpindi, Pakistan | 📅 September 2017 – August 2021 | **3.06 / 4.00** |
+</details>
 
-**Core Subjects:** Software Engineering · Object Oriented Programming · Final Year Project · Database Systems · Web Development · Data Structures & Algorithms
+## Apps
 
-**Achievements:** Final Year Project Excellence · Technical Society Member
-
-[**Visit University Website**](https://www.uaar.edu.pk/)
-
----
-
-## 🛠️ Technical Arsenal
-
-### 📱 iOS Development
-[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
-[![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/uikit)
-[![CoreData](https://img.shields.io/badge/CoreData-3498DB?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/coredata)
-[![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/documentation/combine)
-[![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)](https://cocoapods.org)
-
-### 🏗 Architecture & Patterns
-[![Clean Swift](https://img.shields.io/badge/Clean_Swift-FF6B6B?style=for-the-badge)](https://clean-swift.com)
-[![MVVM](https://img.shields.io/badge/MVVM-8E44AD?style=for-the-badge)](https://developer.apple.com/documentation/swiftui)
-[![VIPER](https://img.shields.io/badge/VIPER-3498DB?style=for-the-badge)](https://www.objc.io/issues/13-architecture/viper/)
-[![SOLID](https://img.shields.io/badge/SOLID-27AE60?style=for-the-badge)](https://en.wikipedia.org/wiki/SOLID)
-
-### 🔒 Security & Testing
-[![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)](https://oauth.net/2/)
-[![Biometrics](https://img.shields.io/badge/Biometrics-8A2BE2?style=for-the-badge)](https://developer.apple.com/documentation/localauthentication)
-[![Unit Testing](https://img.shields.io/badge/Unit_Testing-FF6347?style=for-the-badge)](https://developer.apple.com/documentation/xctest)
-[![SSL Pinning](https://img.shields.io/badge/SSL_Pinning-228B22?style=for-the-badge)](https://developer.apple.com/documentation/foundation/url_loading_system)
-
-### 🖥️ Backend & Tools
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)](https://restfulapi.net)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-
-### ✨ Additional Skills
-Firebase & Push Notifications · Security & App Store Guidelines · Performance Optimization · Code Review & Mentoring · Problem Solving & Debugging · Android Development (Kotlin) · SwiftUI · Swift Package Manager · App Store Connect & TestFlight · Core Animation & Auto Layout
-
----
-
-## 🎯 Career Preferences
-
-| | |
-|:---:|---|
-| **🌍 Open to Relocation** | Willing to relocate for exciting opportunities · Open to remote work with occasional office visits · Ready to relocate within 2–4 weeks notice · Comfortable with international assignments |
-| **💼 Job Preferences** | Senior iOS Developer roles · Fintech and banking applications · Startups and established companies · Full-time positions preferred · Competitive salary and benefits · Opportunities for growth and learning |
-
----
-
-## 🏗️ iOS Projects Portfolio
+### Personal
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ VisionBank Mobile
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ru/app/vision-bank-mobile-app/id6503427436?l=en-GB)
-- Modern mobile banking application
-- Secure transaction processing
-- Biometric authentication
-- Real-time balance updates
+**[Traject by Derived](https://apps.apple.com/us/app/traject-by-derived/id6769153653)**
 
-### 💳 FriendiPay Oman
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/friendi-pay-oman/id6738409222?uo=2)
-- Digital mobile wallet
-- Social payment features
-- Secure onboarding flow
-- QR code payments
-
-### 🏦 KFH Jazeel Banking (Bahrain Retail)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tj/app/kfh-jazeel-banking/id1369601727)
-- Retail banking app
-- Clean Swift architecture
-- Real-time transactions
-- **500k+ active users**
-
-### 🏢 KFHB Corporate (Bahrain)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/tj/app/kfhb-corporate/id1560148757)
-- Corporate banking solution
-- Multi-level approvals
-- Trade finance features
-- Secure document sharing
-
-### 🌐 JS Bank Bahrain
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/js-bahrain/id6741843878)
-- Corporate banking app
-- Trade finance features
-- Risk management tools
-- Regulatory compliance
+GPS, trips, maps, navigation, social feed, chat, CallKit audio and video. Backend and admin.
 
 </td>
 <td width="50%" valign="top">
 
-### 😊 MySmile App
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ng/app/mysmile-app/id1514500366)
-- Social networking app
-- MVC architecture
-- REST API integration
-- App Store published
+**[Tarbiyah Huda](https://apps.apple.com/us/app/tarbiyah-huda/id6769155683)**
 
-### 🏦 KFH Kuwait Retail
-- Retail banking application
-- Business requirements analysis
-- Clean Swift/Objective-C code
-- Unit and integration testing
-
-### 🏢 KFH Kuwait Corporate
-- Corporate banking application
-- UX/UI collaboration
-- Cross-functional teamwork
-- Performance optimization
-
-### 📦 Boubyan Bank Onboarding SDK
-- Onboarding SDK
-- Biometric authentication
-- iOS version compatibility
-- Performance optimization
-
-### 📱 VerifApp SDK
-- Phone number verification
-- SMS code validation
-- Modular architecture
-- **Published on CocoaPods**
+Islamic daily companion. Hadith, salah tracker, dhikr, dua library, Quran juz tracker, Qibla. No ads on worship screens.
 
 </td>
 </tr>
 </table>
 
----
+### Work
 
-## 📈 GitHub Analytics
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[easypaisa](https://apps.apple.com/pk/app/easypaisa-a-digital-bank/id1227725092)**
+
+Pakistan digital bank and wallet. Transfers, bills, load, savings, Raast, biometrics.
+
+**[FriendiPay Oman](https://apps.apple.com/us/app/friendi-pay-oman/id6738409222)**
+
+Digital wallet. Social payments, onboarding, QR payments.
+
+**[KFH Jazeel Banking](https://apps.apple.com/tj/app/kfh-jazeel-banking/id1369601727)**
+
+Retail banking. Clean Swift, live transactions, production release.
+
+**[JS Bank Bahrain](https://apps.apple.com/us/app/js-bahrain/id6741843878)**
+
+Corporate banking. Trade finance, risk tools, compliance flows.
+
+**[KFHB Corporate](https://apps.apple.com/tj/app/kfhb-corporate/id1560148757)**
+
+Corporate banking. Approvals, trade finance, documents.
+
+</td>
+<td width="50%" valign="top">
+
+**[MySmile App](https://apps.apple.com/ng/app/mysmile-app/id1514500366)**
+
+Social app. MVC, REST APIs, App Store release.
+
+**KFH Kuwait Retail**
+
+Retail banking. Swift and Objective C, tests.
+
+**KFH Kuwait Corporate**
+
+Corporate banking. Design handoff, delivery, performance work.
+
+**Boubyan Bank Onboarding SDK**
+
+Onboarding SDK. Biometrics, iOS version support.
+
+**VerifApp SDK**
+
+Phone number verification. Modular SDK, CocoaPods.
+
+</td>
+</tr>
+</table>
+
+## Skills
+
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-0a84ff?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/documentation/uikit)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+
+Swift · SwiftUI · UIKit · Objective C · Clean Swift · MVVM · MVC · VIPER · SPM · CocoaPods · Combine · async await · Core Data · Keychain · Push Notifications · CallKit · MapKit · Core Location · StoreKit · App Store Connect · TestFlight · Node.js · TypeScript · Express · REST · GraphQL · Firebase · Remote Config · Kotlin · Git · CI CD · Fastlane · Unit Testing · UI Testing · Biometrics · OAuth · JWT
+
+## Open source
+
+Merged PRs on axios, bootstrap, freeCodeCamp, astro, node-redis, refined-github, webpack, systemd, elastic-agent, azure-cli, validator.js, redux, postcss, mermaid, netdata, workers-sdk, gradle, highlight.js, cssnano, rollup, backbone, classnames, video.js, arrow-rs, and more.
+
+[See merged pull requests](https://github.com/search?q=author%3AHashim1999164+is%3Apr+is%3Amerged&type=Issues)
+
+## Education
+
+**Bachelors in Information Technology** · Arid Agriculture University · Rawalpindi · 09/2017 to 08/2021 · GPA 3.06 / 4.0
+
+[uaar.edu.pk](https://www.uaar.edu.pk/)
+
+English proficient · Urdu native
+
+## GitHub
 
 <div align="center">
 
-<!-- Row 1: Profile links - static badges only (no 404) -->
-<p>
-  <a href="https://github.com/Hashim1999164?tab=followers"><img src="https://img.shields.io/badge/Followers-View%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Followers"/></a>
-  <a href="https://github.com/Hashim1999164?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Repos"/></a>
-</p>
-
-<!-- Row 2: Contribution activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%"/>
 
-<!-- Row 4: Streak stats -->
 <img src="https://streak-stats.demolab.com/?user=Hashim1999164&theme=react&hide_border=false" alt="GitHub Streak" width="70%"/>
 
 </div>
 
----
-
 <div align="center">
 
-## 🤝 Let's Collaborate!
-
-I'm always open to discussing **iOS development**, **FinTech solutions**, or **new opportunities**.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashim-khan-953180175/)
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sardarhashim30@gmail.com?subject=Career%20Opportunity%20for%20iOS%20Developer&body=Hi%20Hashim%2C%0A%0AI%20am%20reaching%20out%20regarding%20a%20career%20opportunity%20for%20an%20iOS%20developer.)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_%2B923145201562-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923145201562?text=Hi%20Hashim%2C%20I%20am%20reaching%20out%20regarding%20a%20career%20opportunity%20for%20an%20iOS%20developer.)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sardarhashim30@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923145201562)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hashimkhan.dev-4A90E2?style=for-the-badge)](https://hashimkhan.dev)
-[![Download CV](https://img.shields.io/badge/Download_CV-4A90E2?style=for-the-badge)](https://hashimkhan.dev)
-
-📍 **Location:** [Rawalpindi, Pakistan](https://www.google.com/maps/search/?api=1&query=Rawalpindi%2C%20Pakistan)
-
-© 2026 All rights reserved.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,0,2&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
