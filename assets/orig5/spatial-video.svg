@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Spatial Video">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Spatial Video</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Two lenses. Depth in playback.</text>
+  <rect x="560" y="90" width="110" height="80" rx="10" fill="#152033" stroke="#0a84ff"/>
+  <rect x="690" y="90" width="110" height="80" rx="10" fill="#152033" stroke="#5e5ce6"/>
+  <text x="615" y="136" text-anchor="middle" fill="#f5f8ff" font-size="14">L</text>
+  <text x="745" y="136" text-anchor="middle" fill="#f5f8ff" font-size="14">R</text>
+  <rect x="620" y="184" width="120" height="8" rx="4" fill="#1c2436"/>
+  <rect x="620" y="184" width="50" height="8" rx="4" fill="#0a84ff">
+    <animate attributeName="width" values="20;110;20" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

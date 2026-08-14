@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Game Mode">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Game Mode</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Background pause. High refresh.</text>
+  <rect x="600" y="96" width="160" height="90" rx="12" fill="#101826"/>
+  <text x="680" y="140" text-anchor="middle" fill="#0a84ff" font-size="28" font-weight="700" font-family="SF Pro Display, Arial">120
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="0.4s" repeatCount="indefinite"/>
+  </text>
+  <text x="680" y="168" text-anchor="middle" fill="#8ea0b8" font-size="12">FPS lock</text>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Live Caller ID">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Live Caller ID</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Lookup on the ring. Silence spam.</text>
+  <rect x="560" y="96" width="240" height="90" rx="18" fill="#101826"/>
+  <circle cx="600" cy="141" r="22" fill="#0a84ff"/>
+  <text x="636" y="136" fill="#f5f8ff" font-size="16" font-family="SF Pro Display, Arial">Unknown</text>
+  <text x="636" y="158" fill="#ff453a" font-size="12">Likely spam</text>
+</svg>

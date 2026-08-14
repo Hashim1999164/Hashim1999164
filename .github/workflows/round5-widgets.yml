@@ -1,0 +1,48 @@
+name: Update round 5 invaders
+
+on:
+  schedule:
+    - cron: "50 5 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/round5-widgets.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate git-invader SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p assets/round5
+          git clone --depth 1 https://github.com/VARDHAMANPATEL23/git-invader.git /tmp/git-invader
+          cd /tmp/git-invader
+          npx --yes tsx src/index.ts --token "$GITHUB_TOKEN" --username Hashim1999164 --out "${GITHUB_WORKSPACE}/assets/round5" --mode dark
+          cd "${GITHUB_WORKSPACE}"
+          rm -f assets/round5/git-invader-yellow-dark.svg assets/round5/git-invader-orange-dark.svg
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/round5/*.svg
+          if git diff --cached --quiet; then
+            echo "No round 5 widget changes"
+            exit 0
+          fi
+          git commit -m "Update round 5 invader widgets [skip ci]"
+          git pull --rebase origin main
+          git push

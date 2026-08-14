@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Measure">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Measure</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">AR ruler. Point and tap.</text>
+  <line x1="560" y1="160" x2="800" y2="100" stroke="#0a84ff" stroke-width="3"/>
+  <circle cx="560" cy="160" r="7" fill="#f5f8ff"/>
+  <circle cx="800" cy="100" r="7" fill="#f5f8ff"/>
+  <text x="680" y="116" fill="#f5f8ff" font-size="16" font-family="SF Pro Display, Arial">2.41 m</text>
+</svg>

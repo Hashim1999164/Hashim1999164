@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Object Capture">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Object Capture</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Photogrammetry. Spin the object.</text>
+  <ellipse cx="680" cy="160" rx="70" ry="16" fill="none" stroke="#1c2436"/>
+  <rect x="650" y="90" width="60" height="70" rx="8" fill="#33405a">
+    <animateTransform attributeName="transform" type="rotate" from="-12 680 125" to="12 680 125" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <ellipse cx="680" cy="160" rx="70" ry="16" fill="none" stroke="#0a84ff" stroke-dasharray="20 10">
+    <animate attributeName="stroke-dashoffset" values="0;60" dur="2s" repeatCount="indefinite"/>
+  </ellipse>
+</svg>

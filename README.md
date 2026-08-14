@@ -1422,6 +1422,214 @@ Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214)
 
 </div>
 
+## 100 more cool widgets (round 5)
+
+100 new visual widgets after another live search. Space Invaders on the contribution graph, ProfileKit motion cards, GitHub Motion rain and pulsar, plus original iOS HUDs. Not more star badges.
+
+<div align="center">
+
+<img src="./assets/round5/git-invader-multi-dark.svg" alt="Git Invader multi" width="100%"/>
+
+<img src="./assets/round5/git-invader-green-dark.svg" alt="Git Invader green" width="100%"/>
+
+<img src="./assets/round5/git-invader-blue-dark.svg" alt="Git Invader blue" width="100%"/>
+
+<img src="./assets/round5/git-invader-pink-dark.svg" alt="Git Invader pink" width="100%"/>
+
+<img src="https://profilekit.vercel.app/api/hero?name=Hashim+Khan&subtitle=iOS+engineer&bg=wave&color=0A84FF" alt="ProfileKit hero wave" width="100%"/>
+
+<img src="https://profilekit.vercel.app/api/hero?name=Hashim+Khan&subtitle=Swift+UIKit+SwiftUI&bg=particles&color=0A84FF" alt="ProfileKit hero particles" width="100%"/>
+
+<img src="https://profilekit.vercel.app/api/hero?name=Hashim+Khan&subtitle=App+Store&bg=grid&color=0A84FF" alt="ProfileKit hero grid" width="100%"/>
+
+<img src="https://profilekit.vercel.app/api/stats?username=Hashim1999164&theme=tokyo_night" alt="ProfileKit stats"/>
+
+<img src="https://profilekit.vercel.app/api/stats?username=Hashim1999164&layout=compact&theme=tokyo_night" alt="ProfileKit stats compact"/>
+
+<img src="https://profilekit.vercel.app/api/languages?username=Hashim1999164&layout=donut&theme=tokyo_night" alt="ProfileKit langs donut"/>
+
+<img src="https://profilekit.vercel.app/api/languages?username=Hashim1999164&layout=compact&theme=tokyo_night" alt="ProfileKit langs compact"/>
+
+<img src="https://profilekit.vercel.app/api/languages?username=Hashim1999164&theme=tokyo_night" alt="ProfileKit langs"/>
+
+<img src="https://profilekit.vercel.app/api/reviews?username=Hashim1999164&theme=tokyo_night" alt="ProfileKit reviews"/>
+
+<img src="https://profilekit.vercel.app/api/pin?username=Hashim1999164&repo=practicePersonal&theme=tokyo_night" alt="ProfileKit pin"/>
+
+<img src="https://profilekit.vercel.app/api/pin?username=Hashim1999164&repo=lockdownios&theme=tokyo_night" alt="ProfileKit pin lockdownios"/>
+
+<img src="https://profilekit.vercel.app/api/quote?daily=true&theme=tokyo_night" alt="ProfileKit quote"/>
+
+<img src="https://profilekit.vercel.app/api/tags?tags=Swift:0A84FF,UIKit:2396F3,SwiftUI:5E5CE6,MapKit:30D158,CallKit:FF375F" alt="ProfileKit tags"/>
+
+<img src="https://profilekit.vercel.app/api/now?coding=Easypaisa+iOS&building=App+Store+apps&learning=SwiftUI&theme=tokyo_night" alt="ProfileKit now"/>
+
+<img src="https://profilekit.vercel.app/api/timeline?items=Now;Easypaisa+iOS;Live+digital+bank+and+wallet|Prior;Spiretech;iOS+for+client+apps|Own;App+Store;Maps+chat+calling&theme=tokyo_night" alt="ProfileKit timeline"/>
+
+<img src="https://profilekit.vercel.app/api/toc?items=About;about|Apps;apps|Experience;experience|Skills;skills&theme=tokyo_night" alt="ProfileKit toc"/>
+
+<img src="https://profilekit.vercel.app/api/section?title=iOS+work&subtitle=Swift+UIKit+SwiftUI&align=center&icon=%E2%97%8F&color=0A84FF" alt="ProfileKit section"/>
+
+<img src="https://profilekit.vercel.app/api/social?github=Hashim1999164&linkedin=hashim-khan-953180175&email=sardarhashim30@gmail.com&website=https://hashimkhan.dev&theme=tokyo_night" alt="ProfileKit social"/>
+
+<img src="https://profilekit.vercel.app/api/typing?lines=Hashim+Khan,iOS+engineer,Swift+UIKit+SwiftUI&color=0A84FF&frame=true&theme=tokyo_night" alt="ProfileKit typing"/>
+
+<img src="https://profilekit.vercel.app/api/terminal?commands=whoami,Hashim+Khan,stack,Swift+UIKit+SwiftUI,now,Easypaisa+iOS&window_title=~/ios&theme=tokyo_night" alt="ProfileKit terminal"/>
+
+<img src="https://profilekit.vercel.app/api/neon?text=iOS&color=0A84FF" alt="ProfileKit neon"/>
+
+<img src="https://profilekit.vercel.app/api/glitch?text=SWIFT" alt="ProfileKit glitch"/>
+
+<img src="https://profilekit.vercel.app/api/matrix?text=Hashim+Khan&color=0A84FF" alt="ProfileKit matrix"/>
+
+<img src="https://profilekit.vercel.app/api/snake?color=0A84FF" alt="ProfileKit snake" width="100%"/>
+
+<img src="https://profilekit.vercel.app/api/equalizer?label=LIVE&color=0A84FF" alt="ProfileKit equalizer" width="100%"/>
+
+<img src="https://profilekit.vercel.app/api/heartbeat?text=iOS&bpm=72" alt="ProfileKit heartbeat" width="100%"/>
+
+<img src="https://profilekit.vercel.app/api/constellation?text=Hashim+Khan&color=0A84FF" alt="ProfileKit constellation" width="100%"/>
+
+<img src="https://profilekit.vercel.app/api/radar?text=Ship&color=0A84FF" alt="ProfileKit radar"/>
+
+<img src="https://profilekit.vercel.app/api/wave?text=App+Store&color=0A84FF" alt="ProfileKit wave" width="100%"/>
+
+<img src="https://profilekit.vercel.app/api/divider?style=wave&color=0A84FF&width=900" alt="ProfileKit divider wave"/>
+
+<img src="https://profilekit.vercel.app/api/divider?style=dots&color=0A84FF&width=900" alt="ProfileKit divider dots"/>
+
+<img src="https://profilekit.vercel.app/api/divider?style=gradient&color=0A84FF&width=900" alt="ProfileKit divider gradient"/>
+
+<img src="https://profilekit.vercel.app/api/divider?style=dashed&color=0A84FF&width=900" alt="ProfileKit divider dashed"/>
+
+<img src="https://profilekit.vercel.app/api/divider?style=double&color=0A84FF&width=900" alt="ProfileKit divider double"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=rain&theme=dark-bg&shape=square" alt="Motion rain"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=matrix&theme=dracula&shape=square" alt="Motion matrix"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=wave&theme=nightowl&shape=circle" alt="Motion wave"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=grow&theme=tokyonight&shape=square" alt="Motion grow"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=pulsar&theme=unicorn&shape=diamond" alt="Motion pulsar"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=glow&theme=candy&shape=circle" alt="Motion glow"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=flip&theme=nightowl&shape=heart" alt="Motion flip"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=spark&theme=dracula&shape=diamond" alt="Motion spark"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=snake&theme=dark-bg&shape=square" alt="Motion snake"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=rain&theme=unicorn&shape=heart" alt="Motion rain hearts"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=grow&theme=unicorn&shape=heart" alt="Motion grow hearts"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=matrix&theme=nightowl&shape=diamond" alt="Motion matrix diamonds"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=spark&theme=candy&shape=circle" alt="Motion spark circle"/>
+
+<img src="https://gh-motion-card.vercel.app/api/github-motion?username=Hashim1999164&animation=pulsar&theme=dark-bg&shape=square" alt="Motion pulsar square"/>
+
+<img src="https://github-dashboard-sooty.vercel.app/api/dashboard?username=Hashim1999164&theme=dark" alt="GitHub dashboard"/>
+
+<img src="https://github-dashboard-sooty.vercel.app/api/dashboard?username=Hashim1999164&theme=radical&sections=profile,stats,languages" alt="GitHub dashboard radical"/>
+
+<img src="./assets/orig5/airtag.svg" alt="AirTag"/>
+
+<img src="./assets/orig5/altimeter.svg" alt="Altimeter"/>
+
+<img src="./assets/orig5/apple-intelligence.svg" alt="Apple Intelligence"/>
+
+<img src="./assets/orig5/apple-pay.svg" alt="Apple Pay"/>
+
+<img src="./assets/orig5/boarding-pass.svg" alt="Boarding pass"/>
+
+<img src="./assets/orig5/calculator.svg" alt="Calculator"/>
+
+<img src="./assets/orig5/check-in.svg" alt="Check In"/>
+
+<img src="./assets/orig5/cinematic.svg" alt="Cinematic mode"/>
+
+<img src="./assets/orig5/compass-tape.svg" alt="Compass"/>
+
+<img src="./assets/orig5/crash-detect.svg" alt="Crash Detection"/>
+
+<img src="./assets/orig5/find-my.svg" alt="Find My"/>
+
+<img src="./assets/orig5/freeform.svg" alt="Freeform"/>
+
+<img src="./assets/orig5/game-center.svg" alt="Game Center"/>
+
+<img src="./assets/orig5/game-mode.svg" alt="Game Mode"/>
+
+<img src="./assets/orig5/garageband.svg" alt="GarageBand"/>
+
+<img src="./assets/orig5/genmoji.svg" alt="Genmoji"/>
+
+<img src="./assets/orig5/image-playground.svg" alt="Image Playground"/>
+
+<img src="./assets/orig5/iphone-mirroring.svg" alt="iPhone Mirroring"/>
+
+<img src="./assets/orig5/lidar.svg" alt="LiDAR"/>
+
+<img src="./assets/orig5/live-caller-id.svg" alt="Live Caller ID"/>
+
+<img src="./assets/orig5/look-around.svg" alt="Look Around"/>
+
+<img src="./assets/orig5/magnifier.svg" alt="Magnifier"/>
+
+<img src="./assets/orig5/measure.svg" alt="Measure"/>
+
+<img src="./assets/orig5/mesh-gradient.svg" alt="MeshGradient"/>
+
+<img src="./assets/orig5/musickit.svg" alt="MusicKit"/>
+
+<img src="./assets/orig5/namedrop.svg" alt="NameDrop"/>
+
+<img src="./assets/orig5/night-mode.svg" alt="Night mode"/>
+
+<img src="./assets/orig5/object-capture.svg" alt="Object Capture"/>
+
+<img src="./assets/orig5/phase-animator.svg" alt="PhaseAnimator"/>
+
+<img src="./assets/orig5/roomplan.svg" alt="RoomPlan"/>
+
+<img src="./assets/orig5/satellite-sos.svg" alt="Emergency SOS"/>
+
+<img src="./assets/orig5/sf-symbols.svg" alt="SF Symbols"/>
+
+<img src="./assets/orig5/shazam.svg" alt="ShazamKit"/>
+
+<img src="./assets/orig5/spatial-video.svg" alt="Spatial Video"/>
+
+<img src="./assets/orig5/speech-listen.svg" alt="Speech"/>
+
+<img src="./assets/orig5/storekit.svg" alt="StoreKit 2"/>
+
+<img src="./assets/orig5/swift-charts.svg" alt="Swift Charts"/>
+
+<img src="./assets/orig5/swiftdata.svg" alt="SwiftData"/>
+
+<img src="./assets/orig5/tab-bar.svg" alt="Tab bar"/>
+
+<img src="./assets/orig5/tap-to-pay.svg" alt="Tap to Pay"/>
+
+<img src="./assets/orig5/tipkit.svg" alt="TipKit"/>
+
+<img src="./assets/orig5/vision-ocr.svg" alt="Vision OCR"/>
+
+<img src="./assets/orig5/visual-intelligence.svg" alt="Visual Intelligence"/>
+
+<img src="./assets/orig5/voice-memos.svg" alt="Voice Memos"/>
+
+<img src="./assets/orig5/weatherkit.svg" alt="WeatherKit"/>
+
+<img src="./assets/orig5/writing-tools.svg" alt="Writing Tools"/>
+
+</div>
+
 <a id="contact"></a>
 
 <div align="center">

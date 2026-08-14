@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 240" width="840" height="240" role="img" aria-label="Compass">
+  <rect width="840" height="240" rx="28" fill="#070b14"/>
+  <rect x="1" y="1" width="838" height="238" rx="27" fill="none" stroke="#1c2436"/>
+  <text x="36" y="48" font-family="SF Pro Display, Helvetica Neue, Arial" font-size="22" font-weight="700" fill="#f5f8ff">Compass</text>
+  <text x="36" y="74" font-family="SF Pro Text, Helvetica Neue, Arial" font-size="13" fill="#8ea0b8">Heading tape. True north.</text>
+  <rect x="540" y="110" width="280" height="50" rx="8" fill="#101826"/>
+  <text x="560" y="142" fill="#8ea0b8" font-size="14">W</text>
+  <text x="670" y="142" fill="#0a84ff" font-size="20" font-weight="700">N</text>
+  <text x="790" y="142" fill="#8ea0b8" font-size="14">E</text>
+  <polygon points="680,100 688,110 672,110" fill="#ff453a"/>
+</svg>
