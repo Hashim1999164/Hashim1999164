@@ -879,6 +879,133 @@ Widgets from [github-readme](https://github.com/madushadhanushka/github-readme),
 </div>
 
 
+
+## From Ahtisham-1214
+
+Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214), wired to `Hashim1999164`. Skip LeetCode (no account), skip someone else's certificates, skip Facebook and Instagram.
+
+<div align="center">
+
+<a href="https://github.com/Hashim1999164">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Hashim!;iOS%20engineer.%20Swift,%20UIKit,%20SwiftUI;Currently%20at%20Easypaisa;Open%20to%20relocate&font=Fira%20Code&center=true&width=700&height=45&color=ff79c6&vCenter=true&pause=1000&size=22" alt="Typing Hashim omni"/>
+</a>
+
+<img src="./assets/ahtisham-style/line.gif" height="20" width="100%" alt="line"/>
+
+<img width="300" alt="GitHub metrics" src="./github-metrics.svg"/>
+<img width="300" alt="Isometric commit calendar" src="./metrics.plugin.isocalendar.fullyear.svg"/>
+
+</div>
+
+**Tech stack**
+
+<p>
+<b>Languages:</b>
+<img src="https://skillicons.dev/icons?i=swift,kotlin,ts,js,py,go&theme=dark" alt="Languages"/>
+<br/><br/>
+<b>Libraries and frameworks:</b>
+<img src="https://skillicons.dev/icons?i=apple,nodejs,express,firebase,graphql,docker&theme=dark" alt="Libraries"/>
+<br/><br/>
+<b>Tools and platforms:</b>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,cloudflare,mongodb,postgres,redis,githubactions,postman&theme=dark" alt="Tools"/>
+</p>
+
+<img src="./assets/ahtisham-style/line.gif" height="16" width="100%" alt="line"/>
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hashim1999164&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a" alt="Streak omni eight"/>
+
+<img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Hashim1999164&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Most%20used%20languages&text_color=e8df7a" alt="Donut langs olive"/>
+<img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Hashim1999164&show_icons=true&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a" alt="Stats olive omni"/>
+
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Hashim1999164&theme=omni&hide_border=true&show_icons=true&text_color=e8df7a" alt="DenverCoder1 stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hashim1999164&theme=omni" width="33%" alt="Omni repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hashim1999164&theme=omni" width="33%" alt="Omni most commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hashim1999164&theme=omni&utcOffset=5" width="33%" alt="Omni productive time"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashim1999164&theme=omni" width="100%" alt="Omni profile details"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a" alt="Activity graph omni"/>
+
+<img src="./assets/ahtisham-style/snakegridtitle.gif" width="500" alt="Snake title"/>
+
+<img src="https://raw.githubusercontent.com/Hashim1999164/Hashim1999164/output/github-snake-dark.svg" width="100%" alt="Contribution snake dark"/>
+
+<img src="./profile-3d-contrib/profile-green-dual.svg" alt="3D contributions dual" width="100%"/>
+
+</div>
+
+### Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=ff79c6&authorColor=d8d8dd&symbolColor=e8df7a" alt="Random dev quote omni"/>
+</div>
+
+### Pinned
+
+<div align="center">
+
+<a href="https://github.com/Hashim1999164/Hashim1999164"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hashim1999164&repo=Hashim1999164&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Hashim1999164 pin"/></a>
+<a href="https://github.com/Hashim1999164/practicePersonal"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hashim1999164&repo=practicePersonal&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="practicePersonal pin"/></a>
+<a href="https://github.com/Hashim1999164/lockdownios"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hashim1999164&repo=lockdownios&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="lockdownios pin"/></a>
+<a href="https://github.com/Hashim1999164/meal"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hashim1999164&repo=meal&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="meal pin"/></a>
+<a href="https://github.com/Hashim1999164/instacharge"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hashim1999164&repo=instacharge&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="instacharge pin"/></a>
+<a href="https://github.com/Hashim1999164/innercue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hashim1999164&repo=innercue&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="innercue pin"/></a>
+<a href="https://github.com/Hashim1999164/PlayConsoleDarkMode"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hashim1999164&repo=PlayConsoleDarkMode&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="PlayConsoleDarkMode pin"/></a>
+<a href="https://github.com/Hashim1999164/typerdiem"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hashim1999164&repo=typerdiem&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="typerdiem pin"/></a>
+
+<p>
+<a href="https://github.com/Hashim1999164?tab=repositories"><img alt="All repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=e8df7a&logo=repo"/></a>
+<a href="https://github.com/Hashim1999164?tab=repositories&type=fork"><img alt="All forks" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=e8df7a&logo=fork"/></a>
+</p>
+
+</div>
+
+<img src="./assets/ahtisham-style/line.gif" width="100%" height="40" alt="line"/>
+
+<div align="center">
+
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯  A habit missed once is a mistake,    @@
+@@   ❮(|~o.o~|)❯    A habit missed twice is a start    @@
+@@   ❮/ \`-'/ \❯          of new habit!                @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</div>
+
+<img src="./assets/ahtisham-style/line.gif" height="40" width="100%" alt="line"/>
+
+<div align="center">
+
+[![committers.top badge](https://user-badge.committers.top/pakistan_public/Hashim1999164.svg)](https://user-badge.committers.top/pakistan_public/Hashim1999164)
+[![committers.top badge](https://user-badge.committers.top/pakistan/Hashim1999164.svg)](https://user-badge.committers.top/pakistan/Hashim1999164)
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/Hashim1999164.svg)](https://user-badge.committers.top/pakistan_private/Hashim1999164)
+
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" alt="coding gif"/>
+
+</div>
+
+
 <a id="contact"></a>
 
 <div align="center">
