@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" width="420" height="240" role="img" aria-label="GPS HUD">
+  <defs>
+    <linearGradient id="bg-gps" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="100%" stop-color="#0e1422"/>
+    </linearGradient>
+    <linearGradient id="ac-gps" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a84ff"/>
+      <stop offset="100%" stop-color="#64d2ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="240" rx="28" fill="url(#bg-gps)"/>
+  <rect x="1" y="1" width="418" height="238" rx="27" fill="none" stroke="#1a2a44" stroke-width="1.5"/>
+  <circle cx="380" cy="28" r="48" fill="#0a84ff" opacity="0.12"/>
+  
+  <circle cx="210" cy="128" r="62" fill="none" stroke="#1a2a44" stroke-width="10"/>
+  <circle cx="210" cy="128" r="62" fill="none" stroke="url(#ac-gps)" stroke-width="10" stroke-linecap="round" stroke-dasharray="140 250" transform="rotate(140 210 128)"/>
+  <text x="210" y="122" text-anchor="middle" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="36" font-weight="800" fill="#ffffff">84</text>
+  <text x="210" y="146" text-anchor="middle" font-family="SF Pro Text, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#8ea0b8">km/h</text>
+
+  <text x="24" y="42" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0a84ff" letter-spacing="2.4">GPS HUD</text>
+  <text x="24" y="214" font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif" font-size="22" font-weight="800" fill="#ffffff">Live trip speed</text>
+</svg>

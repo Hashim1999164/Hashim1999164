@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate contribution snake and arcade games
 
 on:
   schedule:
@@ -13,10 +13,16 @@ permissions:
   contents: write
 
 jobs:
-  snake:
+  generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 25
     steps:
+      - name: Generate arcade games
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper"
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:

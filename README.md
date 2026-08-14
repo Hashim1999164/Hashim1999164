@@ -566,6 +566,313 @@ Widgets from [github-readme](https://github.com/madushadhanushka/github-readme),
 </p>
 
 
+## 100 more cool widgets
+
+100+ visual widgets for `Hashim1999164`. Arcade games, 3D contrib, Pokemon cards, pin cards, live clocks, quotes. Not more star badges.
+
+### Arcade contribution games
+
+<div align="center">
+
+<img src="./assets/cool/games/pacman-contribution-graph-dark.svg" alt="pacman contribution game" width="100%"/>
+
+<img src="./assets/cool/games/breakout-contribution-graph-dark.svg" alt="breakout contribution game" width="100%"/>
+
+<img src="./assets/cool/games/galaga-contribution-graph-dark.svg" alt="galaga contribution game" width="100%"/>
+
+<img src="./assets/cool/games/puzzle-bobble-contribution-graph-dark.svg" alt="puzzle-bobble contribution game" width="100%"/>
+
+<img src="./assets/cool/games/bomberman-contribution-graph-dark.svg" alt="bomberman contribution game" width="100%"/>
+
+<img src="./assets/cool/games/minesweeper-contribution-graph-dark.svg" alt="minesweeper contribution game" width="100%"/>
+
+</div>
+
+### 3D contribution calendar
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contrib green-animate" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-green.svg" alt="3D contrib green" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contrib season-animate" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-season.svg" alt="3D contrib season" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D contrib south-season-animate" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-south-season.svg" alt="3D contrib south-season" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contrib night-view" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contrib night-green" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contrib night-rainbow" width="100%"/>
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D contrib gitblock" width="100%"/>
+
+</div>
+
+### Pokemon profile cards
+
+<div align="center">
+
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=normal" alt="Pokemon normal card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=fire" alt="Pokemon fire card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=water" alt="Pokemon water card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=electric" alt="Pokemon electric card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=grass" alt="Pokemon grass card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=ice" alt="Pokemon ice card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=fighting" alt="Pokemon fighting card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=poison" alt="Pokemon poison card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=ground" alt="Pokemon ground card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=flying" alt="Pokemon flying card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=psychic" alt="Pokemon psychic card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=bug" alt="Pokemon bug card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=rock" alt="Pokemon rock card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=ghost" alt="Pokemon ghost card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=dragon" alt="Pokemon dragon card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=dark" alt="Pokemon dark card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=steel" alt="Pokemon steel card" height="180"/>
+<img src="https://profile-card-ten-green.vercel.app/api/card?username=Hashim1999164&type=fairy" alt="Pokemon fairy card" height="180"/>
+
+</div>
+
+### Repo pin cards
+
+<div align="center">
+
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=Brewstrap&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="Brewstrap pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=carfreedriveway&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="carfreedriveway pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=doorshadow&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="doorshadow pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=framehold&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="framehold pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=github-from-token&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="github-from-token pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=Hashim1999164&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="Hashim1999164 pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=hashim1999164.github.io&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="hashim1999164.github.io pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=innercue&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="innercue pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=instacharge&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="instacharge pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=lockdownios&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="lockdownios pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=meal&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="meal pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=mealmood&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="mealmood pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=OSXecs&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="OSXecs pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=partmov&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="partmov pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=personalstudies&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="personalstudies pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=personalstudiesLecture&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="personalstudiesLecture pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=PlayConsoleDarkMode&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="PlayConsoleDarkMode pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=practicePersonal&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="practicePersonal pin"/>
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Hashim1999164&repo=typerdiem&theme=react&hide_border=true&bg_color=0e1422&title_color=0a84ff&icon_color=0a84ff&text_color=d7e3f4" alt="typerdiem pin"/>
+
+</div>
+
+### Terminal identity
+
+<div align="center">
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&tagline=Swift%2C%20UIKit%2C%20SwiftUI&theme=obsidian/cobalt&avatar=HK&pattern=grid&width=980&height=auto&accent=%230a84ff&showContribs=on&contribTheme=signal&contribRange=16w" alt="Terminal cobalt signal" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=amber/solar&avatar=HK&showContribs=on&contribTheme=moon&contribRange=16w&width=980&height=auto" alt="Terminal moon" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=obsidian/graphite&avatar=HK&motion=scan&pattern=pulse&width=980&height=auto&showContribs=on&contribTheme=star" alt="Terminal scan star" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=obsidian/velvet&avatar=HK&showContribs=on&contribTheme=cat_jump&contribRange=16w&contribMode=focus&width=980&height=auto" alt="Terminal cat jump" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=prism/aurora&avatar=HK&showContribs=on&contribTheme=orbit&width=980&height=auto" alt="Terminal orbit" width="100%"/>
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Hashim%20Khan&username=Hashim1999164&role=iOS%20engineer&theme=obsidian/velvet&avatar=HK&motion=boot&showContribs=on&contribTheme=firefly&width=980&height=auto" alt="Terminal firefly" width="100%"/>
+
+</div>
+
+### Live clocks, weather, skyline
+
+<div align="center">
+
+<img src="https://readmeme.eu.cc/api/time.svg?theme=ocean&timezone=Asia/Karachi&timeFormat=24h&showSeconds=1&showDate=1&showDay=1&label=Islamabad" alt="Islamabad time"/>
+
+<img src="https://readmeme.eu.cc/api/timezone.svg?theme=ink&timezone=Asia/Karachi&timeFormat=24h" alt="Karachi timezone"/>
+
+<img src="https://readmeme.eu.cc/api/weather.svg?theme=ocean&city=Islamabad&label=Islamabad" alt="Islamabad weather"/>
+
+<img src="https://wttr.in/Islamabad_0pq_transparency=200.png" alt="wttr Islamabad"/>
+
+<img src="https://readmeme.eu.cc/api/skyline.svg?skylineStyle=banner&timezone=Asia/Karachi&label=Islamabad" alt="Islamabad skyline"/>
+
+<img src="https://readmeme.eu.cc/api/skyline.svg?skylineStyle=card&timezone=Asia/Karachi&name=Hashim+Khan&role=iOS+engineer&bio=Swift%2C+UIKit%2C+SwiftUI.+Shipping+App+Store+apps.&skills=Swift%2CUIKit%2CSwiftUI%2CMapKit%2CCallKit&handle=Hashim1999164&avatar=https%3A%2F%2Fgithub.com%2FHashim1999164.png" alt="Skyline profile"/>
+
+<img src="https://readmeme.eu.cc/api/profile.svg?avatar=https%3A%2F%2Fgithub.com%2FHashim1999164.png&name=Hashim+Khan&role=iOS+engineer&bio=Swift%2C+UIKit%2C+SwiftUI.+Shipping+App+Store+apps.&skills=Swift%2CUIKit%2CSwiftUI%2CMapKit%2CCallKit&handle=Hashim1999164&theme=ocean&radius=12" alt="Stylish profile"/>
+
+<img src="https://readmeme.eu.cc/api/quote.svg?theme=ocean&quoteCategory=programming&label=Daily+Wisdom" alt="Stylish quote"/>
+
+<img src="https://readmeme.eu.cc/api/word.svg?theme=paper&label=Vocabulary&showOrigin=1" alt="Word of the day"/>
+
+<img src="https://readmeme.eu.cc/api/streak.svg?theme=crimson&startDate=2021-06-01&unit=days&customLabel=iOS+years&platform=github" alt="iOS streak"/>
+
+<img src="https://readmeme.eu.cc/api/countdown.svg?theme=terminal&eventName=WWDC&targetDate=2027-06-08" alt="WWDC countdown"/>
+
+<img src="https://readmeme.eu.cc/api/flag.svg?theme=ocean&country=PK&label=Based+In" alt="Based in Pakistan"/>
+
+</div>
+
+### Metallic banners and terminal
+
+<div align="center">
+
+<img src="https://readmeforge.natrajx.in/api/banner?text=Hashim+Khan&subtext=iOS+engineer+Swift+UIKit+SwiftUI&metal=electric&type=wave&height=130&width=900&animation=shimmer&align=center&theme=dark&fontFamily=Orbitron" alt="Forge wave banner"/>
+
+<img src="https://readmeforge.natrajx.in/api/banner?text=App+Store&subtext=Maps+chat+calling+wallet&metal=aurora&type=arch&height=130&width=900&align=center&theme=dark&fontFamily=Rajdhani" alt="Forge aurora banner"/>
+
+<img src="https://readmeforge.natrajx.in/api/banner?text=Easypaisa+iOS&subtext=Live+digital+bank+and+wallet&metal=neon-blue&type=venom&height=120&width=900&animation=scanline&theme=dark&fontFamily=Share+Tech+Mono" alt="Forge venom banner"/>
+
+<img src="https://readmeforge.natrajx.in/api/terminal?title=~/ios&lines=whoami:+Hashim+Khan|stack:+Swift+UIKit+SwiftUI|now:+Easypaisa+iOS|apps:+maps+chat+calling|relocate:+yes&metal=electric&width=700" alt="Forge terminal"/>
+
+<img src="https://readmeforge.natrajx.in/api/skill-tree?skills=Swift:95,UIKit:92,SwiftUI:88,MapKit:84,CallKit:80&title=iOS+Stack&metal=electric&width=430" alt="Forge iOS skill tree"/>
+
+<img src="https://readmeforge.natrajx.in/api/progress-bar?skill=Swift&value=95&metal=electric&style=glow-fill&width=900" alt="Swift progress"/>
+
+<img src="https://readmeforge.natrajx.in/api/progress-bar?skill=UIKit&value=92&metal=neon-blue&style=glow-fill&width=900" alt="UIKit progress"/>
+
+<img src="https://readmeforge.natrajx.in/api/progress-bar?skill=SwiftUI&value=88&metal=aurora&style=glow-fill&width=900" alt="SwiftUI progress"/>
+
+<img src="https://readmeforge.natrajx.in/api/text-anim?text=Hashim+Khan+iOS&effect=glitch-rgb&metal=electric&size=32&width=900&height=65" alt="Glitch text"/>
+
+<img src="https://readmeforge.natrajx.in/api/text-anim?text=Shipping+App+Store+apps&effect=matrix&metal=neon-green&size=28&width=900&height=65" alt="Matrix text"/>
+
+<img src="https://readmeforge.natrajx.in/api/text-anim?text=Maps+Chat+Calling&effect=holographic&metal=electric&size=28&width=900&height=65" alt="Holographic text"/>
+
+<img src="https://readmeforge.natrajx.in/api/card-glass?title=App+Store&value=Live&metal=aurora&glassTheme=dark" alt="Glass App Store"/>
+
+<img src="https://readmeforge.natrajx.in/api/card-neo?title=Relocate&value=Yes&metal=platinum&neoTheme=dark" alt="Neo relocate"/>
+
+<img src="https://readmeforge.natrajx.in/api/logo-container?text=HK&metal=electric&style=hexagon&size=120&glow=true" alt="HK hex logo"/>
+
+<img src="https://readmeforge.natrajx.in/api/divider?style=wave&metal=electric&width=900" alt="Forge divider"/>
+
+</div>
+
+### Quotes, jokes, graphs
+
+<div align="center">
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight" alt="Quote tokyonight"/>
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=algolia" alt="Quote algolia"/>
+
+<img src="https://readme-daily-quotes.vercel.app/api?theme=github_dark&category=programming" alt="Daily programming quote"/>
+
+<img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=life" alt="Daily life quote"/>
+
+<img src="https://github-readme-quotify.vercel.app/api?mode=programming&type=horizontal&theme=dracula" alt="Quotify programming"/>
+
+<img src="https://github-readme-quotify.vercel.app/api?mode=random&type=vertical&theme=radical" alt="Quotify radical"/>
+
+<img src="https://github-readme-philosophical-quotes.vercel.app/api/generate-image?theme=calm&daily-quote=true" alt="Philosophical calm"/>
+
+<img src="https://github-readme-philosophical-quotes.vercel.app/api/generate-image?theme=dark&daily-quote=true" alt="Philosophical dark"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Quotes vertical"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Quotes merko"/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=ghost" alt="Joke ghost"/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Joke halloween"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=dracula&hide_border=true&area=true&custom_title=Dracula%20activity" alt="Activity dracula" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=tokyo-night&hide_border=true&area=true&custom_title=Tokyo%20Night%20activity" alt="Activity tokyo" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=merko&hide_border=true&area=true&custom_title=Merko%20activity" alt="Activity merko" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=github-compact&hide_border=true&custom_title=GitHub%20compact" alt="Activity github compact" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashim1999164&theme=redical&hide_border=true&area=true&custom_title=Redical%20activity" alt="Activity redical" width="100%"/>
+
+</div>
+
+### Trophy themes
+
+<div align="center">
+
+<img src="./assets/cool/trophy-radical.svg" alt="Trophies radical" width="100%"/>
+
+<img src="./assets/cool/trophy-matrix.svg" alt="Trophies matrix" width="100%"/>
+
+<img src="./assets/cool/trophy-nord.svg" alt="Trophies nord" width="100%"/>
+
+<img src="./assets/cool/trophy-gruvbox.svg" alt="Trophies gruvbox" width="100%"/>
+
+<img src="./assets/cool/trophy-algolia.svg" alt="Trophies algolia" width="100%"/>
+
+<img src="./assets/cool/trophy-onedark.svg" alt="Trophies onedark" width="100%"/>
+
+<img src="./assets/cool/trophy-dracula.svg" alt="Trophies dracula" width="100%"/>
+
+<img src="./assets/cool/trophy-monokai.svg" alt="Trophies monokai" width="100%"/>
+
+</div>
+
+### iOS HUD cards
+
+<div align="center">
+
+<img src="./assets/cool/hud-gps.svg" alt="GPS HUD" height="200"/>
+<img src="./assets/cool/hud-callkit.svg" alt="CallKit HUD" height="200"/>
+<img src="./assets/cool/hud-chat.svg" alt="Chat HUD" height="200"/>
+<img src="./assets/cool/hud-wallet.svg" alt="Wallet HUD" height="200"/>
+<img src="./assets/cool/hud-mapkit.svg" alt="MapKit HUD" height="200"/>
+<img src="./assets/cool/hud-push.svg" alt="Push HUD" height="200"/>
+<img src="./assets/cool/hud-swift.svg" alt="Swift HUD" height="200"/>
+<img src="./assets/cool/hud-store.svg" alt="App Store HUD" height="200"/>
+<img src="./assets/cool/hud-tarbiyah.svg" alt="Tarbiyah HUD" height="200"/>
+<img src="./assets/cool/hud-relocate.svg" alt="Relocate HUD" height="200"/>
+<img src="./assets/cool/hud-clean.svg" alt="Clean Swift HUD" height="200"/>
+<img src="./assets/cool/hud-backend.svg" alt="Backend HUD" height="200"/>
+
+</div>
+
+### Extra banners and cards
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a84ff,100:0e1422&height=120&section=header&text=Hashim%20Khan&fontSize=42&fontColor=ffffff" alt="Capsule waving"/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0A84FF&height=120&section=header&text=iOS&fontColor=ffffff&fontSize=40" alt="Capsule shark"/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0A84FF&height=120&section=header&text=Swift&fontColor=ffffff" alt="Capsule cylinder"/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a84ff,100:5e5ce6&height=120&section=header&text=App%20Store&fontColor=ffffff" alt="Capsule venom"/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0e1422&height=120&section=header&text=Hashim&fontColor=0a84ff&fontAlignY=40" alt="Capsule slice"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=28&duration=2800&pause=1000&color=64D2FF&center=true&vCenter=true&width=900&lines=Maps.+Chat.+Calling.;GPS+trips+in+production;Clean+Swift+on+iOS" alt="Typing maps chat calling"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=30D158&center=true&vCenter=true&width=900&lines=Easypaisa+iOS;Open+to+relocate;hashimkhan.dev" alt="Typing Easypaisa"/>
+
+<img src="https://streak-stats.demolab.com/?user=Hashim1999164&theme=react&hide_border=true" alt="Streak demolab"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hashim1999164&theme=2077" alt="Summary 2077 details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hashim1999164&theme=2077" alt="Summary 2077 stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hashim1999164&theme=2077" alt="Summary 2077 repos"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hashim1999164&theme=2077" alt="Summary 2077 commits"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hashim1999164&theme=2077&utcOffset=5" alt="Summary 2077 time"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hashim1999164&theme=tokyo_night" alt="Summary tokyo stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hashim1999164&theme=solarized" alt="Summary solarized langs"/>
+
+<img src="https://ghchart.rshah.org/30d158/Hashim1999164" alt="Contribution chart green"/>
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Hashim1999164&data=followers,repositories,stars,commits&theme=nautical" alt="Widgetbox nautical"/>
+
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Live%20Apps&lineCount=1&theme=github_dark&line1=swift,swift,00AFF0;mapkit,mapkit,0A84FF;callkit,callkit,30D158;" alt="Tech stack live apps"/>
+
+</div>
+
+
 <a id="contact"></a>
 
 <div align="center">
