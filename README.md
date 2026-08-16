@@ -329,9 +329,6 @@ English proficient · Urdu native
 
 <a id="github"></a>
 
-## GitHub
-
-Widgets from [github-readme](https://github.com/madushadhanushka/github-readme), wired to `Hashim1999164`. Stats, languages, and trophies are files in this repo because the public Vercel hosts in that collection are paused.
 
 <div align="center">
   <img src="./assets/stats.svg" alt="GitHub stats" height="215" />
@@ -403,10 +400,6 @@ Widgets from [github-readme](https://github.com/madushadhanushka/github-readme),
     <img src="https://api.star-history.com/svg?repos=Hashim1999164/Hashim1999164,Hashim1999164/practicePersonal&type=Date" alt="Star history"/>
   </a>
 </div>
-
-## 100 more widgets
-
-115 extra widgets for `Hashim1999164`.
 
 <div align="center">
 
@@ -570,11 +563,6 @@ Widgets from [github-readme](https://github.com/madushadhanushka/github-readme),
 <br/>
 
 </p>
-
-
-## 100 more cool widgets
-
-100+ visual widgets for `Hashim1999164`. Arcade games, 3D contrib, Pokemon cards, pin cards, live clocks, quotes. Not more star badges.
 
 ### Arcade contribution games
 
@@ -878,12 +866,6 @@ Widgets from [github-readme](https://github.com/madushadhanushka/github-readme),
 
 </div>
 
-
-
-## From Ahtisham-1214
-
-Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214), wired to `Hashim1999164`. Skip LeetCode (no account), skip someone else's certificates, skip Facebook and Instagram.
-
 <div align="center">
 
 <a href="https://github.com/Hashim1999164">
@@ -1005,10 +987,6 @@ Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214)
 
 </div>
 
-
-## 100 more cool widgets (round 3)
-
-100 new visual widgets after another live search. Tower defense on the contribution graph, neon trophies, Ligature arcade, MZR snakes, and original iOS HUD art. Not more star badges.
 
 <div align="center">
 
@@ -1214,10 +1192,6 @@ Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214)
 
 </div>
 
-## 100 more cool widgets (round 4)
-
-100 new visual widgets after another live search. Mario parkour on the contribution graph, real Snake AI, Snake Evolution, coding-hour heatmaps, extra graph battles, GitHub Stats Extended, pixel cards, and original iOS HUDs. Not more star badges.
-
 <div align="center">
 
 <img src="./assets/round4/mario_contribution.svg" alt="Mario contribution graph" width="100%"/>
@@ -1422,10 +1396,6 @@ Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214)
 
 </div>
 
-## 100 more cool widgets (round 5)
-
-100 new visual widgets after another live search. Space Invaders on the contribution graph, ProfileKit motion cards, GitHub Motion rain and pulsar, plus original iOS HUDs. Not more star badges.
-
 <div align="center">
 
 <img src="./assets/round5/git-invader-multi-dark.svg" alt="Git Invader multi" width="100%"/>
@@ -1629,10 +1599,6 @@ Every live widget pattern from [Ahtisham-1214](https://github.com/Ahtisham-1214)
 <img src="./assets/orig5/writing-tools.svg" alt="Writing Tools"/>
 
 </div>
-
-## 100 more cool widgets (round 6)
-
-100 new visual widgets after another live search. Dungeon crawl on the contribution graph, isometric villages, CRT signal boards, CommitPulse 3D cities, GitCity skylines, and original iOS HUDs. Not more star badges.
 
 <div align="center">
 
