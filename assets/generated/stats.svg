@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hashim Khan&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 298, Total PRs: 345, Total Issues: 1, Contributed to (last year): 270</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 303, Total PRs: 362, Total Issues: 1, Contributed to (last year): 286</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 169.6611564601314;
+        stroke-dashoffset: 169.43282019126164;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >298</text>
+      >303</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >345</text>
+      >362</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >270</text>
+      >286</text>
     </g>
   </g>
     </svg>
