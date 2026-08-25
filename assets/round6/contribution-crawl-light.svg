@@ -10,41 +10,6 @@
   
   <!-- Dungeon Grid -->
   <rect x="4" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.2280" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-0-0">
-      <!-- Ghost body -->
-      <path d="
-        M 5.1 45
-        Q 5.1 35.1 15 35.1
-        Q 24.9 35.1 24.9 45
-        L 24.9 52.92
-        Q 21.93 49.95 19.95 52.92
-        Q 17.475 55.89 15 52.92
-        Q 12.525 49.95 10.05 52.92
-        Q 8.07 55.89 5.1 52.92
-        Z
-      " fill="#ff0000">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 5.1 45 Q 5.1 35.1 15 35.1 Q 24.9 35.1 24.9 45 L 24.9 52.92 Q 21.93 49.95 19.95 52.92 Q 17.475 55.89 15 52.92 Q 12.525 49.95 10.05 52.92 Q 8.07 55.89 5.1 52.92 Z;
-          M 5.1 45 Q 5.1 35.1 15 35.1 Q 24.9 35.1 24.9 45 L 24.9 52.92 Q 21.93 55.89 19.95 52.92 Q 17.475 49.95 15 52.92 Q 12.525 55.89 10.05 52.92 Q 8.07 49.95 5.1 52.92 Z;
-          M 5.1 45 Q 5.1 35.1 15 35.1 Q 24.9 35.1 24.9 45 L 24.9 52.92 Q 21.93 49.95 19.95 52.92 Q 17.475 55.89 15 52.92 Q 12.525 49.95 10.05 52.92 Q 8.07 55.89 5.1 52.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="11.535" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="18.465" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="11.9805" cy="44.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="10.7925;12.2775;10.7925"/>
-      </circle>
-      <circle cx="18.9105" cy="44.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="17.7225;19.2075;17.7225"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="30" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="56" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="82" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -52,6 +17,41 @@
   <rect x="134" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="160" y="34" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="186" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.1207" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-7-0">
+      <!-- Ghost body -->
+      <path d="
+        M 187.1 45
+        Q 187.1 35.1 197 35.1
+        Q 206.9 35.1 206.9 45
+        L 206.9 52.92
+        Q 203.93 49.95 201.95 52.92
+        Q 199.475 55.89 197 52.92
+        Q 194.525 49.95 192.05 52.92
+        Q 190.07 55.89 187.1 52.92
+        Z
+      " fill="#ff0000">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 187.1 45 Q 187.1 35.1 197 35.1 Q 206.9 35.1 206.9 45 L 206.9 52.92 Q 203.93 49.95 201.95 52.92 Q 199.475 55.89 197 52.92 Q 194.525 49.95 192.05 52.92 Q 190.07 55.89 187.1 52.92 Z;
+          M 187.1 45 Q 187.1 35.1 197 35.1 Q 206.9 35.1 206.9 45 L 206.9 52.92 Q 203.93 55.89 201.95 52.92 Q 199.475 49.95 197 52.92 Q 194.525 55.89 192.05 52.92 Q 190.07 49.95 187.1 52.92 Z;
+          M 187.1 45 Q 187.1 35.1 197 35.1 Q 206.9 35.1 206.9 45 L 206.9 52.92 Q 203.93 49.95 201.95 52.92 Q 199.475 55.89 197 52.92 Q 194.525 49.95 192.05 52.92 Q 190.07 55.89 187.1 52.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="193.535" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="200.465" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="193.9805" cy="44.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="192.7925;194.2775;192.7925"/>
+      </circle>
+      <circle cx="200.9105" cy="44.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="199.7225;201.2075;199.7225"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="212" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="238" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="264" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -60,47 +60,82 @@
   <rect x="342" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="368" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="394" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="420" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="446" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="472" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.4734" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.2893" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
-    <g id="ghost-18-0">
+    <g id="ghost-15-0">
       <!-- Ghost body -->
       <path d="
-        M 473.1 45
-        Q 473.1 35.1 483 35.1
-        Q 492.9 35.1 492.9 45
-        L 492.9 52.92
-        Q 489.93 49.95 487.95 52.92
-        Q 485.475 55.89 483 52.92
-        Q 480.525 49.95 478.05 52.92
-        Q 476.07 55.89 473.1 52.92
+        M 395.1 45
+        Q 395.1 35.1 405 35.1
+        Q 414.9 35.1 414.9 45
+        L 414.9 52.92
+        Q 411.93 49.95 409.95 52.92
+        Q 407.475 55.89 405 52.92
+        Q 402.525 49.95 400.05 52.92
+        Q 398.07 55.89 395.1 52.92
         Z
       " fill="#ffb8ff">
         <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 473.1 45 Q 473.1 35.1 483 35.1 Q 492.9 35.1 492.9 45 L 492.9 52.92 Q 489.93 49.95 487.95 52.92 Q 485.475 55.89 483 52.92 Q 480.525 49.95 478.05 52.92 Q 476.07 55.89 473.1 52.92 Z;
-          M 473.1 45 Q 473.1 35.1 483 35.1 Q 492.9 35.1 492.9 45 L 492.9 52.92 Q 489.93 55.89 487.95 52.92 Q 485.475 49.95 483 52.92 Q 480.525 55.89 478.05 52.92 Q 476.07 49.95 473.1 52.92 Z;
-          M 473.1 45 Q 473.1 35.1 483 35.1 Q 492.9 35.1 492.9 45 L 492.9 52.92 Q 489.93 49.95 487.95 52.92 Q 485.475 55.89 483 52.92 Q 480.525 49.95 478.05 52.92 Q 476.07 55.89 473.1 52.92 Z
+          M 395.1 45 Q 395.1 35.1 405 35.1 Q 414.9 35.1 414.9 45 L 414.9 52.92 Q 411.93 49.95 409.95 52.92 Q 407.475 55.89 405 52.92 Q 402.525 49.95 400.05 52.92 Q 398.07 55.89 395.1 52.92 Z;
+          M 395.1 45 Q 395.1 35.1 405 35.1 Q 414.9 35.1 414.9 45 L 414.9 52.92 Q 411.93 55.89 409.95 52.92 Q 407.475 49.95 405 52.92 Q 402.525 55.89 400.05 52.92 Q 398.07 49.95 395.1 52.92 Z;
+          M 395.1 45 Q 395.1 35.1 405 35.1 Q 414.9 35.1 414.9 45 L 414.9 52.92 Q 411.93 49.95 409.95 52.92 Q 407.475 55.89 405 52.92 Q 402.525 49.95 400.05 52.92 Q 398.07 55.89 395.1 52.92 Z
         "/>
       </path>
       <!-- Eyes -->
-      <ellipse cx="479.535" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="486.465" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="401.535" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="408.465" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
       <!-- Pupils -->
-      <circle cx="479.9805" cy="44.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="478.7925;480.27750000000003;478.7925"/>
+      <circle cx="401.9805" cy="44.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="400.7925;402.27750000000003;400.7925"/>
       </circle>
-      <circle cx="486.91049999999996" cy="44.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="485.72249999999997;487.2075;485.72249999999997"/>
+      <circle cx="408.91049999999996" cy="44.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="407.72249999999997;409.2075;407.72249999999997"/>
       </circle>
     </g>
   
   </g>
+  <rect x="420" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="446" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="472" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="498" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="524" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="550" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.4100" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-21-0">
+      <!-- Ghost body -->
+      <path d="
+        M 551.1 45
+        Q 551.1 35.1 561 35.1
+        Q 570.9 35.1 570.9 45
+        L 570.9 52.92
+        Q 567.93 49.95 565.95 52.92
+        Q 563.475 55.89 561 52.92
+        Q 558.525 49.95 556.05 52.92
+        Q 554.07 55.89 551.1 52.92
+        Z
+      " fill="#00ffff">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 551.1 45 Q 551.1 35.1 561 35.1 Q 570.9 35.1 570.9 45 L 570.9 52.92 Q 567.93 49.95 565.95 52.92 Q 563.475 55.89 561 52.92 Q 558.525 49.95 556.05 52.92 Q 554.07 55.89 551.1 52.92 Z;
+          M 551.1 45 Q 551.1 35.1 561 35.1 Q 570.9 35.1 570.9 45 L 570.9 52.92 Q 567.93 55.89 565.95 52.92 Q 563.475 49.95 561 52.92 Q 558.525 55.89 556.05 52.92 Q 554.07 49.95 551.1 52.92 Z;
+          M 551.1 45 Q 551.1 35.1 561 35.1 Q 570.9 35.1 570.9 45 L 570.9 52.92 Q 567.93 49.95 565.95 52.92 Q 563.475 55.89 561 52.92 Q 558.525 49.95 556.05 52.92 Q 554.07 55.89 551.1 52.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="557.535" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="564.465" cy="44.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="557.9805" cy="44.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="556.7925;558.2774999999999;556.7925"/>
+      </circle>
+      <circle cx="564.9105000000001" cy="44.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="563.7225000000001;565.2075;563.7225000000001"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="576" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="602" y="34" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="628" y="34" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -136,7 +171,7 @@
   <rect x="30" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="56" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.2541" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.0364" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
     <g id="ghost-2-1">
       <!-- Ghost body -->
@@ -150,7 +185,7 @@
         Q 64.525 75.95 62.05 78.92
         Q 60.07 81.89 57.1 78.92
         Z
-      " fill="#00ffff">
+      " fill="#ffb852">
         <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
           M 57.1 71 Q 57.1 61.1 67 61.1 Q 76.9 61.1 76.9 71 L 76.9 78.92 Q 73.93 75.95 71.95 78.92 Q 69.475 81.89 67 78.92 Q 64.525 75.95 62.05 78.92 Q 60.07 81.89 57.1 78.92 Z;
           M 57.1 71 Q 57.1 61.1 67 61.1 Q 76.9 61.1 76.9 71 L 76.9 78.92 Q 73.93 81.89 71.95 78.92 Q 69.475 75.95 67 78.92 Q 64.525 81.89 62.05 78.92 Q 60.07 75.95 57.1 78.92 Z;
@@ -172,177 +207,177 @@
   </g>
   <rect x="82" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="108" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.0114" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-4-1">
+      <!-- Ghost body -->
+      <path d="
+        M 109.1 71
+        Q 109.1 61.1 119 61.1
+        Q 128.9 61.1 128.9 71
+        L 128.9 78.92
+        Q 125.93 75.95 123.95 78.92
+        Q 121.475 81.89 119 78.92
+        Q 116.525 75.95 114.05 78.92
+        Q 112.07 81.89 109.1 78.92
+        Z
+      " fill="#ff0000">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 109.1 71 Q 109.1 61.1 119 61.1 Q 128.9 61.1 128.9 71 L 128.9 78.92 Q 125.93 75.95 123.95 78.92 Q 121.475 81.89 119 78.92 Q 116.525 75.95 114.05 78.92 Q 112.07 81.89 109.1 78.92 Z;
+          M 109.1 71 Q 109.1 61.1 119 61.1 Q 128.9 61.1 128.9 71 L 128.9 78.92 Q 125.93 81.89 123.95 78.92 Q 121.475 75.95 119 78.92 Q 116.525 81.89 114.05 78.92 Q 112.07 75.95 109.1 78.92 Z;
+          M 109.1 71 Q 109.1 61.1 119 61.1 Q 128.9 61.1 128.9 71 L 128.9 78.92 Q 125.93 75.95 123.95 78.92 Q 121.475 81.89 119 78.92 Q 116.525 75.95 114.05 78.92 Q 112.07 81.89 109.1 78.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="115.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="122.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="115.98049999999999" cy="70.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="114.79249999999999;116.2775;114.79249999999999"/>
+      </circle>
+      <circle cx="122.9105" cy="70.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="121.7225;123.20750000000001;121.7225"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="134" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="160" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="186" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="212" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="238" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="264" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.1572" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-10-1">
+      <!-- Ghost body -->
+      <path d="
+        M 265.1 71
+        Q 265.1 61.1 275 61.1
+        Q 284.9 61.1 284.9 71
+        L 284.9 78.92
+        Q 281.93 75.95 279.95 78.92
+        Q 277.475 81.89 275 78.92
+        Q 272.525 75.95 270.05 78.92
+        Q 268.07 81.89 265.1 78.92
+        Z
+      " fill="#ffb8ff">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 265.1 71 Q 265.1 61.1 275 61.1 Q 284.9 61.1 284.9 71 L 284.9 78.92 Q 281.93 75.95 279.95 78.92 Q 277.475 81.89 275 78.92 Q 272.525 75.95 270.05 78.92 Q 268.07 81.89 265.1 78.92 Z;
+          M 265.1 71 Q 265.1 61.1 275 61.1 Q 284.9 61.1 284.9 71 L 284.9 78.92 Q 281.93 81.89 279.95 78.92 Q 277.475 75.95 275 78.92 Q 272.525 81.89 270.05 78.92 Q 268.07 75.95 265.1 78.92 Z;
+          M 265.1 71 Q 265.1 61.1 275 61.1 Q 284.9 61.1 284.9 71 L 284.9 78.92 Q 281.93 75.95 279.95 78.92 Q 277.475 81.89 275 78.92 Q 272.525 75.95 270.05 78.92 Q 268.07 81.89 265.1 78.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="271.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="278.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="271.9805" cy="70.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="270.7925;272.27750000000003;270.7925"/>
+      </circle>
+      <circle cx="278.91049999999996" cy="70.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="277.72249999999997;279.2075;277.72249999999997"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="290" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="316" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="342" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="368" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="394" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="420" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.1343" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-16-1">
-      <!-- Ghost body -->
-      <path d="
-        M 421.1 71
-        Q 421.1 61.1 431 61.1
-        Q 440.9 61.1 440.9 71
-        L 440.9 78.92
-        Q 437.93 75.95 435.95 78.92
-        Q 433.475 81.89 431 78.92
-        Q 428.525 75.95 426.05 78.92
-        Q 424.07 81.89 421.1 78.92
-        Z
-      " fill="#ffb852">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 421.1 71 Q 421.1 61.1 431 61.1 Q 440.9 61.1 440.9 71 L 440.9 78.92 Q 437.93 75.95 435.95 78.92 Q 433.475 81.89 431 78.92 Q 428.525 75.95 426.05 78.92 Q 424.07 81.89 421.1 78.92 Z;
-          M 421.1 71 Q 421.1 61.1 431 61.1 Q 440.9 61.1 440.9 71 L 440.9 78.92 Q 437.93 81.89 435.95 78.92 Q 433.475 75.95 431 78.92 Q 428.525 81.89 426.05 78.92 Q 424.07 75.95 421.1 78.92 Z;
-          M 421.1 71 Q 421.1 61.1 431 61.1 Q 440.9 61.1 440.9 71 L 440.9 78.92 Q 437.93 75.95 435.95 78.92 Q 433.475 81.89 431 78.92 Q 428.525 75.95 426.05 78.92 Q 424.07 81.89 421.1 78.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="427.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="434.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="427.9805" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="426.7925;428.27750000000003;426.7925"/>
-      </circle>
-      <circle cx="434.91049999999996" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="433.72249999999997;435.2075;433.72249999999997"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="446" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="472" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="498" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="524" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="550" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="576" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.0937" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.3850" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
-    <g id="ghost-22-1">
+    <g id="ghost-20-1">
       <!-- Ghost body -->
       <path d="
-        M 577.1 71
-        Q 577.1 61.1 587 61.1
-        Q 596.9 61.1 596.9 71
-        L 596.9 78.92
-        Q 593.93 75.95 591.95 78.92
-        Q 589.475 81.89 587 78.92
-        Q 584.525 75.95 582.05 78.92
-        Q 580.07 81.89 577.1 78.92
+        M 525.1 71
+        Q 525.1 61.1 535 61.1
+        Q 544.9 61.1 544.9 71
+        L 544.9 78.92
+        Q 541.93 75.95 539.95 78.92
+        Q 537.475 81.89 535 78.92
+        Q 532.525 75.95 530.05 78.92
+        Q 528.07 81.89 525.1 78.92
         Z
-      " fill="#ff0000">
+      " fill="#00ffff">
         <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 577.1 71 Q 577.1 61.1 587 61.1 Q 596.9 61.1 596.9 71 L 596.9 78.92 Q 593.93 75.95 591.95 78.92 Q 589.475 81.89 587 78.92 Q 584.525 75.95 582.05 78.92 Q 580.07 81.89 577.1 78.92 Z;
-          M 577.1 71 Q 577.1 61.1 587 61.1 Q 596.9 61.1 596.9 71 L 596.9 78.92 Q 593.93 81.89 591.95 78.92 Q 589.475 75.95 587 78.92 Q 584.525 81.89 582.05 78.92 Q 580.07 75.95 577.1 78.92 Z;
-          M 577.1 71 Q 577.1 61.1 587 61.1 Q 596.9 61.1 596.9 71 L 596.9 78.92 Q 593.93 75.95 591.95 78.92 Q 589.475 81.89 587 78.92 Q 584.525 75.95 582.05 78.92 Q 580.07 81.89 577.1 78.92 Z
+          M 525.1 71 Q 525.1 61.1 535 61.1 Q 544.9 61.1 544.9 71 L 544.9 78.92 Q 541.93 75.95 539.95 78.92 Q 537.475 81.89 535 78.92 Q 532.525 75.95 530.05 78.92 Q 528.07 81.89 525.1 78.92 Z;
+          M 525.1 71 Q 525.1 61.1 535 61.1 Q 544.9 61.1 544.9 71 L 544.9 78.92 Q 541.93 81.89 539.95 78.92 Q 537.475 75.95 535 78.92 Q 532.525 81.89 530.05 78.92 Q 528.07 75.95 525.1 78.92 Z;
+          M 525.1 71 Q 525.1 61.1 535 61.1 Q 544.9 61.1 544.9 71 L 544.9 78.92 Q 541.93 75.95 539.95 78.92 Q 537.475 81.89 535 78.92 Q 532.525 75.95 530.05 78.92 Q 528.07 81.89 525.1 78.92 Z
         "/>
       </path>
       <!-- Eyes -->
-      <ellipse cx="583.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="590.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="531.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="538.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
       <!-- Pupils -->
-      <circle cx="583.9805" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="582.7925;584.2774999999999;582.7925"/>
+      <circle cx="531.9805" cy="70.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="530.7925;532.2774999999999;530.7925"/>
       </circle>
-      <circle cx="590.9105000000001" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="589.7225000000001;591.2075;589.7225000000001"/>
+      <circle cx="538.9105000000001" cy="70.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="537.7225000000001;539.2075;537.7225000000001"/>
       </circle>
     </g>
   
   </g>
+  <rect x="550" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="576" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="602" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="628" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="654" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="680" y="60" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="706" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.6261" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-27-1">
-      <!-- Ghost body -->
-      <path d="
-        M 707.1 71
-        Q 707.1 61.1 717 61.1
-        Q 726.9 61.1 726.9 71
-        L 726.9 78.92
-        Q 723.93 75.95 721.95 78.92
-        Q 719.475 81.89 717 78.92
-        Q 714.525 75.95 712.05 78.92
-        Q 710.07 81.89 707.1 78.92
-        Z
-      " fill="#ffb8ff">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 707.1 71 Q 707.1 61.1 717 61.1 Q 726.9 61.1 726.9 71 L 726.9 78.92 Q 723.93 75.95 721.95 78.92 Q 719.475 81.89 717 78.92 Q 714.525 75.95 712.05 78.92 Q 710.07 81.89 707.1 78.92 Z;
-          M 707.1 71 Q 707.1 61.1 717 61.1 Q 726.9 61.1 726.9 71 L 726.9 78.92 Q 723.93 81.89 721.95 78.92 Q 719.475 75.95 717 78.92 Q 714.525 81.89 712.05 78.92 Q 710.07 75.95 707.1 78.92 Z;
-          M 707.1 71 Q 707.1 61.1 717 61.1 Q 726.9 61.1 726.9 71 L 726.9 78.92 Q 723.93 75.95 721.95 78.92 Q 719.475 81.89 717 78.92 Q 714.525 75.95 712.05 78.92 Q 710.07 81.89 707.1 78.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="713.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="720.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="713.9805" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="712.7925;714.2774999999999;712.7925"/>
-      </circle>
-      <circle cx="720.9105000000001" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="719.7225000000001;721.2075;719.7225000000001"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="732" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="758" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="784" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="810" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="836" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="862" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="888" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="914" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.7266" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.5843" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
-    <g id="ghost-35-1">
+    <g id="ghost-31-1">
       <!-- Ghost body -->
       <path d="
-        M 915.1 71
-        Q 915.1 61.1 925 61.1
-        Q 934.9 61.1 934.9 71
-        L 934.9 78.92
-        Q 931.93 75.95 929.95 78.92
-        Q 927.475 81.89 925 78.92
-        Q 922.525 75.95 920.05 78.92
-        Q 918.07 81.89 915.1 78.92
+        M 811.1 71
+        Q 811.1 61.1 821 61.1
+        Q 830.9 61.1 830.9 71
+        L 830.9 78.92
+        Q 827.93 75.95 825.95 78.92
+        Q 823.475 81.89 821 78.92
+        Q 818.525 75.95 816.05 78.92
+        Q 814.07 81.89 811.1 78.92
         Z
-      " fill="#00ffff">
+      " fill="#ffb852">
         <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 915.1 71 Q 915.1 61.1 925 61.1 Q 934.9 61.1 934.9 71 L 934.9 78.92 Q 931.93 75.95 929.95 78.92 Q 927.475 81.89 925 78.92 Q 922.525 75.95 920.05 78.92 Q 918.07 81.89 915.1 78.92 Z;
-          M 915.1 71 Q 915.1 61.1 925 61.1 Q 934.9 61.1 934.9 71 L 934.9 78.92 Q 931.93 81.89 929.95 78.92 Q 927.475 75.95 925 78.92 Q 922.525 81.89 920.05 78.92 Q 918.07 75.95 915.1 78.92 Z;
-          M 915.1 71 Q 915.1 61.1 925 61.1 Q 934.9 61.1 934.9 71 L 934.9 78.92 Q 931.93 75.95 929.95 78.92 Q 927.475 81.89 925 78.92 Q 922.525 75.95 920.05 78.92 Q 918.07 81.89 915.1 78.92 Z
+          M 811.1 71 Q 811.1 61.1 821 61.1 Q 830.9 61.1 830.9 71 L 830.9 78.92 Q 827.93 75.95 825.95 78.92 Q 823.475 81.89 821 78.92 Q 818.525 75.95 816.05 78.92 Q 814.07 81.89 811.1 78.92 Z;
+          M 811.1 71 Q 811.1 61.1 821 61.1 Q 830.9 61.1 830.9 71 L 830.9 78.92 Q 827.93 81.89 825.95 78.92 Q 823.475 75.95 821 78.92 Q 818.525 81.89 816.05 78.92 Q 814.07 75.95 811.1 78.92 Z;
+          M 811.1 71 Q 811.1 61.1 821 61.1 Q 830.9 61.1 830.9 71 L 830.9 78.92 Q 827.93 75.95 825.95 78.92 Q 823.475 81.89 821 78.92 Q 818.525 75.95 816.05 78.92 Q 814.07 81.89 811.1 78.92 Z
         "/>
       </path>
       <!-- Eyes -->
-      <ellipse cx="921.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="928.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="817.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="824.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
       <!-- Pupils -->
-      <circle cx="921.9805" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="920.7925;922.2774999999999;920.7925"/>
+      <circle cx="817.9805" cy="70.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="816.7925;818.2774999999999;816.7925"/>
       </circle>
-      <circle cx="928.9105000000001" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="927.7225000000001;929.2075;927.7225000000001"/>
+      <circle cx="824.9105000000001" cy="70.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="823.7225000000001;825.2075;823.7225000000001"/>
       </circle>
     </g>
   
   </g>
+  <rect x="836" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="862" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="888" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="914" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="940" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="966" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="992" y="60" width="22" height="22" rx="2" fill="#9be9a8"/>
@@ -355,41 +390,6 @@
   <rect x="1174" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1200" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1226" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.9024" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-47-1">
-      <!-- Ghost body -->
-      <path d="
-        M 1227.1 71
-        Q 1227.1 61.1 1237 61.1
-        Q 1246.9 61.1 1246.9 71
-        L 1246.9 78.92
-        Q 1243.93 75.95 1241.95 78.92
-        Q 1239.475 81.89 1237 78.92
-        Q 1234.525 75.95 1232.05 78.92
-        Q 1230.07 81.89 1227.1 78.92
-        Z
-      " fill="#ffb852">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 1227.1 71 Q 1227.1 61.1 1237 61.1 Q 1246.9 61.1 1246.9 71 L 1246.9 78.92 Q 1243.93 75.95 1241.95 78.92 Q 1239.475 81.89 1237 78.92 Q 1234.525 75.95 1232.05 78.92 Q 1230.07 81.89 1227.1 78.92 Z;
-          M 1227.1 71 Q 1227.1 61.1 1237 61.1 Q 1246.9 61.1 1246.9 71 L 1246.9 78.92 Q 1243.93 81.89 1241.95 78.92 Q 1239.475 75.95 1237 78.92 Q 1234.525 81.89 1232.05 78.92 Q 1230.07 75.95 1227.1 78.92 Z;
-          M 1227.1 71 Q 1227.1 61.1 1237 61.1 Q 1246.9 61.1 1246.9 71 L 1246.9 78.92 Q 1243.93 75.95 1241.95 78.92 Q 1239.475 81.89 1237 78.92 Q 1234.525 75.95 1232.05 78.92 Q 1230.07 81.89 1227.1 78.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="1233.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="1240.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="1233.9805000000001" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1232.7925;1234.2775000000001;1232.7925"/>
-      </circle>
-      <circle cx="1240.9105" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1239.7224999999999;1241.2075;1239.7224999999999"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="1252" y="60" width="22" height="22" rx="2" fill="#216e39"/>
   <rect x="1278" y="60" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1304" y="60" width="22" height="22" rx="2" fill="#9be9a8"/>
@@ -403,78 +403,8 @@
   <rect x="134" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="160" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="186" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.3256" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-7-2">
-      <!-- Ghost body -->
-      <path d="
-        M 187.1 97
-        Q 187.1 87.1 197 87.1
-        Q 206.9 87.1 206.9 97
-        L 206.9 104.92
-        Q 203.93 101.95 201.95 104.92
-        Q 199.475 107.89 197 104.92
-        Q 194.525 101.95 192.05 104.92
-        Q 190.07 107.89 187.1 104.92
-        Z
-      " fill="#ff0000">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 187.1 97 Q 187.1 87.1 197 87.1 Q 206.9 87.1 206.9 97 L 206.9 104.92 Q 203.93 101.95 201.95 104.92 Q 199.475 107.89 197 104.92 Q 194.525 101.95 192.05 104.92 Q 190.07 107.89 187.1 104.92 Z;
-          M 187.1 97 Q 187.1 87.1 197 87.1 Q 206.9 87.1 206.9 97 L 206.9 104.92 Q 203.93 107.89 201.95 104.92 Q 199.475 101.95 197 104.92 Q 194.525 107.89 192.05 104.92 Q 190.07 101.95 187.1 104.92 Z;
-          M 187.1 97 Q 187.1 87.1 197 87.1 Q 206.9 87.1 206.9 97 L 206.9 104.92 Q 203.93 101.95 201.95 104.92 Q 199.475 107.89 197 104.92 Q 194.525 101.95 192.05 104.92 Q 190.07 107.89 187.1 104.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="193.535" cy="96.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="200.465" cy="96.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="193.9805" cy="96.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="192.7925;194.2775;192.7925"/>
-      </circle>
-      <circle cx="200.9105" cy="96.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="199.7225;201.2075;199.7225"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="212" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="238" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.3469" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-9-2">
-      <!-- Ghost body -->
-      <path d="
-        M 239.1 97
-        Q 239.1 87.1 249 87.1
-        Q 258.9 87.1 258.9 97
-        L 258.9 104.92
-        Q 255.93 101.95 253.95 104.92
-        Q 251.475 107.89 249 104.92
-        Q 246.525 101.95 244.05 104.92
-        Q 242.07 107.89 239.1 104.92
-        Z
-      " fill="#ffb8ff">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 239.1 97 Q 239.1 87.1 249 87.1 Q 258.9 87.1 258.9 97 L 258.9 104.92 Q 255.93 101.95 253.95 104.92 Q 251.475 107.89 249 104.92 Q 246.525 101.95 244.05 104.92 Q 242.07 107.89 239.1 104.92 Z;
-          M 239.1 97 Q 239.1 87.1 249 87.1 Q 258.9 87.1 258.9 97 L 258.9 104.92 Q 255.93 107.89 253.95 104.92 Q 251.475 101.95 249 104.92 Q 246.525 107.89 244.05 104.92 Q 242.07 101.95 239.1 104.92 Z;
-          M 239.1 97 Q 239.1 87.1 249 87.1 Q 258.9 87.1 258.9 97 L 258.9 104.92 Q 255.93 101.95 253.95 104.92 Q 251.475 107.89 249 104.92 Q 246.525 101.95 244.05 104.92 Q 242.07 107.89 239.1 104.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="245.535" cy="96.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="252.465" cy="96.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="245.9805" cy="96.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="244.7925;246.2775;244.7925"/>
-      </circle>
-      <circle cx="252.9105" cy="96.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="251.7225;253.2075;251.7225"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="264" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="290" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="316" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -502,6 +432,41 @@
   <rect x="888" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="914" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="940" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.6936" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-36-2">
+      <!-- Ghost body -->
+      <path d="
+        M 941.1 97
+        Q 941.1 87.1 951 87.1
+        Q 960.9 87.1 960.9 97
+        L 960.9 104.92
+        Q 957.93 101.95 955.95 104.92
+        Q 953.475 107.89 951 104.92
+        Q 948.525 101.95 946.05 104.92
+        Q 944.07 107.89 941.1 104.92
+        Z
+      " fill="#ff0000">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 941.1 97 Q 941.1 87.1 951 87.1 Q 960.9 87.1 960.9 97 L 960.9 104.92 Q 957.93 101.95 955.95 104.92 Q 953.475 107.89 951 104.92 Q 948.525 101.95 946.05 104.92 Q 944.07 107.89 941.1 104.92 Z;
+          M 941.1 97 Q 941.1 87.1 951 87.1 Q 960.9 87.1 960.9 97 L 960.9 104.92 Q 957.93 107.89 955.95 104.92 Q 953.475 101.95 951 104.92 Q 948.525 107.89 946.05 104.92 Q 944.07 101.95 941.1 104.92 Z;
+          M 941.1 97 Q 941.1 87.1 951 87.1 Q 960.9 87.1 960.9 97 L 960.9 104.92 Q 957.93 101.95 955.95 104.92 Q 953.475 107.89 951 104.92 Q 948.525 101.95 946.05 104.92 Q 944.07 107.89 941.1 104.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="947.535" cy="96.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="954.465" cy="96.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="947.9805" cy="96.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="946.7925;948.2774999999999;946.7925"/>
+      </circle>
+      <circle cx="954.9105000000001" cy="96.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="953.7225000000001;955.2075;953.7225000000001"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="966" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="992" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1018" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -511,33 +476,48 @@
   <rect x="1122" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1148" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1174" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.8565" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-45-2">
+      <!-- Ghost body -->
+      <path d="
+        M 1175.1 97
+        Q 1175.1 87.1 1185 87.1
+        Q 1194.9 87.1 1194.9 97
+        L 1194.9 104.92
+        Q 1191.93 101.95 1189.95 104.92
+        Q 1187.475 107.89 1185 104.92
+        Q 1182.525 101.95 1180.05 104.92
+        Q 1178.07 107.89 1175.1 104.92
+        Z
+      " fill="#ffb8ff">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 1175.1 97 Q 1175.1 87.1 1185 87.1 Q 1194.9 87.1 1194.9 97 L 1194.9 104.92 Q 1191.93 101.95 1189.95 104.92 Q 1187.475 107.89 1185 104.92 Q 1182.525 101.95 1180.05 104.92 Q 1178.07 107.89 1175.1 104.92 Z;
+          M 1175.1 97 Q 1175.1 87.1 1185 87.1 Q 1194.9 87.1 1194.9 97 L 1194.9 104.92 Q 1191.93 107.89 1189.95 104.92 Q 1187.475 101.95 1185 104.92 Q 1182.525 107.89 1180.05 104.92 Q 1178.07 101.95 1175.1 104.92 Z;
+          M 1175.1 97 Q 1175.1 87.1 1185 87.1 Q 1194.9 87.1 1194.9 97 L 1194.9 104.92 Q 1191.93 101.95 1189.95 104.92 Q 1187.475 107.89 1185 104.92 Q 1182.525 101.95 1180.05 104.92 Q 1178.07 107.89 1175.1 104.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="1181.535" cy="96.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="1188.465" cy="96.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="1181.9805000000001" cy="96.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1180.7925;1182.2775000000001;1180.7925"/>
+      </circle>
+      <circle cx="1188.9105" cy="96.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1187.7224999999999;1189.2075;1187.7224999999999"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="1200" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1226" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="1252" y="86" width="22" height="22" rx="2" fill="#9be9a8">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9275;0.9304;0.999;1" dur="51.75s" repeatCount="indefinite" calcMode="linear"/>
-  </rect>
-  <rect x="1252" y="86" width="22" height="22" rx="2" fill="#ebedf0">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9275;0.9304;0.999;1" dur="51.75s" repeatCount="indefinite" calcMode="linear"/>
-  </rect>
-  <rect x="1278" y="86" width="22" height="22" rx="2" fill="#9be9a8">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9401;0.9430;0.999;1" dur="51.75s" repeatCount="indefinite" calcMode="linear"/>
-  </rect>
-  <rect x="1278" y="86" width="22" height="22" rx="2" fill="#ebedf0">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9401;0.9430;0.999;1" dur="51.75s" repeatCount="indefinite" calcMode="linear"/>
-  </rect>
-  <rect x="1304" y="86" width="22" height="22" rx="2" fill="#9be9a8">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9527;0.9556;0.999;1" dur="51.75s" repeatCount="indefinite" calcMode="linear"/>
-  </rect>
-  <rect x="1304" y="86" width="22" height="22" rx="2" fill="#ebedf0">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9527;0.9556;0.999;1" dur="51.75s" repeatCount="indefinite" calcMode="linear"/>
-  </rect>
-  <rect x="1330" y="86" width="22" height="22" rx="2" fill="#9be9a8">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9652;0.9681;0.999;1" dur="51.75s" repeatCount="indefinite" calcMode="linear"/>
-  </rect>
-  <rect x="1330" y="86" width="22" height="22" rx="2" fill="#ebedf0">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9652;0.9681;0.999;1" dur="51.75s" repeatCount="indefinite" calcMode="linear"/>
-  </rect>
-  <rect x="1356" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="1252" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
+  <rect x="1278" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
+  <rect x="1304" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
+  <rect x="1330" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
+  <rect x="1356" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="4" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="30" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="56" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -545,6 +525,41 @@
   <rect x="108" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="134" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="160" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.0843" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-6-3">
+      <!-- Ghost body -->
+      <path d="
+        M 161.1 123
+        Q 161.1 113.1 171 113.1
+        Q 180.9 113.1 180.9 123
+        L 180.9 130.92
+        Q 177.93 127.94999999999999 175.95 130.92
+        Q 173.475 133.89 171 130.92
+        Q 168.525 127.94999999999999 166.05 130.92
+        Q 164.07 133.89 161.1 130.92
+        Z
+      " fill="#00ffff">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 161.1 123 Q 161.1 113.1 171 113.1 Q 180.9 113.1 180.9 123 L 180.9 130.92 Q 177.93 127.94999999999999 175.95 130.92 Q 173.475 133.89 171 130.92 Q 168.525 127.94999999999999 166.05 130.92 Q 164.07 133.89 161.1 130.92 Z;
+          M 161.1 123 Q 161.1 113.1 171 113.1 Q 180.9 113.1 180.9 123 L 180.9 130.92 Q 177.93 133.89 175.95 130.92 Q 173.475 127.94999999999999 171 130.92 Q 168.525 133.89 166.05 130.92 Q 164.07 127.94999999999999 161.1 130.92 Z;
+          M 161.1 123 Q 161.1 113.1 171 113.1 Q 180.9 113.1 180.9 123 L 180.9 130.92 Q 177.93 127.94999999999999 175.95 130.92 Q 173.475 133.89 171 130.92 Q 168.525 127.94999999999999 166.05 130.92 Q 164.07 133.89 161.1 130.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="167.535" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="174.465" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="167.9805" cy="122.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="166.7925;168.2775;166.7925"/>
+      </circle>
+      <circle cx="174.9105" cy="122.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="173.7225;175.2075;173.7225"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="186" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="212" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="238" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -558,45 +573,45 @@
   <rect x="446" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="472" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="498" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.5043" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-19-3">
-      <!-- Ghost body -->
-      <path d="
-        M 499.1 123
-        Q 499.1 113.1 509 113.1
-        Q 518.9 113.1 518.9 123
-        L 518.9 130.92
-        Q 515.93 127.94999999999999 513.95 130.92
-        Q 511.475 133.89 509 130.92
-        Q 506.525 127.94999999999999 504.05 130.92
-        Q 502.07 133.89 499.1 130.92
-        Z
-      " fill="#00ffff">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 499.1 123 Q 499.1 113.1 509 113.1 Q 518.9 113.1 518.9 123 L 518.9 130.92 Q 515.93 127.94999999999999 513.95 130.92 Q 511.475 133.89 509 130.92 Q 506.525 127.94999999999999 504.05 130.92 Q 502.07 133.89 499.1 130.92 Z;
-          M 499.1 123 Q 499.1 113.1 509 113.1 Q 518.9 113.1 518.9 123 L 518.9 130.92 Q 515.93 133.89 513.95 130.92 Q 511.475 127.94999999999999 509 130.92 Q 506.525 133.89 504.05 130.92 Q 502.07 127.94999999999999 499.1 130.92 Z;
-          M 499.1 123 Q 499.1 113.1 509 113.1 Q 518.9 113.1 518.9 123 L 518.9 130.92 Q 515.93 127.94999999999999 513.95 130.92 Q 511.475 133.89 509 130.92 Q 506.525 127.94999999999999 504.05 130.92 Q 502.07 133.89 499.1 130.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="505.535" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="512.465" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="505.9805" cy="122.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="504.7925;506.27750000000003;504.7925"/>
-      </circle>
-      <circle cx="512.9105000000001" cy="122.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="511.7225;513.2075;511.7225"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="524" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="550" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="576" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="602" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.4522" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-23-3">
+      <!-- Ghost body -->
+      <path d="
+        M 603.1 123
+        Q 603.1 113.1 613 113.1
+        Q 622.9 113.1 622.9 123
+        L 622.9 130.92
+        Q 619.93 127.94999999999999 617.95 130.92
+        Q 615.475 133.89 613 130.92
+        Q 610.525 127.94999999999999 608.05 130.92
+        Q 606.07 133.89 603.1 130.92
+        Z
+      " fill="#ffb852">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 603.1 123 Q 603.1 113.1 613 113.1 Q 622.9 113.1 622.9 123 L 622.9 130.92 Q 619.93 127.94999999999999 617.95 130.92 Q 615.475 133.89 613 130.92 Q 610.525 127.94999999999999 608.05 130.92 Q 606.07 133.89 603.1 130.92 Z;
+          M 603.1 123 Q 603.1 113.1 613 113.1 Q 622.9 113.1 622.9 123 L 622.9 130.92 Q 619.93 133.89 617.95 130.92 Q 615.475 127.94999999999999 613 130.92 Q 610.525 133.89 608.05 130.92 Q 606.07 127.94999999999999 603.1 130.92 Z;
+          M 603.1 123 Q 603.1 113.1 613 113.1 Q 622.9 113.1 622.9 123 L 622.9 130.92 Q 619.93 127.94999999999999 617.95 130.92 Q 615.475 133.89 613 130.92 Q 610.525 127.94999999999999 608.05 130.92 Q 606.07 133.89 603.1 130.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="609.535" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="616.465" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="609.9805" cy="122.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="608.7925;610.2774999999999;608.7925"/>
+      </circle>
+      <circle cx="616.9105000000001" cy="122.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="615.7225000000001;617.2075;615.7225000000001"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="628" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="654" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="680" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -612,130 +627,85 @@
   <rect x="940" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="966" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="992" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.7623" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-38-3">
-      <!-- Ghost body -->
-      <path d="
-        M 993.1 123
-        Q 993.1 113.1 1003 113.1
-        Q 1012.9 113.1 1012.9 123
-        L 1012.9 130.92
-        Q 1009.93 127.94999999999999 1007.95 130.92
-        Q 1005.475 133.89 1003 130.92
-        Q 1000.525 127.94999999999999 998.05 130.92
-        Q 996.07 133.89 993.1 130.92
-        Z
-      " fill="#ffb852">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 993.1 123 Q 993.1 113.1 1003 113.1 Q 1012.9 113.1 1012.9 123 L 1012.9 130.92 Q 1009.93 127.94999999999999 1007.95 130.92 Q 1005.475 133.89 1003 130.92 Q 1000.525 127.94999999999999 998.05 130.92 Q 996.07 133.89 993.1 130.92 Z;
-          M 993.1 123 Q 993.1 113.1 1003 113.1 Q 1012.9 113.1 1012.9 123 L 1012.9 130.92 Q 1009.93 133.89 1007.95 130.92 Q 1005.475 127.94999999999999 1003 130.92 Q 1000.525 133.89 998.05 130.92 Q 996.07 127.94999999999999 993.1 130.92 Z;
-          M 993.1 123 Q 993.1 113.1 1003 113.1 Q 1012.9 113.1 1012.9 123 L 1012.9 130.92 Q 1009.93 127.94999999999999 1007.95 130.92 Q 1005.475 133.89 1003 130.92 Q 1000.525 127.94999999999999 998.05 130.92 Q 996.07 133.89 993.1 130.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="999.535" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="1006.465" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="999.9805" cy="122.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="998.7925;1000.2774999999999;998.7925"/>
-      </circle>
-      <circle cx="1006.9105000000001" cy="122.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1005.7225000000001;1007.2075;1005.7225000000001"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="1018" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1044" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1070" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1096" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1122" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1148" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="1174" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
+  <rect x="1200" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.8667" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.8815" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
-    <g id="ghost-44-3">
+    <g id="ghost-46-3">
       <!-- Ghost body -->
       <path d="
-        M 1149.1 123
-        Q 1149.1 113.1 1159 113.1
-        Q 1168.9 113.1 1168.9 123
-        L 1168.9 130.92
-        Q 1165.93 127.94999999999999 1163.95 130.92
-        Q 1161.475 133.89 1159 130.92
-        Q 1156.525 127.94999999999999 1154.05 130.92
-        Q 1152.07 133.89 1149.1 130.92
+        M 1201.1 123
+        Q 1201.1 113.1 1211 113.1
+        Q 1220.9 113.1 1220.9 123
+        L 1220.9 130.92
+        Q 1217.93 127.94999999999999 1215.95 130.92
+        Q 1213.475 133.89 1211 130.92
+        Q 1208.525 127.94999999999999 1206.05 130.92
+        Q 1204.07 133.89 1201.1 130.92
         Z
       " fill="#ff0000">
         <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 1149.1 123 Q 1149.1 113.1 1159 113.1 Q 1168.9 113.1 1168.9 123 L 1168.9 130.92 Q 1165.93 127.94999999999999 1163.95 130.92 Q 1161.475 133.89 1159 130.92 Q 1156.525 127.94999999999999 1154.05 130.92 Q 1152.07 133.89 1149.1 130.92 Z;
-          M 1149.1 123 Q 1149.1 113.1 1159 113.1 Q 1168.9 113.1 1168.9 123 L 1168.9 130.92 Q 1165.93 133.89 1163.95 130.92 Q 1161.475 127.94999999999999 1159 130.92 Q 1156.525 133.89 1154.05 130.92 Q 1152.07 127.94999999999999 1149.1 130.92 Z;
-          M 1149.1 123 Q 1149.1 113.1 1159 113.1 Q 1168.9 113.1 1168.9 123 L 1168.9 130.92 Q 1165.93 127.94999999999999 1163.95 130.92 Q 1161.475 133.89 1159 130.92 Q 1156.525 127.94999999999999 1154.05 130.92 Q 1152.07 133.89 1149.1 130.92 Z
+          M 1201.1 123 Q 1201.1 113.1 1211 113.1 Q 1220.9 113.1 1220.9 123 L 1220.9 130.92 Q 1217.93 127.94999999999999 1215.95 130.92 Q 1213.475 133.89 1211 130.92 Q 1208.525 127.94999999999999 1206.05 130.92 Q 1204.07 133.89 1201.1 130.92 Z;
+          M 1201.1 123 Q 1201.1 113.1 1211 113.1 Q 1220.9 113.1 1220.9 123 L 1220.9 130.92 Q 1217.93 133.89 1215.95 130.92 Q 1213.475 127.94999999999999 1211 130.92 Q 1208.525 133.89 1206.05 130.92 Q 1204.07 127.94999999999999 1201.1 130.92 Z;
+          M 1201.1 123 Q 1201.1 113.1 1211 113.1 Q 1220.9 113.1 1220.9 123 L 1220.9 130.92 Q 1217.93 127.94999999999999 1215.95 130.92 Q 1213.475 133.89 1211 130.92 Q 1208.525 127.94999999999999 1206.05 130.92 Q 1204.07 133.89 1201.1 130.92 Z
         "/>
       </path>
       <!-- Eyes -->
-      <ellipse cx="1155.535" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="1162.465" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="1207.535" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="1214.465" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
       <!-- Pupils -->
-      <circle cx="1155.9805000000001" cy="122.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1154.7925;1156.2775000000001;1154.7925"/>
+      <circle cx="1207.9805000000001" cy="122.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1206.7925;1208.2775000000001;1206.7925"/>
       </circle>
-      <circle cx="1162.9105" cy="122.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1161.7224999999999;1163.2075;1161.7224999999999"/>
+      <circle cx="1214.9105" cy="122.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1213.7224999999999;1215.2075;1213.7224999999999"/>
       </circle>
     </g>
   
   </g>
-  <rect x="1174" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
-  <rect x="1200" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="1226" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
-  <rect x="1252" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
-  <rect x="1278" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
-  <rect x="1304" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
-  <rect x="1330" y="112" width="22" height="22" rx="2" fill="#40c463"/>
+  <rect x="1226" y="112" width="22" height="22" rx="2" fill="#9be9a8">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9055;0.9089;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="1226" y="112" width="22" height="22" rx="2" fill="#ebedf0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9055;0.9089;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="1252" y="112" width="22" height="22" rx="2" fill="#9be9a8">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9203;0.9237;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="1252" y="112" width="22" height="22" rx="2" fill="#ebedf0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9203;0.9237;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="1278" y="112" width="22" height="22" rx="2" fill="#9be9a8">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9351;0.9385;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="1278" y="112" width="22" height="22" rx="2" fill="#ebedf0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9351;0.9385;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="1304" y="112" width="22" height="22" rx="2" fill="#9be9a8">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9499;0.9533;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="1304" y="112" width="22" height="22" rx="2" fill="#ebedf0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9499;0.9533;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="1330" y="112" width="22" height="22" rx="2" fill="#40c463">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.9647;0.9681;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
+  <rect x="1330" y="112" width="22" height="22" rx="2" fill="#ebedf0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.9647;0.9681;0.999;1" dur="43.90s" repeatCount="indefinite" calcMode="linear"/>
+  </rect>
   <rect x="1356" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="4" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="30" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="56" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="82" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="108" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.2899" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-4-4">
-      <!-- Ghost body -->
-      <path d="
-        M 109.1 149
-        Q 109.1 139.1 119 139.1
-        Q 128.9 139.1 128.9 149
-        L 128.9 156.92
-        Q 125.93 153.95 123.95 156.92
-        Q 121.475 159.89 119 156.92
-        Q 116.525 153.95 114.05 156.92
-        Q 112.07 159.89 109.1 156.92
-        Z
-      " fill="#ffb8ff">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 109.1 149 Q 109.1 139.1 119 139.1 Q 128.9 139.1 128.9 149 L 128.9 156.92 Q 125.93 153.95 123.95 156.92 Q 121.475 159.89 119 156.92 Q 116.525 153.95 114.05 156.92 Q 112.07 159.89 109.1 156.92 Z;
-          M 109.1 149 Q 109.1 139.1 119 139.1 Q 128.9 139.1 128.9 149 L 128.9 156.92 Q 125.93 159.89 123.95 156.92 Q 121.475 153.95 119 156.92 Q 116.525 159.89 114.05 156.92 Q 112.07 153.95 109.1 156.92 Z;
-          M 109.1 149 Q 109.1 139.1 119 139.1 Q 128.9 139.1 128.9 149 L 128.9 156.92 Q 125.93 153.95 123.95 156.92 Q 121.475 159.89 119 156.92 Q 116.525 153.95 114.05 156.92 Q 112.07 159.89 109.1 156.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="115.535" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="122.465" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="115.98049999999999" cy="148.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="114.79249999999999;116.2775;114.79249999999999"/>
-      </circle>
-      <circle cx="122.9105" cy="148.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="121.7225;123.20750000000001;121.7225"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="134" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="160" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="186" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -744,46 +714,46 @@
   <rect x="264" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="290" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="316" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.3826" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-12-4">
-      <!-- Ghost body -->
-      <path d="
-        M 317.1 149
-        Q 317.1 139.1 327 139.1
-        Q 336.9 139.1 336.9 149
-        L 336.9 156.92
-        Q 333.93 153.95 331.95 156.92
-        Q 329.475 159.89 327 156.92
-        Q 324.525 153.95 322.05 156.92
-        Q 320.07 159.89 317.1 156.92
-        Z
-      " fill="#00ffff">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 317.1 149 Q 317.1 139.1 327 139.1 Q 336.9 139.1 336.9 149 L 336.9 156.92 Q 333.93 153.95 331.95 156.92 Q 329.475 159.89 327 156.92 Q 324.525 153.95 322.05 156.92 Q 320.07 159.89 317.1 156.92 Z;
-          M 317.1 149 Q 317.1 139.1 327 139.1 Q 336.9 139.1 336.9 149 L 336.9 156.92 Q 333.93 159.89 331.95 156.92 Q 329.475 153.95 327 156.92 Q 324.525 159.89 322.05 156.92 Q 320.07 153.95 317.1 156.92 Z;
-          M 317.1 149 Q 317.1 139.1 327 139.1 Q 336.9 139.1 336.9 149 L 336.9 156.92 Q 333.93 153.95 331.95 156.92 Q 329.475 159.89 327 156.92 Q 324.525 153.95 322.05 156.92 Q 320.07 159.89 317.1 156.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="323.535" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="330.465" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="323.9805" cy="148.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="322.7925;324.27750000000003;322.7925"/>
-      </circle>
-      <circle cx="330.91049999999996" cy="148.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="329.72249999999997;331.2075;329.72249999999997"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="342" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="368" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="394" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="420" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="446" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.3371" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-17-4">
+      <!-- Ghost body -->
+      <path d="
+        M 447.1 149
+        Q 447.1 139.1 457 139.1
+        Q 466.9 139.1 466.9 149
+        L 466.9 156.92
+        Q 463.93 153.95 461.95 156.92
+        Q 459.475 159.89 457 156.92
+        Q 454.525 153.95 452.05 156.92
+        Q 450.07 159.89 447.1 156.92
+        Z
+      " fill="#ffb8ff">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 447.1 149 Q 447.1 139.1 457 139.1 Q 466.9 139.1 466.9 149 L 466.9 156.92 Q 463.93 153.95 461.95 156.92 Q 459.475 159.89 457 156.92 Q 454.525 153.95 452.05 156.92 Q 450.07 159.89 447.1 156.92 Z;
+          M 447.1 149 Q 447.1 139.1 457 139.1 Q 466.9 139.1 466.9 149 L 466.9 156.92 Q 463.93 159.89 461.95 156.92 Q 459.475 153.95 457 156.92 Q 454.525 159.89 452.05 156.92 Q 450.07 153.95 447.1 156.92 Z;
+          M 447.1 149 Q 447.1 139.1 457 139.1 Q 466.9 139.1 466.9 149 L 466.9 156.92 Q 463.93 153.95 461.95 156.92 Q 459.475 159.89 457 156.92 Q 454.525 153.95 452.05 156.92 Q 450.07 159.89 447.1 156.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="453.535" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="460.465" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="453.9805" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="452.7925;454.27750000000003;452.7925"/>
+      </circle>
+      <circle cx="460.91049999999996" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="459.72249999999997;461.2075;459.72249999999997"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="472" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="498" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="524" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -792,89 +762,124 @@
   <rect x="602" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="628" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="654" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="680" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.5903" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.4886" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
-    <g id="ghost-25-4">
+    <g id="ghost-26-4">
       <!-- Ghost body -->
       <path d="
-        M 655.1 149
-        Q 655.1 139.1 665 139.1
-        Q 674.9 139.1 674.9 149
-        L 674.9 156.92
-        Q 671.93 153.95 669.95 156.92
-        Q 667.475 159.89 665 156.92
-        Q 662.525 153.95 660.05 156.92
-        Q 658.07 159.89 655.1 156.92
+        M 681.1 149
+        Q 681.1 139.1 691 139.1
+        Q 700.9 139.1 700.9 149
+        L 700.9 156.92
+        Q 697.93 153.95 695.95 156.92
+        Q 693.475 159.89 691 156.92
+        Q 688.525 153.95 686.05 156.92
+        Q 684.07 159.89 681.1 156.92
         Z
-      " fill="#ffb852">
+      " fill="#00ffff">
         <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 655.1 149 Q 655.1 139.1 665 139.1 Q 674.9 139.1 674.9 149 L 674.9 156.92 Q 671.93 153.95 669.95 156.92 Q 667.475 159.89 665 156.92 Q 662.525 153.95 660.05 156.92 Q 658.07 159.89 655.1 156.92 Z;
-          M 655.1 149 Q 655.1 139.1 665 139.1 Q 674.9 139.1 674.9 149 L 674.9 156.92 Q 671.93 159.89 669.95 156.92 Q 667.475 153.95 665 156.92 Q 662.525 159.89 660.05 156.92 Q 658.07 153.95 655.1 156.92 Z;
-          M 655.1 149 Q 655.1 139.1 665 139.1 Q 674.9 139.1 674.9 149 L 674.9 156.92 Q 671.93 153.95 669.95 156.92 Q 667.475 159.89 665 156.92 Q 662.525 153.95 660.05 156.92 Q 658.07 159.89 655.1 156.92 Z
+          M 681.1 149 Q 681.1 139.1 691 139.1 Q 700.9 139.1 700.9 149 L 700.9 156.92 Q 697.93 153.95 695.95 156.92 Q 693.475 159.89 691 156.92 Q 688.525 153.95 686.05 156.92 Q 684.07 159.89 681.1 156.92 Z;
+          M 681.1 149 Q 681.1 139.1 691 139.1 Q 700.9 139.1 700.9 149 L 700.9 156.92 Q 697.93 159.89 695.95 156.92 Q 693.475 153.95 691 156.92 Q 688.525 159.89 686.05 156.92 Q 684.07 153.95 681.1 156.92 Z;
+          M 681.1 149 Q 681.1 139.1 691 139.1 Q 700.9 139.1 700.9 149 L 700.9 156.92 Q 697.93 153.95 695.95 156.92 Q 693.475 159.89 691 156.92 Q 688.525 153.95 686.05 156.92 Q 684.07 159.89 681.1 156.92 Z
         "/>
       </path>
       <!-- Eyes -->
-      <ellipse cx="661.535" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="668.465" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="687.535" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="694.465" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
       <!-- Pupils -->
-      <circle cx="661.9805" cy="148.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="660.7925;662.2774999999999;660.7925"/>
+      <circle cx="687.9805" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="686.7925;688.2774999999999;686.7925"/>
       </circle>
-      <circle cx="668.9105000000001" cy="148.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="667.7225000000001;669.2075;667.7225000000001"/>
+      <circle cx="694.9105000000001" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="693.7225000000001;695.2075;693.7225000000001"/>
       </circle>
     </g>
   
   </g>
-  <rect x="680" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="706" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="732" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="758" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="784" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="810" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="836" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="862" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="888" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.0242" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.6572" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
-    <g id="ghost-31-4">
+    <g id="ghost-34-4">
       <!-- Ghost body -->
       <path d="
-        M 811.1 149
-        Q 811.1 139.1 821 139.1
-        Q 830.9 139.1 830.9 149
-        L 830.9 156.92
-        Q 827.93 153.95 825.95 156.92
-        Q 823.475 159.89 821 156.92
-        Q 818.525 153.95 816.05 156.92
-        Q 814.07 159.89 811.1 156.92
+        M 889.1 149
+        Q 889.1 139.1 899 139.1
+        Q 908.9 139.1 908.9 149
+        L 908.9 156.92
+        Q 905.93 153.95 903.95 156.92
+        Q 901.475 159.89 899 156.92
+        Q 896.525 153.95 894.05 156.92
+        Q 892.07 159.89 889.1 156.92
         Z
-      " fill="#ff0000">
+      " fill="#ffb852">
         <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 811.1 149 Q 811.1 139.1 821 139.1 Q 830.9 139.1 830.9 149 L 830.9 156.92 Q 827.93 153.95 825.95 156.92 Q 823.475 159.89 821 156.92 Q 818.525 153.95 816.05 156.92 Q 814.07 159.89 811.1 156.92 Z;
-          M 811.1 149 Q 811.1 139.1 821 139.1 Q 830.9 139.1 830.9 149 L 830.9 156.92 Q 827.93 159.89 825.95 156.92 Q 823.475 153.95 821 156.92 Q 818.525 159.89 816.05 156.92 Q 814.07 153.95 811.1 156.92 Z;
-          M 811.1 149 Q 811.1 139.1 821 139.1 Q 830.9 139.1 830.9 149 L 830.9 156.92 Q 827.93 153.95 825.95 156.92 Q 823.475 159.89 821 156.92 Q 818.525 153.95 816.05 156.92 Q 814.07 159.89 811.1 156.92 Z
+          M 889.1 149 Q 889.1 139.1 899 139.1 Q 908.9 139.1 908.9 149 L 908.9 156.92 Q 905.93 153.95 903.95 156.92 Q 901.475 159.89 899 156.92 Q 896.525 153.95 894.05 156.92 Q 892.07 159.89 889.1 156.92 Z;
+          M 889.1 149 Q 889.1 139.1 899 139.1 Q 908.9 139.1 908.9 149 L 908.9 156.92 Q 905.93 159.89 903.95 156.92 Q 901.475 153.95 899 156.92 Q 896.525 159.89 894.05 156.92 Q 892.07 153.95 889.1 156.92 Z;
+          M 889.1 149 Q 889.1 139.1 899 139.1 Q 908.9 139.1 908.9 149 L 908.9 156.92 Q 905.93 153.95 903.95 156.92 Q 901.475 159.89 899 156.92 Q 896.525 153.95 894.05 156.92 Q 892.07 159.89 889.1 156.92 Z
         "/>
       </path>
       <!-- Eyes -->
-      <ellipse cx="817.535" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="824.465" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="895.535" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="902.465" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
       <!-- Pupils -->
-      <circle cx="817.9805" cy="148.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="816.7925;818.2774999999999;816.7925"/>
+      <circle cx="895.9805" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="894.7925;896.2774999999999;894.7925"/>
       </circle>
-      <circle cx="824.9105000000001" cy="148.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="823.7225000000001;825.2075;823.7225000000001"/>
+      <circle cx="902.9105000000001" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="901.7225000000001;903.2075;901.7225000000001"/>
       </circle>
     </g>
   
   </g>
-  <rect x="836" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="862" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="888" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="914" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="940" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="966" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="992" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.7301" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-38-4">
+      <!-- Ghost body -->
+      <path d="
+        M 993.1 149
+        Q 993.1 139.1 1003 139.1
+        Q 1012.9 139.1 1012.9 149
+        L 1012.9 156.92
+        Q 1009.93 153.95 1007.95 156.92
+        Q 1005.475 159.89 1003 156.92
+        Q 1000.525 153.95 998.05 156.92
+        Q 996.07 159.89 993.1 156.92
+        Z
+      " fill="#ff0000">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 993.1 149 Q 993.1 139.1 1003 139.1 Q 1012.9 139.1 1012.9 149 L 1012.9 156.92 Q 1009.93 153.95 1007.95 156.92 Q 1005.475 159.89 1003 156.92 Q 1000.525 153.95 998.05 156.92 Q 996.07 159.89 993.1 156.92 Z;
+          M 993.1 149 Q 993.1 139.1 1003 139.1 Q 1012.9 139.1 1012.9 149 L 1012.9 156.92 Q 1009.93 159.89 1007.95 156.92 Q 1005.475 153.95 1003 156.92 Q 1000.525 159.89 998.05 156.92 Q 996.07 153.95 993.1 156.92 Z;
+          M 993.1 149 Q 993.1 139.1 1003 139.1 Q 1012.9 139.1 1012.9 149 L 1012.9 156.92 Q 1009.93 153.95 1007.95 156.92 Q 1005.475 159.89 1003 156.92 Q 1000.525 153.95 998.05 156.92 Q 996.07 159.89 993.1 156.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="999.535" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="1006.465" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="999.9805" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="998.7925;1000.2774999999999;998.7925"/>
+      </circle>
+      <circle cx="1006.9105000000001" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1005.7225000000001;1007.2075;1005.7225000000001"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="1018" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1044" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1070" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -890,7 +895,7 @@
   <rect x="1330" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1356" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.9836" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.9806" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
     <g id="ghost-52-4">
       <!-- Ghost body -->
@@ -937,6 +942,41 @@
   <rect x="264" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="290" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="316" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.2301" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-12-5">
+      <!-- Ghost body -->
+      <path d="
+        M 317.1 175
+        Q 317.1 165.1 327 165.1
+        Q 336.9 165.1 336.9 175
+        L 336.9 182.92
+        Q 333.93 179.95 331.95 182.92
+        Q 329.475 185.89 327 182.92
+        Q 324.525 179.95 322.05 182.92
+        Q 320.07 185.89 317.1 182.92
+        Z
+      " fill="#00ffff">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 317.1 175 Q 317.1 165.1 327 165.1 Q 336.9 165.1 336.9 175 L 336.9 182.92 Q 333.93 179.95 331.95 182.92 Q 329.475 185.89 327 182.92 Q 324.525 179.95 322.05 182.92 Q 320.07 185.89 317.1 182.92 Z;
+          M 317.1 175 Q 317.1 165.1 327 165.1 Q 336.9 165.1 336.9 175 L 336.9 182.92 Q 333.93 185.89 331.95 182.92 Q 329.475 179.95 327 182.92 Q 324.525 185.89 322.05 182.92 Q 320.07 179.95 317.1 182.92 Z;
+          M 317.1 175 Q 317.1 165.1 327 165.1 Q 336.9 165.1 336.9 175 L 336.9 182.92 Q 333.93 179.95 331.95 182.92 Q 329.475 185.89 327 182.92 Q 324.525 179.95 322.05 182.92 Q 320.07 185.89 317.1 182.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="323.535" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="330.465" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="323.9805" cy="174.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="322.7925;324.27750000000003;322.7925"/>
+      </circle>
+      <circle cx="330.91049999999996" cy="174.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="329.72249999999997;331.2075;329.72249999999997"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="342" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="368" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="394" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -957,42 +997,42 @@
   <rect x="784" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="810" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="836" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="862" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.6860" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.6264" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
-    <g id="ghost-33-5">
+    <g id="ghost-32-5">
       <!-- Ghost body -->
       <path d="
-        M 863.1 175
-        Q 863.1 165.1 873 165.1
-        Q 882.9 165.1 882.9 175
-        L 882.9 182.92
-        Q 879.93 179.95 877.95 182.92
-        Q 875.475 185.89 873 182.92
-        Q 870.525 179.95 868.05 182.92
-        Q 866.07 185.89 863.1 182.92
+        M 837.1 175
+        Q 837.1 165.1 847 165.1
+        Q 856.9 165.1 856.9 175
+        L 856.9 182.92
+        Q 853.93 179.95 851.95 182.92
+        Q 849.475 185.89 847 182.92
+        Q 844.525 179.95 842.05 182.92
+        Q 840.07 185.89 837.1 182.92
         Z
-      " fill="#00ffff">
+      " fill="#ffb852">
         <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 863.1 175 Q 863.1 165.1 873 165.1 Q 882.9 165.1 882.9 175 L 882.9 182.92 Q 879.93 179.95 877.95 182.92 Q 875.475 185.89 873 182.92 Q 870.525 179.95 868.05 182.92 Q 866.07 185.89 863.1 182.92 Z;
-          M 863.1 175 Q 863.1 165.1 873 165.1 Q 882.9 165.1 882.9 175 L 882.9 182.92 Q 879.93 185.89 877.95 182.92 Q 875.475 179.95 873 182.92 Q 870.525 185.89 868.05 182.92 Q 866.07 179.95 863.1 182.92 Z;
-          M 863.1 175 Q 863.1 165.1 873 165.1 Q 882.9 165.1 882.9 175 L 882.9 182.92 Q 879.93 179.95 877.95 182.92 Q 875.475 185.89 873 182.92 Q 870.525 179.95 868.05 182.92 Q 866.07 185.89 863.1 182.92 Z
+          M 837.1 175 Q 837.1 165.1 847 165.1 Q 856.9 165.1 856.9 175 L 856.9 182.92 Q 853.93 179.95 851.95 182.92 Q 849.475 185.89 847 182.92 Q 844.525 179.95 842.05 182.92 Q 840.07 185.89 837.1 182.92 Z;
+          M 837.1 175 Q 837.1 165.1 847 165.1 Q 856.9 165.1 856.9 175 L 856.9 182.92 Q 853.93 185.89 851.95 182.92 Q 849.475 179.95 847 182.92 Q 844.525 185.89 842.05 182.92 Q 840.07 179.95 837.1 182.92 Z;
+          M 837.1 175 Q 837.1 165.1 847 165.1 Q 856.9 165.1 856.9 175 L 856.9 182.92 Q 853.93 179.95 851.95 182.92 Q 849.475 185.89 847 182.92 Q 844.525 179.95 842.05 182.92 Q 840.07 185.89 837.1 182.92 Z
         "/>
       </path>
       <!-- Eyes -->
-      <ellipse cx="869.535" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="876.465" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="843.535" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="850.465" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
       <!-- Pupils -->
-      <circle cx="869.9805" cy="174.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="868.7925;870.2774999999999;868.7925"/>
+      <circle cx="843.9805" cy="174.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="842.7925;844.2774999999999;842.7925"/>
       </circle>
-      <circle cx="876.9105000000001" cy="174.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="875.7225000000001;877.2075;875.7225000000001"/>
+      <circle cx="850.9105000000001" cy="174.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="849.7225000000001;851.2075;849.7225000000001"/>
       </circle>
     </g>
   
   </g>
+  <rect x="862" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="888" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="914" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="940" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -1001,44 +1041,9 @@
   <rect x="1018" y="164" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1044" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1070" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.8193" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-41-5">
-      <!-- Ghost body -->
-      <path d="
-        M 1071.1 175
-        Q 1071.1 165.1 1081 165.1
-        Q 1090.9 165.1 1090.9 175
-        L 1090.9 182.92
-        Q 1087.93 179.95 1085.95 182.92
-        Q 1083.475 185.89 1081 182.92
-        Q 1078.525 179.95 1076.05 182.92
-        Q 1074.07 185.89 1071.1 182.92
-        Z
-      " fill="#ffb852">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 1071.1 175 Q 1071.1 165.1 1081 165.1 Q 1090.9 165.1 1090.9 175 L 1090.9 182.92 Q 1087.93 179.95 1085.95 182.92 Q 1083.475 185.89 1081 182.92 Q 1078.525 179.95 1076.05 182.92 Q 1074.07 185.89 1071.1 182.92 Z;
-          M 1071.1 175 Q 1071.1 165.1 1081 165.1 Q 1090.9 165.1 1090.9 175 L 1090.9 182.92 Q 1087.93 185.89 1085.95 182.92 Q 1083.475 179.95 1081 182.92 Q 1078.525 185.89 1076.05 182.92 Q 1074.07 179.95 1071.1 182.92 Z;
-          M 1071.1 175 Q 1071.1 165.1 1081 165.1 Q 1090.9 165.1 1090.9 175 L 1090.9 182.92 Q 1087.93 179.95 1085.95 182.92 Q 1083.475 185.89 1081 182.92 Q 1078.525 179.95 1076.05 182.92 Q 1074.07 185.89 1071.1 182.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="1077.535" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="1084.465" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="1077.9805000000001" cy="174.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1076.7925;1078.2775000000001;1076.7925"/>
-      </circle>
-      <circle cx="1084.9105" cy="174.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1083.7224999999999;1085.2075;1083.7224999999999"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="1096" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.8357" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.7836" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
     <g id="ghost-42-5">
       <!-- Ghost body -->
@@ -1093,44 +1098,44 @@
   <rect x="212" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="238" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="264" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="290" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="316" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="342" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.4087" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.1993" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
     
-    <g id="ghost-13-6">
+    <g id="ghost-10-6">
       <!-- Ghost body -->
       <path d="
-        M 343.1 201
-        Q 343.1 191.1 353 191.1
-        Q 362.9 191.1 362.9 201
-        L 362.9 208.92
-        Q 359.93 205.95 357.95 208.92
-        Q 355.475 211.89 353 208.92
-        Q 350.525 205.95 348.05 208.92
-        Q 346.07 211.89 343.1 208.92
+        M 265.1 201
+        Q 265.1 191.1 275 191.1
+        Q 284.9 191.1 284.9 201
+        L 284.9 208.92
+        Q 281.93 205.95 279.95 208.92
+        Q 277.475 211.89 275 208.92
+        Q 272.525 205.95 270.05 208.92
+        Q 268.07 211.89 265.1 208.92
         Z
       " fill="#ffb8ff">
         <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 343.1 201 Q 343.1 191.1 353 191.1 Q 362.9 191.1 362.9 201 L 362.9 208.92 Q 359.93 205.95 357.95 208.92 Q 355.475 211.89 353 208.92 Q 350.525 205.95 348.05 208.92 Q 346.07 211.89 343.1 208.92 Z;
-          M 343.1 201 Q 343.1 191.1 353 191.1 Q 362.9 191.1 362.9 201 L 362.9 208.92 Q 359.93 211.89 357.95 208.92 Q 355.475 205.95 353 208.92 Q 350.525 211.89 348.05 208.92 Q 346.07 205.95 343.1 208.92 Z;
-          M 343.1 201 Q 343.1 191.1 353 191.1 Q 362.9 191.1 362.9 201 L 362.9 208.92 Q 359.93 205.95 357.95 208.92 Q 355.475 211.89 353 208.92 Q 350.525 205.95 348.05 208.92 Q 346.07 211.89 343.1 208.92 Z
+          M 265.1 201 Q 265.1 191.1 275 191.1 Q 284.9 191.1 284.9 201 L 284.9 208.92 Q 281.93 205.95 279.95 208.92 Q 277.475 211.89 275 208.92 Q 272.525 205.95 270.05 208.92 Q 268.07 211.89 265.1 208.92 Z;
+          M 265.1 201 Q 265.1 191.1 275 191.1 Q 284.9 191.1 284.9 201 L 284.9 208.92 Q 281.93 211.89 279.95 208.92 Q 277.475 205.95 275 208.92 Q 272.525 211.89 270.05 208.92 Q 268.07 205.95 265.1 208.92 Z;
+          M 265.1 201 Q 265.1 191.1 275 191.1 Q 284.9 191.1 284.9 201 L 284.9 208.92 Q 281.93 205.95 279.95 208.92 Q 277.475 211.89 275 208.92 Q 272.525 205.95 270.05 208.92 Q 268.07 211.89 265.1 208.92 Z
         "/>
       </path>
       <!-- Eyes -->
-      <ellipse cx="349.535" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="356.465" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="271.535" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="278.465" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
       <!-- Pupils -->
-      <circle cx="349.9805" cy="200.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="348.7925;350.27750000000003;348.7925"/>
+      <circle cx="271.9805" cy="200.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="270.7925;272.27750000000003;270.7925"/>
       </circle>
-      <circle cx="356.91049999999996" cy="200.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="355.72249999999997;357.2075;355.72249999999997"/>
+      <circle cx="278.91049999999996" cy="200.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="277.72249999999997;279.2075;277.72249999999997"/>
       </circle>
     </g>
   
   </g>
+  <rect x="290" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="316" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="342" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="368" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="394" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="420" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -1141,45 +1146,45 @@
   <rect x="550" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="576" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="602" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.5594" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-23-6">
-      <!-- Ghost body -->
-      <path d="
-        M 603.1 201
-        Q 603.1 191.1 613 191.1
-        Q 622.9 191.1 622.9 201
-        L 622.9 208.92
-        Q 619.93 205.95 617.95 208.92
-        Q 615.475 211.89 613 208.92
-        Q 610.525 205.95 608.05 208.92
-        Q 606.07 211.89 603.1 208.92
-        Z
-      " fill="#00ffff">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 603.1 201 Q 603.1 191.1 613 191.1 Q 622.9 191.1 622.9 201 L 622.9 208.92 Q 619.93 205.95 617.95 208.92 Q 615.475 211.89 613 208.92 Q 610.525 205.95 608.05 208.92 Q 606.07 211.89 603.1 208.92 Z;
-          M 603.1 201 Q 603.1 191.1 613 191.1 Q 622.9 191.1 622.9 201 L 622.9 208.92 Q 619.93 211.89 617.95 208.92 Q 615.475 205.95 613 208.92 Q 610.525 211.89 608.05 208.92 Q 606.07 205.95 603.1 208.92 Z;
-          M 603.1 201 Q 603.1 191.1 613 191.1 Q 622.9 191.1 622.9 201 L 622.9 208.92 Q 619.93 205.95 617.95 208.92 Q 615.475 211.89 613 208.92 Q 610.525 205.95 608.05 208.92 Q 606.07 211.89 603.1 208.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="609.535" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="616.465" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="609.9805" cy="200.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="608.7925;610.2774999999999;608.7925"/>
-      </circle>
-      <circle cx="616.9105000000001" cy="200.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="615.7225000000001;617.2075;615.7225000000001"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="628" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="654" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="680" y="190" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="706" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.5194" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-27-6">
+      <!-- Ghost body -->
+      <path d="
+        M 707.1 201
+        Q 707.1 191.1 717 191.1
+        Q 726.9 191.1 726.9 201
+        L 726.9 208.92
+        Q 723.93 205.95 721.95 208.92
+        Q 719.475 211.89 717 208.92
+        Q 714.525 205.95 712.05 208.92
+        Q 710.07 211.89 707.1 208.92
+        Z
+      " fill="#00ffff">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 707.1 201 Q 707.1 191.1 717 191.1 Q 726.9 191.1 726.9 201 L 726.9 208.92 Q 723.93 205.95 721.95 208.92 Q 719.475 211.89 717 208.92 Q 714.525 205.95 712.05 208.92 Q 710.07 211.89 707.1 208.92 Z;
+          M 707.1 201 Q 707.1 191.1 717 191.1 Q 726.9 191.1 726.9 201 L 726.9 208.92 Q 723.93 211.89 721.95 208.92 Q 719.475 205.95 717 208.92 Q 714.525 211.89 712.05 208.92 Q 710.07 205.95 707.1 208.92 Z;
+          M 707.1 201 Q 707.1 191.1 717 191.1 Q 726.9 191.1 726.9 201 L 726.9 208.92 Q 723.93 205.95 721.95 208.92 Q 719.475 211.89 717 208.92 Q 714.525 205.95 712.05 208.92 Q 710.07 211.89 707.1 208.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="713.535" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="720.465" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="713.9805" cy="200.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="712.7925;714.2774999999999;712.7925"/>
+      </circle>
+      <circle cx="720.9105000000001" cy="200.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="719.7225000000001;721.2075;719.7225000000001"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="732" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="758" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="784" y="190" width="22" height="22" rx="2" fill="#9be9a8"/>
@@ -1191,46 +1196,46 @@
   <rect x="940" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="966" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="992" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.7884" dur="51.75s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-38-6">
-      <!-- Ghost body -->
-      <path d="
-        M 993.1 201
-        Q 993.1 191.1 1003 191.1
-        Q 1012.9 191.1 1012.9 201
-        L 1012.9 208.92
-        Q 1009.93 205.95 1007.95 208.92
-        Q 1005.475 211.89 1003 208.92
-        Q 1000.525 205.95 998.05 208.92
-        Q 996.07 211.89 993.1 208.92
-        Z
-      " fill="#ffb852">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 993.1 201 Q 993.1 191.1 1003 191.1 Q 1012.9 191.1 1012.9 201 L 1012.9 208.92 Q 1009.93 205.95 1007.95 208.92 Q 1005.475 211.89 1003 208.92 Q 1000.525 205.95 998.05 208.92 Q 996.07 211.89 993.1 208.92 Z;
-          M 993.1 201 Q 993.1 191.1 1003 191.1 Q 1012.9 191.1 1012.9 201 L 1012.9 208.92 Q 1009.93 211.89 1007.95 208.92 Q 1005.475 205.95 1003 208.92 Q 1000.525 211.89 998.05 208.92 Q 996.07 205.95 993.1 208.92 Z;
-          M 993.1 201 Q 993.1 191.1 1003 191.1 Q 1012.9 191.1 1012.9 201 L 1012.9 208.92 Q 1009.93 205.95 1007.95 208.92 Q 1005.475 211.89 1003 208.92 Q 1000.525 205.95 998.05 208.92 Q 996.07 211.89 993.1 208.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="999.535" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="1006.465" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="999.9805" cy="200.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="998.7925;1000.2774999999999;998.7925"/>
-      </circle>
-      <circle cx="1006.9105000000001" cy="200.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1005.7225000000001;1007.2075;1005.7225000000001"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="1018" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1044" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1070" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1096" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1122" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.8087" dur="43.90s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-43-6">
+      <!-- Ghost body -->
+      <path d="
+        M 1123.1 201
+        Q 1123.1 191.1 1133 191.1
+        Q 1142.9 191.1 1142.9 201
+        L 1142.9 208.92
+        Q 1139.93 205.95 1137.95 208.92
+        Q 1135.475 211.89 1133 208.92
+        Q 1130.525 205.95 1128.05 208.92
+        Q 1126.07 211.89 1123.1 208.92
+        Z
+      " fill="#ffb852">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 1123.1 201 Q 1123.1 191.1 1133 191.1 Q 1142.9 191.1 1142.9 201 L 1142.9 208.92 Q 1139.93 205.95 1137.95 208.92 Q 1135.475 211.89 1133 208.92 Q 1130.525 205.95 1128.05 208.92 Q 1126.07 211.89 1123.1 208.92 Z;
+          M 1123.1 201 Q 1123.1 191.1 1133 191.1 Q 1142.9 191.1 1142.9 201 L 1142.9 208.92 Q 1139.93 211.89 1137.95 208.92 Q 1135.475 205.95 1133 208.92 Q 1130.525 211.89 1128.05 208.92 Q 1126.07 205.95 1123.1 208.92 Z;
+          M 1123.1 201 Q 1123.1 191.1 1133 191.1 Q 1142.9 191.1 1142.9 201 L 1142.9 208.92 Q 1139.93 205.95 1137.95 208.92 Q 1135.475 211.89 1133 208.92 Q 1130.525 205.95 1128.05 208.92 Q 1126.07 211.89 1123.1 208.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="1129.535" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="1136.465" cy="200.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="1129.9805000000001" cy="200.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1128.7925;1130.2775000000001;1128.7925"/>
+      </circle>
+      <circle cx="1136.9105" cy="200.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1135.7224999999999;1137.2075;1135.7224999999999"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="1148" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1174" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <rect x="1200" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
@@ -1242,7 +1247,7 @@
   <rect x="1356" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
 
   <!-- Wall Break 1 -->
-  <g transform="translate(1263, 97)">
+  <g transform="translate(1237, 123)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-45)">
@@ -1258,8 +1263,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.9237;0.9337"
-          dur="51.75s" 
+          keyTimes="0;0.9009;0.9109"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1267,7 +1272,7 @@
   
   </g>
   <!-- Wall Break 2 -->
-  <g transform="translate(1289, 97)">
+  <g transform="translate(1263, 123)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-45)">
@@ -1283,8 +1288,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.9362;0.9462"
-          dur="51.75s" 
+          keyTimes="0;0.9157;0.9257"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1292,7 +1297,7 @@
   
   </g>
   <!-- Wall Break 3 -->
-  <g transform="translate(1315, 97)">
+  <g transform="translate(1289, 123)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-45)">
@@ -1308,8 +1313,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.9488;0.9588"
-          dur="51.75s" 
+          keyTimes="0;0.9305;0.9405"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1317,7 +1322,7 @@
   
   </g>
   <!-- Wall Break 4 -->
-  <g transform="translate(1341, 97)">
+  <g transform="translate(1315, 123)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-45)">
@@ -1333,8 +1338,33 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.9614;0.9714"
-          dur="51.75s" 
+          keyTimes="0;0.9453;0.9553"
+          dur="43.90s" 
+          repeatCount="indefinite"
+          calcMode="discrete"/>
+      </image>
+    </g>
+  
+  </g>
+  <!-- Wall Break 5 -->
+  <g transform="translate(1341, 123)">
+    
+    <!-- Pixel art slash animation -->
+    <g transform="rotate(-45)">
+      <image 
+        href="data:image/gif;base64,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"
+        x="-27.5"
+        y="-27.5"
+        width="55"
+        height="55"
+        image-rendering="pixelated"
+        style="image-rendering: pixelated; image-rendering: crisp-edges;"
+        opacity="0"
+      >
+        <animate attributeName="opacity" 
+          values="0;1;0" 
+          keyTimes="0;0.9601;0.9701"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1342,10 +1372,10 @@
   
   </g>
   <!-- Battle 1 -->
-  <g transform="translate(821, 149)">
+  <g transform="translate(119, 71)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(135)">
+    <g transform="rotate(-135)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1358,8 +1388,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.0242;0.0342"
-          dur="51.75s" 
+          keyTimes="0;0.0114;0.0214"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1367,7 +1397,7 @@
   
   </g>
   <!-- Battle 2 -->
-  <g transform="translate(587, 71)">
+  <g transform="translate(67, 71)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(135)">
@@ -1383,8 +1413,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.0937;0.1037"
-          dur="51.75s" 
+          keyTimes="0;0.0364;0.0464"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1392,10 +1422,10 @@
   
   </g>
   <!-- Battle 3 -->
-  <g transform="translate(431, 71)">
+  <g transform="translate(171, 123)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(135)">
+    <g transform="rotate(45)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1408,8 +1438,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.1343;0.1443"
-          dur="51.75s" 
+          keyTimes="0;0.0843;0.0943"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1417,10 +1447,10 @@
   
   </g>
   <!-- Battle 4 -->
-  <g transform="translate(15, 45)">
+  <g transform="translate(197, 45)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(135)">
+    <g transform="rotate(-135)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1433,8 +1463,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.2280;0.2380"
-          dur="51.75s" 
+          keyTimes="0;0.1207;0.1307"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1442,7 +1472,7 @@
   
   </g>
   <!-- Battle 5 -->
-  <g transform="translate(67, 71)">
+  <g transform="translate(275, 71)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(45)">
@@ -1458,8 +1488,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.2541;0.2641"
-          dur="51.75s" 
+          keyTimes="0;0.1572;0.1672"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1467,7 +1497,7 @@
   
   </g>
   <!-- Battle 6 -->
-  <g transform="translate(119, 149)">
+  <g transform="translate(275, 201)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(45)">
@@ -1483,8 +1513,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.2899;0.2999"
-          dur="51.75s" 
+          keyTimes="0;0.1993;0.2093"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1492,7 +1522,7 @@
   
   </g>
   <!-- Battle 7 -->
-  <g transform="translate(197, 97)">
+  <g transform="translate(327, 175)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-135)">
@@ -1508,8 +1538,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.3256;0.3356"
-          dur="51.75s" 
+          keyTimes="0;0.2301;0.2401"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1517,10 +1547,10 @@
   
   </g>
   <!-- Battle 8 -->
-  <g transform="translate(249, 97)">
+  <g transform="translate(405, 45)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(-45)">
+    <g transform="rotate(-135)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1533,8 +1563,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.3469;0.3569"
-          dur="51.75s" 
+          keyTimes="0;0.2893;0.2993"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1542,7 +1572,7 @@
   
   </g>
   <!-- Battle 9 -->
-  <g transform="translate(327, 149)">
+  <g transform="translate(457, 149)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(45)">
@@ -1558,8 +1588,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.3826;0.3926"
-          dur="51.75s" 
+          keyTimes="0;0.3371;0.3471"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1567,10 +1597,10 @@
   
   </g>
   <!-- Battle 10 -->
-  <g transform="translate(353, 201)">
+  <g transform="translate(535, 71)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(45)">
+    <g transform="rotate(-135)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1583,8 +1613,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.4087;0.4187"
-          dur="51.75s" 
+          keyTimes="0;0.3850;0.3950"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1592,7 +1622,7 @@
   
   </g>
   <!-- Battle 11 -->
-  <g transform="translate(483, 45)">
+  <g transform="translate(561, 45)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-135)">
@@ -1608,8 +1638,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.4734;0.4834"
-          dur="51.75s" 
+          keyTimes="0;0.4100;0.4200"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1617,7 +1647,7 @@
   
   </g>
   <!-- Battle 12 -->
-  <g transform="translate(509, 123)">
+  <g transform="translate(613, 123)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(45)">
@@ -1633,8 +1663,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.5043;0.5143"
-          dur="51.75s" 
+          keyTimes="0;0.4522;0.4622"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1642,7 +1672,7 @@
   
   </g>
   <!-- Battle 13 -->
-  <g transform="translate(613, 201)">
+  <g transform="translate(691, 149)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(45)">
@@ -1658,8 +1688,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.5594;0.5694"
-          dur="51.75s" 
+          keyTimes="0;0.4886;0.4986"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1667,10 +1697,10 @@
   
   </g>
   <!-- Battle 14 -->
-  <g transform="translate(665, 149)">
+  <g transform="translate(717, 201)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(-45)">
+    <g transform="rotate(45)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1683,8 +1713,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.5903;0.6003"
-          dur="51.75s" 
+          keyTimes="0;0.5194;0.5294"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1692,10 +1722,10 @@
   
   </g>
   <!-- Battle 15 -->
-  <g transform="translate(717, 71)">
+  <g transform="translate(821, 71)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(-135)">
+    <g transform="rotate(-45)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1708,8 +1738,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.6261;0.6361"
-          dur="51.75s" 
+          keyTimes="0;0.5843;0.5943"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1717,7 +1747,7 @@
   
   </g>
   <!-- Battle 16 -->
-  <g transform="translate(873, 175)">
+  <g transform="translate(847, 175)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(45)">
@@ -1733,8 +1763,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.6860;0.6960"
-          dur="51.75s" 
+          keyTimes="0;0.6264;0.6364"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1742,7 +1772,7 @@
   
   </g>
   <!-- Battle 17 -->
-  <g transform="translate(925, 71)">
+  <g transform="translate(899, 149)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-135)">
@@ -1758,8 +1788,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.7266;0.7366"
-          dur="51.75s" 
+          keyTimes="0;0.6572;0.6672"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1767,10 +1797,10 @@
   
   </g>
   <!-- Battle 18 -->
-  <g transform="translate(1003, 123)">
+  <g transform="translate(951, 97)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(-45)">
+    <g transform="rotate(-135)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1783,8 +1813,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.7623;0.7723"
-          dur="51.75s" 
+          keyTimes="0;0.6936;0.7036"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1792,7 +1822,7 @@
   
   </g>
   <!-- Battle 19 -->
-  <g transform="translate(1003, 201)">
+  <g transform="translate(1003, 149)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(45)">
@@ -1808,8 +1838,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.7884;0.7984"
-          dur="51.75s" 
+          keyTimes="0;0.7301;0.7401"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1817,10 +1847,10 @@
   
   </g>
   <!-- Battle 20 -->
-  <g transform="translate(1081, 175)">
+  <g transform="translate(1107, 175)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(-135)">
+    <g transform="rotate(45)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1833,8 +1863,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.8193;0.8293"
-          dur="51.75s" 
+          keyTimes="0;0.7836;0.7936"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1842,7 +1872,32 @@
   
   </g>
   <!-- Battle 21 -->
-  <g transform="translate(1107, 175)">
+  <g transform="translate(1133, 201)">
+    
+    <!-- Pixel art slash animation -->
+    <g transform="rotate(45)">
+      <image 
+        href="data:image/gif;base64,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"
+        x="-27.5"
+        y="-27.5"
+        width="55"
+        height="55"
+        image-rendering="pixelated"
+        style="image-rendering: pixelated; image-rendering: crisp-edges;"
+        opacity="0"
+      >
+        <animate attributeName="opacity" 
+          values="0;1;0" 
+          keyTimes="0;0.8087;0.8187"
+          dur="43.90s" 
+          repeatCount="indefinite"
+          calcMode="discrete"/>
+      </image>
+    </g>
+  
+  </g>
+  <!-- Battle 22 -->
+  <g transform="translate(1185, 97)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-45)">
@@ -1858,33 +1913,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.8357;0.8457"
-          dur="51.75s" 
-          repeatCount="indefinite"
-          calcMode="discrete"/>
-      </image>
-    </g>
-  
-  </g>
-  <!-- Battle 22 -->
-  <g transform="translate(1159, 123)">
-    
-    <!-- Pixel art slash animation -->
-    <g transform="rotate(-135)">
-      <image 
-        href="data:image/gif;base64,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"
-        x="-27.5"
-        y="-27.5"
-        width="55"
-        height="55"
-        image-rendering="pixelated"
-        style="image-rendering: pixelated; image-rendering: crisp-edges;"
-        opacity="0"
-      >
-        <animate attributeName="opacity" 
-          values="0;1;0" 
-          keyTimes="0;0.8667;0.8767"
-          dur="51.75s" 
+          keyTimes="0;0.8565;0.8665"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1892,10 +1922,10 @@
   
   </g>
   <!-- Battle 23 -->
-  <g transform="translate(1237, 71)">
+  <g transform="translate(1211, 123)">
     
     <!-- Pixel art slash animation -->
-    <g transform="rotate(-135)">
+    <g transform="rotate(45)">
       <image 
         href="data:image/gif;base64,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"
         x="-27.5"
@@ -1908,8 +1938,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.9024;0.9124"
-          dur="51.75s" 
+          keyTimes="0;0.8815;0.8915"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1933,8 +1963,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.9836;0.9936"
-          dur="51.75s" 
+          keyTimes="0;0.9806;0.9906"
+          dur="43.90s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -1946,9 +1976,9 @@
     <animateTransform 
       attributeName="transform" 
       type="translate"
-      values="951.0 175.0;951.0 149.0;925.0 149.0;899.0 149.0;873.0 149.0;847.0 149.0;847.0 149.0;821.0 149.0;795.0 149.0;769.0 149.0;743.0 149.0;717.0 149.0;691.0 149.0;691.0 123.0;691.0 97.0;665.0 97.0;665.0 71.0;639.0 71.0;613.0 71.0;613.0 71.0;587.0 71.0;561.0 71.0;535.0 71.0;509.0 71.0;483.0 71.0;457.0 71.0;457.0 71.0;431.0 71.0;405.0 71.0;379.0 71.0;353.0 71.0;327.0 71.0;301.0 71.0;275.0 71.0;249.0 71.0;223.0 71.0;197.0 71.0;171.0 71.0;145.0 71.0;119.0 71.0;93.0 71.0;93.0 45.0;67.0 45.0;41.0 45.0;41.0 45.0;15.0 45.0;41.0 45.0;67.0 45.0;67.0 45.0;67.0 71.0;93.0 71.0;119.0 71.0;119.0 97.0;119.0 123.0;119.0 123.0;119.0 149.0;145.0 149.0;171.0 149.0;197.0 149.0;197.0 123.0;197.0 123.0;197.0 97.0;223.0 97.0;223.0 97.0;249.0 97.0;275.0 97.0;301.0 97.0;327.0 97.0;327.0 123.0;327.0 123.0;327.0 149.0;353.0 149.0;353.0 175.0;353.0 175.0;353.0 201.0;379.0 201.0;405.0 201.0;431.0 201.0;457.0 201.0;483.0 201.0;483.0 175.0;483.0 149.0;483.0 123.0;483.0 97.0;483.0 71.0;483.0 71.0;483.0 45.0;509.0 45.0;509.0 71.0;509.0 97.0;509.0 97.0;509.0 123.0;509.0 97.0;535.0 97.0;561.0 97.0;587.0 97.0;613.0 97.0;613.0 123.0;613.0 149.0;613.0 175.0;613.0 175.0;613.0 201.0;639.0 201.0;639.0 175.0;639.0 149.0;639.0 149.0;665.0 149.0;691.0 149.0;691.0 123.0;691.0 97.0;717.0 97.0;717.0 97.0;717.0 71.0;743.0 71.0;769.0 71.0;795.0 71.0;821.0 71.0;847.0 71.0;873.0 71.0;873.0 97.0;873.0 123.0;873.0 149.0;873.0 149.0;873.0 175.0;899.0 175.0;925.0 175.0;925.0 149.0;925.0 123.0;925.0 97.0;925.0 97.0;925.0 71.0;951.0 71.0;977.0 71.0;977.0 97.0;977.0 123.0;977.0 123.0;1003.0 123.0;1003.0 149.0;1003.0 175.0;1003.0 175.0;1003.0 201.0;1029.0 201.0;1055.0 201.0;1081.0 201.0;1081.0 201.0;1081.0 175.0;1081.0 175.0;1107.0 175.0;1133.0 175.0;1159.0 175.0;1159.0 149.0;1159.0 149.0;1159.0 123.0;1159.0 97.0;1185.0 97.0;1211.0 97.0;1237.0 97.0;1237.0 97.0;1237.0 71.0;1237.0 97.0;1237.0 97.0;1263.0 97.0;1263.0 97.0;1289.0 97.0;1289.0 97.0;1315.0 97.0;1315.0 97.0;1341.0 97.0;1367.0 97.0;1367.0 123.0;1367.0 123.0;1367.0 149.0"
-      keyTimes="0.0000;0.0048;0.0097;0.0145;0.0193;0.0242;0.0357;0.0406;0.0454;0.0502;0.0551;0.0599;0.0647;0.0696;0.0744;0.0792;0.0841;0.0889;0.0937;0.1053;0.1101;0.1150;0.1198;0.1246;0.1295;0.1343;0.1459;0.1507;0.1556;0.1604;0.1652;0.1700;0.1749;0.1797;0.1845;0.1894;0.1942;0.1990;0.2039;0.2087;0.2135;0.2184;0.2232;0.2280;0.2396;0.2444;0.2493;0.2541;0.2657;0.2705;0.2754;0.2802;0.2850;0.2899;0.3014;0.3063;0.3111;0.3159;0.3208;0.3256;0.3372;0.3420;0.3469;0.3584;0.3633;0.3681;0.3729;0.3778;0.3826;0.3942;0.3990;0.4039;0.4087;0.4203;0.4251;0.4300;0.4348;0.4396;0.4444;0.4493;0.4541;0.4589;0.4638;0.4686;0.4734;0.4850;0.4899;0.4947;0.4995;0.5043;0.5159;0.5208;0.5256;0.5304;0.5353;0.5401;0.5449;0.5498;0.5546;0.5594;0.5710;0.5758;0.5807;0.5855;0.5903;0.6019;0.6068;0.6116;0.6164;0.6213;0.6261;0.6377;0.6425;0.6473;0.6522;0.6570;0.6618;0.6667;0.6715;0.6763;0.6812;0.6860;0.6976;0.7024;0.7072;0.7121;0.7169;0.7217;0.7266;0.7381;0.7430;0.7478;0.7527;0.7575;0.7623;0.7739;0.7787;0.7836;0.7884;0.8000;0.8048;0.8097;0.8145;0.8193;0.8309;0.8357;0.8473;0.8522;0.8570;0.8618;0.8667;0.8782;0.8831;0.8879;0.8928;0.8976;0.9024;0.9140;0.9188;0.9237;0.9314;0.9362;0.9439;0.9488;0.9565;0.9614;0.9691;0.9739;0.9787;0.9836;0.9951;1.0000"
-      dur="51.75s"
+      values="119.0 149.0;119.0 123.0;119.0 97.0;119.0 97.0;119.0 71.0;93.0 71.0;93.0 71.0;67.0 71.0;93.0 71.0;119.0 71.0;145.0 71.0;171.0 71.0;171.0 97.0;171.0 97.0;171.0 123.0;197.0 123.0;197.0 97.0;197.0 71.0;197.0 71.0;197.0 45.0;223.0 45.0;249.0 45.0;275.0 45.0;275.0 45.0;275.0 71.0;275.0 97.0;275.0 123.0;275.0 149.0;275.0 175.0;275.0 175.0;275.0 201.0;301.0 201.0;327.0 201.0;327.0 201.0;327.0 175.0;353.0 175.0;379.0 175.0;379.0 149.0;379.0 123.0;405.0 123.0;405.0 97.0;405.0 71.0;405.0 71.0;405.0 45.0;431.0 45.0;457.0 45.0;457.0 71.0;457.0 97.0;457.0 123.0;457.0 123.0;457.0 149.0;483.0 149.0;483.0 123.0;509.0 123.0;509.0 97.0;535.0 97.0;535.0 97.0;535.0 71.0;561.0 71.0;561.0 71.0;561.0 45.0;587.0 45.0;587.0 71.0;613.0 71.0;613.0 97.0;613.0 97.0;613.0 123.0;639.0 123.0;665.0 123.0;691.0 123.0;691.0 123.0;691.0 149.0;717.0 149.0;717.0 175.0;717.0 175.0;717.0 201.0;743.0 201.0;769.0 201.0;769.0 175.0;795.0 175.0;795.0 149.0;795.0 123.0;795.0 97.0;795.0 71.0;795.0 71.0;821.0 71.0;847.0 71.0;847.0 97.0;847.0 123.0;847.0 149.0;847.0 149.0;847.0 175.0;873.0 175.0;899.0 175.0;899.0 175.0;899.0 149.0;925.0 149.0;951.0 149.0;951.0 123.0;951.0 123.0;951.0 97.0;977.0 97.0;977.0 123.0;1003.0 123.0;1003.0 123.0;1003.0 149.0;1003.0 123.0;1029.0 123.0;1055.0 123.0;1081.0 123.0;1107.0 123.0;1107.0 149.0;1107.0 149.0;1107.0 175.0;1133.0 175.0;1133.0 175.0;1133.0 201.0;1159.0 201.0;1159.0 175.0;1159.0 149.0;1159.0 123.0;1159.0 97.0;1159.0 97.0;1185.0 97.0;1211.0 97.0;1211.0 97.0;1211.0 123.0;1211.0 123.0;1237.0 123.0;1237.0 123.0;1263.0 123.0;1263.0 123.0;1289.0 123.0;1289.0 123.0;1315.0 123.0;1315.0 123.0;1341.0 123.0;1367.0 123.0;1367.0 123.0;1367.0 149.0"
+      keyTimes="0.0000;0.0057;0.0114;0.0250;0.0308;0.0364;0.0501;0.0558;0.0615;0.0672;0.0729;0.0786;0.0843;0.0979;0.1036;0.1093;0.1150;0.1207;0.1344;0.1401;0.1458;0.1515;0.1572;0.1708;0.1765;0.1822;0.1879;0.1936;0.1993;0.2130;0.2187;0.2244;0.2301;0.2437;0.2494;0.2551;0.2608;0.2665;0.2722;0.2779;0.2836;0.2893;0.3029;0.3087;0.3144;0.3200;0.3257;0.3314;0.3371;0.3508;0.3565;0.3622;0.3679;0.3736;0.3793;0.3850;0.3986;0.4043;0.4100;0.4237;0.4294;0.4351;0.4408;0.4465;0.4522;0.4658;0.4715;0.4772;0.4829;0.4886;0.5023;0.5080;0.5137;0.5194;0.5330;0.5387;0.5444;0.5501;0.5558;0.5615;0.5672;0.5729;0.5786;0.5843;0.5979;0.6036;0.6093;0.6150;0.6207;0.6264;0.6401;0.6458;0.6515;0.6572;0.6708;0.6765;0.6822;0.6879;0.6936;0.7073;0.7130;0.7187;0.7244;0.7301;0.7437;0.7494;0.7551;0.7608;0.7665;0.7722;0.7779;0.7836;0.7972;0.8030;0.8087;0.8223;0.8280;0.8337;0.8394;0.8451;0.8508;0.8565;0.8701;0.8759;0.8815;0.8952;0.9009;0.9100;0.9157;0.9248;0.9305;0.9396;0.9453;0.9544;0.9601;0.9692;0.9749;0.9806;0.9943;1.0000"
+      dur="43.90s"
       repeatCount="indefinite"
       calcMode="linear"
     />
@@ -1956,9 +1986,9 @@
       <animateTransform 
         attributeName="transform" 
         type="scale"
-        values="1 1;1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;-1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1"
-        keyTimes="0.0000;0.0048;0.0097;0.0145;0.0193;0.0242;0.0357;0.0406;0.0454;0.0502;0.0551;0.0599;0.0647;0.0696;0.0744;0.0792;0.0841;0.0889;0.0937;0.1053;0.1101;0.1150;0.1198;0.1246;0.1295;0.1343;0.1459;0.1507;0.1556;0.1604;0.1652;0.1700;0.1749;0.1797;0.1845;0.1894;0.1942;0.1990;0.2039;0.2087;0.2135;0.2184;0.2232;0.2280;0.2396;0.2444;0.2493;0.2541;0.2657;0.2705;0.2754;0.2802;0.2850;0.2899;0.3014;0.3063;0.3111;0.3159;0.3208;0.3256;0.3372;0.3420;0.3469;0.3584;0.3633;0.3681;0.3729;0.3778;0.3826;0.3942;0.3990;0.4039;0.4087;0.4203;0.4251;0.4300;0.4348;0.4396;0.4444;0.4493;0.4541;0.4589;0.4638;0.4686;0.4734;0.4850;0.4899;0.4947;0.4995;0.5043;0.5159;0.5208;0.5256;0.5304;0.5353;0.5401;0.5449;0.5498;0.5546;0.5594;0.5710;0.5758;0.5807;0.5855;0.5903;0.6019;0.6068;0.6116;0.6164;0.6213;0.6261;0.6377;0.6425;0.6473;0.6522;0.6570;0.6618;0.6667;0.6715;0.6763;0.6812;0.6860;0.6976;0.7024;0.7072;0.7121;0.7169;0.7217;0.7266;0.7381;0.7430;0.7478;0.7527;0.7575;0.7623;0.7739;0.7787;0.7836;0.7884;0.8000;0.8048;0.8097;0.8145;0.8193;0.8309;0.8357;0.8473;0.8522;0.8570;0.8618;0.8667;0.8782;0.8831;0.8879;0.8928;0.8976;0.9024;0.9140;0.9188;0.9237;0.9314;0.9362;0.9439;0.9488;0.9565;0.9614;0.9691;0.9739;0.9787;0.9836;0.9951;1.0000"
-        dur="51.75s"
+        values="1 1;1 1;1 1;1 1;1 1;-1 1;-1 1;-1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1"
+        keyTimes="0.0000;0.0057;0.0114;0.0250;0.0308;0.0364;0.0501;0.0558;0.0615;0.0672;0.0729;0.0786;0.0843;0.0979;0.1036;0.1093;0.1150;0.1207;0.1344;0.1401;0.1458;0.1515;0.1572;0.1708;0.1765;0.1822;0.1879;0.1936;0.1993;0.2130;0.2187;0.2244;0.2301;0.2437;0.2494;0.2551;0.2608;0.2665;0.2722;0.2779;0.2836;0.2893;0.3029;0.3087;0.3144;0.3200;0.3257;0.3314;0.3371;0.3508;0.3565;0.3622;0.3679;0.3736;0.3793;0.3850;0.3986;0.4043;0.4100;0.4237;0.4294;0.4351;0.4408;0.4465;0.4522;0.4658;0.4715;0.4772;0.4829;0.4886;0.5023;0.5080;0.5137;0.5194;0.5330;0.5387;0.5444;0.5501;0.5558;0.5615;0.5672;0.5729;0.5786;0.5843;0.5979;0.6036;0.6093;0.6150;0.6207;0.6264;0.6401;0.6458;0.6515;0.6572;0.6708;0.6765;0.6822;0.6879;0.6936;0.7073;0.7130;0.7187;0.7244;0.7301;0.7437;0.7494;0.7551;0.7608;0.7665;0.7722;0.7779;0.7836;0.7972;0.8030;0.8087;0.8223;0.8280;0.8337;0.8394;0.8451;0.8508;0.8565;0.8701;0.8759;0.8815;0.8952;0.9009;0.9100;0.9157;0.9248;0.9305;0.9396;0.9453;0.9544;0.9601;0.9692;0.9749;0.9806;0.9943;1.0000"
+        dur="43.90s"
         repeatCount="indefinite"
         calcMode="discrete"
       />
