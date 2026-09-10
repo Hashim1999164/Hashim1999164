@@ -274,6 +274,41 @@
   <rect x="1304" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1330" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1356" y="138" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.0110" dur="0.85s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-52-4">
+      <!-- Ghost body -->
+      <path d="
+        M 1357.1 149
+        Q 1357.1 139.1 1367 139.1
+        Q 1376.9 139.1 1376.9 149
+        L 1376.9 156.92
+        Q 1373.93 153.95 1371.95 156.92
+        Q 1369.475 159.89 1367 156.92
+        Q 1364.525 153.95 1362.05 156.92
+        Q 1360.07 159.89 1357.1 156.92
+        Z
+      " fill="#ff0000">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 1357.1 149 Q 1357.1 139.1 1367 139.1 Q 1376.9 139.1 1376.9 149 L 1376.9 156.92 Q 1373.93 153.95 1371.95 156.92 Q 1369.475 159.89 1367 156.92 Q 1364.525 153.95 1362.05 156.92 Q 1360.07 159.89 1357.1 156.92 Z;
+          M 1357.1 149 Q 1357.1 139.1 1367 139.1 Q 1376.9 139.1 1376.9 149 L 1376.9 156.92 Q 1373.93 159.89 1371.95 156.92 Q 1369.475 153.95 1367 156.92 Q 1364.525 159.89 1362.05 156.92 Q 1360.07 153.95 1357.1 156.92 Z;
+          M 1357.1 149 Q 1357.1 139.1 1367 139.1 Q 1376.9 139.1 1376.9 149 L 1376.9 156.92 Q 1373.93 153.95 1371.95 156.92 Q 1369.475 159.89 1367 156.92 Q 1364.525 153.95 1362.05 156.92 Q 1360.07 159.89 1357.1 156.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="1363.535" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="1370.465" cy="148.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="1363.9805000000001" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1362.7925;1364.2775000000001;1362.7925"/>
+      </circle>
+      <circle cx="1370.9105" cy="148.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1369.7224999999999;1371.2075;1369.7224999999999"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="4" y="164" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="30" y="164" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="56" y="164" width="22" height="22" rx="2" fill="#9be9a8"/>
@@ -327,41 +362,6 @@
   <rect x="1304" y="164" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1330" y="164" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1356" y="164" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.0110" dur="0.85s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-52-5">
-      <!-- Ghost body -->
-      <path d="
-        M 1357.1 175
-        Q 1357.1 165.1 1367 165.1
-        Q 1376.9 165.1 1376.9 175
-        L 1376.9 182.92
-        Q 1373.93 179.95 1371.95 182.92
-        Q 1369.475 185.89 1367 182.92
-        Q 1364.525 179.95 1362.05 182.92
-        Q 1360.07 185.89 1357.1 182.92
-        Z
-      " fill="#ff0000">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 1357.1 175 Q 1357.1 165.1 1367 165.1 Q 1376.9 165.1 1376.9 175 L 1376.9 182.92 Q 1373.93 179.95 1371.95 182.92 Q 1369.475 185.89 1367 182.92 Q 1364.525 179.95 1362.05 182.92 Q 1360.07 185.89 1357.1 182.92 Z;
-          M 1357.1 175 Q 1357.1 165.1 1367 165.1 Q 1376.9 165.1 1376.9 175 L 1376.9 182.92 Q 1373.93 185.89 1371.95 182.92 Q 1369.475 179.95 1367 182.92 Q 1364.525 185.89 1362.05 182.92 Q 1360.07 179.95 1357.1 182.92 Z;
-          M 1357.1 175 Q 1357.1 165.1 1367 165.1 Q 1376.9 165.1 1376.9 175 L 1376.9 182.92 Q 1373.93 179.95 1371.95 182.92 Q 1369.475 185.89 1367 182.92 Q 1364.525 179.95 1362.05 182.92 Q 1360.07 185.89 1357.1 182.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="1363.535" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="1370.465" cy="174.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="1363.9805000000001" cy="174.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1362.7925;1364.2775000000001;1362.7925"/>
-      </circle>
-      <circle cx="1370.9105" cy="174.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1369.7224999999999;1371.2075;1369.7224999999999"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="4" y="190" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="30" y="190" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="56" y="190" width="22" height="22" rx="2" fill="#9be9a8"/>
@@ -417,7 +417,7 @@
   <rect x="1356" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
 
   <!-- Battle 1 -->
-  <g transform="translate(1367, 175)">
+  <g transform="translate(1367, 149)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-135)">
@@ -446,7 +446,7 @@
     <animateTransform 
       attributeName="transform" 
       type="translate"
-      values="1367.0 201.0;1367.0 201.0;1367.0 201.0;1367.0 175.0"
+      values="1367.0 175.0;1367.0 175.0;1367.0 175.0;1367.0 149.0"
       keyTimes="0.0000;0.7047;0.7059;1.0000"
       dur="0.85s"
       repeatCount="indefinite"
