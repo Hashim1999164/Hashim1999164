@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hashim Khan&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 26080, Total PRs: 438, Total Issues: 2, Contributed to (last year): 341</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 26079, Total PRs: 438, Total Issues: 2, Contributed to (last year): 341</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 133.05645074283984;
+        stroke-dashoffset: 133.0564507432493;
       }
     }
   
