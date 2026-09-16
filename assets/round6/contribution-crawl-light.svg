@@ -220,7 +220,7 @@
   <rect x="1278" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1304" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1330" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
-  <rect x="1356" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="1356" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="4" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="30" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="56" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
@@ -380,7 +380,7 @@
   <rect x="1304" y="190" width="22" height="22" rx="2" fill="#40c463"/>
   <rect x="1330" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.4688" dur="1.60s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.2273" dur="1.10s" repeatCount="indefinite" calcMode="discrete"/>
     
     <g id="ghost-51-6">
       <!-- Ghost body -->
@@ -433,8 +433,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.4688;0.6875"
-          dur="1.60s" 
+          keyTimes="0;0.2273;0.5455"
+          dur="1.10s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -446,9 +446,9 @@
     <animateTransform 
       attributeName="transform" 
       type="translate"
-      values="1367.0 123.0;1367.0 149.0;1367.0 175.0;1367.0 201.0;1367.0 201.0;1367.0 201.0;1341.0 201.0"
-      keyTimes="0.0000;0.1563;0.3125;0.4688;0.8431;0.8438;1.0000"
-      dur="1.60s"
+      values="1367.0 175.0;1367.0 201.0;1367.0 201.0;1367.0 201.0;1341.0 201.0"
+      keyTimes="0.0000;0.2273;0.7718;0.7727;1.0000"
+      dur="1.10s"
       repeatCount="indefinite"
       calcMode="linear"
     />
@@ -456,9 +456,9 @@
       <animateTransform 
         attributeName="transform" 
         type="scale"
-        values="1 1;1 1;1 1;1 1;-1 1;-1 1;-1 1"
-        keyTimes="0.0000;0.1563;0.3125;0.4688;0.8431;0.8438;1.0000"
-        dur="1.60s"
+        values="1 1;1 1;-1 1;-1 1;-1 1"
+        keyTimes="0.0000;0.2273;0.7718;0.7727;1.0000"
+        dur="1.10s"
         repeatCount="indefinite"
         calcMode="discrete"
       />
