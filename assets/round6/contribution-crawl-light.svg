@@ -114,41 +114,6 @@
   <rect x="1278" y="60" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1304" y="60" width="22" height="22" rx="2" fill="#40c463"/>
   <rect x="1330" y="60" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.7848" dur="3.95s" repeatCount="indefinite" calcMode="discrete"/>
-    
-    <g id="ghost-51-1">
-      <!-- Ghost body -->
-      <path d="
-        M 1331.1 71
-        Q 1331.1 61.1 1341 61.1
-        Q 1350.9 61.1 1350.9 71
-        L 1350.9 78.92
-        Q 1347.93 75.95 1345.95 78.92
-        Q 1343.475 81.89 1341 78.92
-        Q 1338.525 75.95 1336.05 78.92
-        Q 1334.07 81.89 1331.1 78.92
-        Z
-      " fill="#ff0000">
-        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
-          M 1331.1 71 Q 1331.1 61.1 1341 61.1 Q 1350.9 61.1 1350.9 71 L 1350.9 78.92 Q 1347.93 75.95 1345.95 78.92 Q 1343.475 81.89 1341 78.92 Q 1338.525 75.95 1336.05 78.92 Q 1334.07 81.89 1331.1 78.92 Z;
-          M 1331.1 71 Q 1331.1 61.1 1341 61.1 Q 1350.9 61.1 1350.9 71 L 1350.9 78.92 Q 1347.93 81.89 1345.95 78.92 Q 1343.475 75.95 1341 78.92 Q 1338.525 81.89 1336.05 78.92 Q 1334.07 75.95 1331.1 78.92 Z;
-          M 1331.1 71 Q 1331.1 61.1 1341 61.1 Q 1350.9 61.1 1350.9 71 L 1350.9 78.92 Q 1347.93 75.95 1345.95 78.92 Q 1343.475 81.89 1341 78.92 Q 1338.525 75.95 1336.05 78.92 Q 1334.07 81.89 1331.1 78.92 Z
-        "/>
-      </path>
-      <!-- Eyes -->
-      <ellipse cx="1337.535" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <ellipse cx="1344.465" cy="70.01" rx="2.97" ry="3.564" fill="white"/>
-      <!-- Pupils -->
-      <circle cx="1337.9805000000001" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1336.7925;1338.2775000000001;1336.7925"/>
-      </circle>
-      <circle cx="1344.9105" cy="70.505" r="1.485" fill="#2020ff">
-        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1343.7224999999999;1345.2075;1343.7224999999999"/>
-      </circle>
-    </g>
-  
-  </g>
   <rect x="1356" y="60" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="4" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="30" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
@@ -202,7 +167,7 @@
   <rect x="1278" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1304" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1330" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
-  <rect x="1356" y="86" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <rect x="1356" y="86" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="4" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="30" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="56" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
@@ -256,6 +221,41 @@
   <rect x="1304" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1330" y="112" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="1356" y="112" width="22" height="22" rx="2" fill="#ebedf0"/>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.7536" dur="3.45s" repeatCount="indefinite" calcMode="discrete"/>
+    
+    <g id="ghost-52-3">
+      <!-- Ghost body -->
+      <path d="
+        M 1357.1 123
+        Q 1357.1 113.1 1367 113.1
+        Q 1376.9 113.1 1376.9 123
+        L 1376.9 130.92
+        Q 1373.93 127.94999999999999 1371.95 130.92
+        Q 1369.475 133.89 1367 130.92
+        Q 1364.525 127.94999999999999 1362.05 130.92
+        Q 1360.07 133.89 1357.1 130.92
+        Z
+      " fill="#ff0000">
+        <animate attributeName="d" dur="0.3s" repeatCount="indefinite" values="
+          M 1357.1 123 Q 1357.1 113.1 1367 113.1 Q 1376.9 113.1 1376.9 123 L 1376.9 130.92 Q 1373.93 127.94999999999999 1371.95 130.92 Q 1369.475 133.89 1367 130.92 Q 1364.525 127.94999999999999 1362.05 130.92 Q 1360.07 133.89 1357.1 130.92 Z;
+          M 1357.1 123 Q 1357.1 113.1 1367 113.1 Q 1376.9 113.1 1376.9 123 L 1376.9 130.92 Q 1373.93 133.89 1371.95 130.92 Q 1369.475 127.94999999999999 1367 130.92 Q 1364.525 133.89 1362.05 130.92 Q 1360.07 127.94999999999999 1357.1 130.92 Z;
+          M 1357.1 123 Q 1357.1 113.1 1367 113.1 Q 1376.9 113.1 1376.9 123 L 1376.9 130.92 Q 1373.93 127.94999999999999 1371.95 130.92 Q 1369.475 133.89 1367 130.92 Q 1364.525 127.94999999999999 1362.05 130.92 Q 1360.07 133.89 1357.1 130.92 Z
+        "/>
+      </path>
+      <!-- Eyes -->
+      <ellipse cx="1363.535" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
+      <ellipse cx="1370.465" cy="122.01" rx="2.97" ry="3.564" fill="white"/>
+      <!-- Pupils -->
+      <circle cx="1363.9805000000001" cy="122.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1362.7925;1364.2775000000001;1362.7925"/>
+      </circle>
+      <circle cx="1370.9105" cy="122.505" r="1.485" fill="#2020ff">
+        <animate attributeName="cx" dur="2s" repeatCount="indefinite" values="1369.7224999999999;1371.2075;1369.7224999999999"/>
+      </circle>
+    </g>
+  
+  </g>
   <rect x="4" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="30" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
   <rect x="56" y="138" width="22" height="22" rx="2" fill="#9be9a8"/>
@@ -414,7 +414,7 @@
   <rect x="1278" y="190" width="22" height="22" rx="2" fill="#40c463"/>
   <rect x="1304" y="190" width="22" height="22" rx="2" fill="#ebedf0"/>
   <g opacity="0">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.1266" dur="3.95s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.0010;0.2174" dur="3.45s" repeatCount="indefinite" calcMode="discrete"/>
     
     <g id="ghost-50-6">
       <!-- Ghost body -->
@@ -468,8 +468,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.1266;0.2152"
-          dur="3.95s" 
+          keyTimes="0;0.2174;0.3188"
+          dur="3.45s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -477,7 +477,7 @@
   
   </g>
   <!-- Battle 2 -->
-  <g transform="translate(1341, 71)">
+  <g transform="translate(1367, 123)">
     
     <!-- Pixel art slash animation -->
     <g transform="rotate(-135)">
@@ -493,8 +493,8 @@
       >
         <animate attributeName="opacity" 
           values="0;1;0" 
-          keyTimes="0;0.7848;0.8734"
-          dur="3.95s" 
+          keyTimes="0;0.7536;0.8551"
+          dur="3.45s" 
           repeatCount="indefinite"
           calcMode="discrete"/>
       </image>
@@ -506,9 +506,9 @@
     <animateTransform 
       attributeName="transform" 
       type="translate"
-      values="1367.0 175.0;1367.0 201.0;1341.0 201.0;1341.0 201.0;1341.0 201.0;1315.0 201.0;1341.0 201.0;1367.0 201.0;1367.0 175.0;1367.0 149.0;1367.0 123.0;1367.0 97.0;1341.0 97.0;1341.0 97.0;1341.0 97.0;1341.0 71.0"
-      keyTimes="0.0000;0.0633;0.1266;0.2782;0.2785;0.3418;0.4051;0.4684;0.5316;0.5949;0.6582;0.7215;0.7848;0.9365;0.9367;1.0000"
-      dur="3.95s"
+      values="1367.0 149.0;1367.0 175.0;1367.0 201.0;1341.0 201.0;1341.0 201.0;1341.0 201.0;1315.0 201.0;1341.0 201.0;1367.0 201.0;1367.0 175.0;1367.0 149.0;1367.0 149.0;1367.0 149.0;1367.0 123.0"
+      keyTimes="0.0000;0.0725;0.1449;0.2174;0.3910;0.3913;0.4638;0.5362;0.6087;0.6812;0.7536;0.9272;0.9275;1.0000"
+      dur="3.45s"
       repeatCount="indefinite"
       calcMode="linear"
     />
@@ -516,9 +516,9 @@
       <animateTransform 
         attributeName="transform" 
         type="scale"
-        values="1 1;1 1;-1 1;-1 1;-1 1;-1 1;1 1;1 1;1 1;1 1;1 1;1 1;-1 1;-1 1;-1 1;-1 1"
-        keyTimes="0.0000;0.0633;0.1266;0.2782;0.2785;0.3418;0.4051;0.4684;0.5316;0.5949;0.6582;0.7215;0.7848;0.9365;0.9367;1.0000"
-        dur="3.95s"
+        values="1 1;1 1;1 1;-1 1;-1 1;-1 1;-1 1;1 1;1 1;1 1;1 1;1 1;1 1;1 1"
+        keyTimes="0.0000;0.0725;0.1449;0.2174;0.3910;0.3913;0.4638;0.5362;0.6087;0.6812;0.7536;0.9272;0.9275;1.0000"
+        dur="3.45s"
         repeatCount="indefinite"
         calcMode="discrete"
       />
