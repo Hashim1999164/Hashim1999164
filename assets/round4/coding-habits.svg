@@ -20,11 +20,11 @@
       <text x="564" y="258" text-anchor="middle" font-size="10.5" fill="#8b949e">Mon</text>
 <rect x="595" y="200" width="24" height="36" rx="4" fill="#39d353" opacity="0.48"/>
       <text x="607" y="258" text-anchor="middle" font-size="10.5" fill="#8b949e">Tue</text>
-<rect x="638" y="197" width="24" height="39" rx="4" fill="#39d353" opacity="0.48"/>
+<rect x="638" y="196" width="24" height="40" rx="4" fill="#39d353" opacity="0.48"/>
       <text x="650" y="258" text-anchor="middle" font-size="10.5" fill="#8b949e">Wed</text>
 <rect x="681" y="204" width="24" height="32" rx="4" fill="#39d353" opacity="0.48"/>
       <text x="693" y="258" text-anchor="middle" font-size="10.5" fill="#8b949e">Thu</text>
-<rect x="724" y="197" width="24" height="39" rx="4" fill="#39d353" opacity="0.48"/>
+<rect x="724" y="198" width="24" height="38" rx="4" fill="#39d353" opacity="0.48"/>
       <text x="736" y="258" text-anchor="middle" font-size="10.5" fill="#8b949e">Fri</text>
 <rect x="767" y="200" width="24" height="36" rx="4" fill="#39d353" opacity="0.48"/>
       <text x="779" y="258" text-anchor="middle" font-size="10.5" fill="#8b949e">Sat</text>
