@@ -1800,6 +1800,7 @@
   <rect class="c51_5" x="730" y="96" width="11" height="11" rx="2.5" fill="#0f2f56"/>
   <rect class="c51_6" x="730" y="110" width="11" height="11" rx="2.5" fill="#0f2f56"/>
   <rect class="c52_0" x="744" y="26" width="11" height="11" rx="2.5" fill="#161b22"/>
+  <rect class="c52_1" x="744" y="40" width="11" height="11" rx="2.5" fill="#161b22"/>
   <text class="lab" x="30" y="14">nov</text>
   <text class="lab" x="100" y="14">dec</text>
   <text class="lab" x="156" y="14">jan</text>
