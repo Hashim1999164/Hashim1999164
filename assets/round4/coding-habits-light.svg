@@ -26,9 +26,9 @@
       <text x="693" y="258" text-anchor="middle" font-size="10.5" fill="#656d76">Thu</text>
 <rect x="724" y="195" width="24" height="41" rx="4" fill="#1a7f37" opacity="0.48"/>
       <text x="736" y="258" text-anchor="middle" font-size="10.5" fill="#656d76">Fri</text>
-<rect x="767" y="161" width="24" height="75" rx="4" fill="#1a7f37" opacity="0.48"/>
+<rect x="767" y="162" width="24" height="74" rx="4" fill="#1a7f37" opacity="0.48"/>
       <text x="779" y="258" text-anchor="middle" font-size="10.5" fill="#656d76">Sat</text>
-<rect x="810" y="180" width="24" height="56" rx="4" fill="#1a7f37" opacity="0.48"/>
+<rect x="810" y="179" width="24" height="57" rx="4" fill="#1a7f37" opacity="0.48"/>
       <text x="822" y="258" text-anchor="middle" font-size="10.5" fill="#656d76">Sun</text>
 
 </svg>
